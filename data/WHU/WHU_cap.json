@@ -1,0 +1,5520 @@
+{
+ "Polygon": [
+  {
+   "104107998": {
+    "name": "测绘学院(4号教学楼)",
+    "area": "2051m2",
+    "fclass": "building university",
+    "center": [
+     114.3569,
+     30.52837
+    ],
+    "bbox": [
+     [
+      114.35642,
+      30.52818
+     ],
+     [
+      114.35723,
+      30.52875
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.回归路 residential",
+    "image_caption": "A rectangular building with light-colored walls and evenly spaced windows features a flat dark roof with utility structures. The building is situated among trees and pathways, with a domed building adjacent to its left and a parking area in the foreground.",
+    "3D Spatial": "",
+    "height": "25.9 m"
+   }
+  },
+  {
+   "104108001": {
+    "name": "武汉大学图书馆(信息分馆)",
+    "area": "3084m2",
+    "fclass": "building ",
+    "center": [
+     114.35566,
+     30.53143
+    ],
+    "bbox": [
+     [
+      114.35519,
+      30.53127
+     ],
+     [
+      114.35614,
+      30.5316
+     ]
+    ],
+    "Landmark": "POINT: 1.金通尹半身像 artwork 18.0  2.武汉大学信息学部凉亭 shelter 16.0",
+    "image_caption": "The rectangular building features a light gray facade with vertical window panels and a flat roof containing HVAC units and a grid-like pattern of structural beams. Dense trees surround the building, which is situated between a sports complex with a running track and multiple courts on one side, and several multi-story residential buildings on the other. The setting is urban with abundant greenery, including a tree-lined road adjacent to the structure.",
+    "3D Spatial": "1. 539831833 Southwest 46 m",
+    "height": "35.2 m"
+   }
+  },
+  {
+   "104108003": {
+    "name": "双泽楼",
+    "area": "1192m2",
+    "fclass": "building ",
+    "center": [
+     114.35623,
+     30.52718
+    ],
+    "bbox": [
+     [
+      114.3559,
+      30.52708
+     ],
+     [
+      114.35652,
+      30.52728
+     ]
+    ],
+    "Landmark": "POINT: 1.南极石 memorial 11.0  2.武汉大学先进技术研究院 college 21.0",
+    "image_caption": "A long rectangular building with a bright blue corrugated roof stands alongside a road, with parked cars and trees on its left side and adjacent buildings to its right. A larger building and busy intersection are visible in the background.",
+    "3D Spatial": "",
+    "height": "12.6 m"
+   }
+  },
+  {
+   "104108008": {
+    "name": "大学生活动中心",
+    "area": "2593m2",
+    "fclass": "building university",
+    "center": [
+     114.35688,
+     30.5294
+    ],
+    "bbox": [
+     [
+      114.35656,
+      30.52921
+     ],
+     [
+      114.35721,
+      30.52959
+     ]
+    ],
+    "Landmark": "POINT: 1.羽毛球场 pitch 31.0",
+    "image_caption": "The building is a large, rectangular structure with a light gray facade featuring vertical ridges and evenly spaced windows. Its flat, dark roof is dotted with small skylights. The building is situated adjacent to a sports complex that includes a soccer field with running track, basketball courts, and tennis courts. Tree-lined paths separate the building from the athletic facilities, with additional structures and dense vegetation visible in the background.",
+    "3D Spatial": "",
+    "height": "27.2 m"
+   }
+  },
+  {
+   "104108011": {
+    "name": "资源与环境科学学院（7号教学楼）",
+    "area": "2174m2",
+    "fclass": "building college",
+    "center": [
+     114.35457,
+     30.52783
+    ],
+    "bbox": [
+     [
+      114.35418,
+      30.52763
+     ],
+     [
+      114.35499,
+      30.52822
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是二路 residential\nPOINT: 1.遥感院门口的小亭子 shelter 17.0",
+    "image_caption": "A rectangular building with a flat black roof and beige/light gray exterior features a grid of windows with air conditioning units on each floor. The structure has utility installations and pipes on its roof, along with a sign displaying gold lettering. It stands adjacent to a taller building on the left, separated by a narrow alley, while another building with a red roof lies to the right. A road with blue bollards runs in front of the building, which includes a glass entrance canopy. The surrounding area consists of tree-lined streets within a dense urban setting.",
+    "3D Spatial": "1. 1037280644 Northeast 30 m",
+    "height": "24.7 m"
+   }
+  },
+  {
+   "104218566": {
+    "name": "地球空间环境与大地测量研究室",
+    "area": "722m2",
+    "fclass": "building university",
+    "center": [
+     114.35156,
+     30.52945
+    ],
+    "bbox": [
+     [
+      114.35129,
+      30.52938
+     ],
+     [
+      114.35182,
+      30.52953
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉大学宇航学院 college 15.0",
+    "image_caption": "The building is rectangular with a flat, weathered roof displaying a grid-like pattern and discoloration. Its light gray facade features evenly spaced windows along the upper portion. The structure is positioned adjacent to a road with parked cars and is surrounded by other multi-story buildings, with trees and vegetation interspersed throughout the urban landscape. A larger building complex stands parallel to it, while the surrounding area includes parking spaces and forms part of a dense cityscape.",
+    "3D Spatial": "1.武汉大学宇航研究院 1037024049 East 45 m  1. 104218611 North 33 m",
+    "height": "50.5 m"
+   }
+  },
+  {
+   "104218567": {
+    "name": "学生宿舍15、16栋",
+    "area": "1566m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35203,
+     30.53089
+    ],
+    "bbox": [
+     [
+      114.35182,
+      30.53065
+     ],
+     [
+      114.35227,
+      30.53115
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential\nPOINT: 1.申通快递 post_box 19.0  2.武汉大学医院信息学部分院 hospital 27.0",
+    "image_caption": "The building is a large multi-story structure with a flat roof and a grid pattern of windows across its facade. The rooftop features utility structures including cylindrical water tanks and ventilation units. The building is situated in an urban environment, with sports facilities including basketball courts adjacent to it. Trees line the perimeter of the sports area, and the surrounding landscape consists of other residential buildings connected by roads and pathways, creating a mixed-use urban setting with recreational spaces.",
+    "3D Spatial": "1. 104218598 South 49 m",
+    "height": "30.7 m"
+   }
+  },
+  {
+   "104218575": {
+    "name": "信息学部文体中心",
+    "area": "1860m2",
+    "fclass": "building ",
+    "center": [
+     114.35134,
+     30.53051
+    ],
+    "bbox": [
+     [
+      114.35114,
+      30.53027
+     ],
+     [
+      114.35154,
+      30.53074
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The building is rectangular with a large gray metal roof featuring a ribbed pattern. The upper portion includes a distinct raised section. It is situated in a dense urban area, surrounded by multi-story residential buildings and trees. A sports court lies adjacent to the building, with roads connecting the structures. The surrounding landscape combines built structures with interspersed vegetation, and an open field is visible in the background.",
+    "3D Spatial": "",
+    "height": "17.3 m"
+   }
+  },
+  {
+   "104218598": {
+    "name": null,
+    "area": "285m2",
+    "fclass": "building ",
+    "center": [
+     114.35198,
+     30.53045
+    ],
+    "bbox": [
+     [
+      114.35189,
+      30.53031
+     ],
+     [
+      114.35206,
+      30.53059
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular building with a flat, dark weathered roof features rooftop planters and greenery. The structure is part of a dense urban complex, bordered by a tree-lined road on one side and adjacent buildings on the other. The surrounding area consists of multi-story rectangular buildings arranged in a grid pattern, with sparse vegetation and paved surfaces throughout.",
+    "3D Spatial": "1. 104218610 South 49 m  1.学生宿舍15、16栋 104218567 North 49 m",
+    "height": "12.7 m"
+   }
+  },
+  {
+   "104218601": {
+    "name": "信息学部20舍",
+    "area": "1120m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.34965,
+     30.52976
+    ],
+    "bbox": [
+     [
+      114.34934,
+      30.52966
+     ],
+     [
+      114.34996,
+      30.52987
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular building with a flat, light gray roof featuring a grid-like pattern of tiles. The structure has a uniform facade with evenly distributed windows. It is situated in a dense urban environment, adjacent to other mid-rise buildings and separated by a narrow courtyard. The surroundings include a sports court, parking areas, and a road, with scattered vegetation throughout the urban landscape.",
+    "3D Spatial": "1.国软C3 104218615 South 38 m",
+    "height": "25.7 m"
+   }
+  },
+  {
+   "104218610": {
+    "name": null,
+    "area": "512m2",
+    "fclass": "building ",
+    "center": [
+     114.352,
+     30.53
+    ],
+    "bbox": [
+     [
+      114.35183,
+      30.52985
+     ],
+     [
+      114.35214,
+      30.53018
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉大学宇航学院 college 40.0",
+    "image_caption": "A rectangular building with a flat, weathered gray roof and simple unadorned roofline stands within a dense urban environment. The structure is surrounded by multi-story buildings and bordered by a tree-lined street. Adjacent buildings are closely packed, with narrow pathways between them, creating a typical urban landscape with limited open space.",
+    "3D Spatial": "1.C7舍 1036561024 South 27 m  1. 104218598 North 49 m",
+    "height": "21.1 m"
+   }
+  },
+  {
+   "104218611": {
+    "name": null,
+    "area": "1556m2",
+    "fclass": "building ",
+    "center": [
+     114.35154,
+     30.52976
+    ],
+    "bbox": [
+     [
+      114.35128,
+      30.5296
+     ],
+     [
+      114.3518,
+      30.52991
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉大学宇航学院 college 21.0",
+    "image_caption": "A rectangular building with a flat, dark gray roof and light-colored walls features distinctive cylindrical structures at its top corners. The building is part of a dense urban environment, surrounded by multi-story structures and positioned along a narrow road with parked cars. The surroundings include a mix of modern buildings, vegetation, and urban infrastructure.",
+    "3D Spatial": "1.地球空间环境与大地测量研究室 104218566 South 33 m  1.国软B4教学楼 1337114126 North 32 m  1.C7舍 1036561024 East 44 m",
+    "height": "25.5 m"
+   }
+  },
+  {
+   "104218615": {
+    "name": "国软C3",
+    "area": "1078m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.34967,
+     30.52941
+    ],
+    "bbox": [
+     [
+      114.34936,
+      30.52932
+     ],
+     [
+      114.34999,
+      30.52951
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The building is rectangular with a light beige/gray facade and a flat, tiled roof featuring a grid-like pattern. It has multiple rows of evenly spaced windows and a small utility structure near the center of the roof. The building is situated in a dense urban environment, with a parking area and cars to its left, another high-rise structure directly adjacent to its right, and a sports court visible in the vicinity. A road runs parallel to the building, and the surrounding area includes a mix of residential complexes and open spaces.",
+    "3D Spatial": "1.信息学部20舍 104218601 North 38 m",
+    "height": "66.3 m"
+   }
+  },
+  {
+   "104219264": {
+    "name": "地球空间环境与大地测量研究室",
+    "area": "376m2",
+    "fclass": "building university",
+    "center": [
+     114.35701,
+     30.53167
+    ],
+    "bbox": [
+     [
+      114.35679,
+      30.53162
+     ],
+     [
+      114.35722,
+      30.53171
+     ]
+    ],
+    "Landmark": "POINT: 1.叶雪安半身像 artwork 36.0  2.夏坚白半身像 artwork 28.0  3.陈永龄半身像 artwork 22.0",
+    "image_caption": "The rectangular building has a flat, dark roof equipped with white cylindrical tanks, satellite dishes, and ventilation units. It is surrounded by dense vegetation and trees, with a larger building and road to the east. Sports facilities, including basketball courts, are located to the north, while pathways weave through the surrounding landscape.",
+    "3D Spatial": "",
+    "height": "7.9 m"
+   }
+  },
+  {
+   "104219268": {
+    "name": "测绘学院-测量仪器陈列馆",
+    "area": "383m2",
+    "fclass": "building ",
+    "center": [
+     114.357,
+     30.53106
+    ],
+    "bbox": [
+     [
+      114.3568,
+      30.53101
+     ],
+     [
+      114.3572,
+      30.53111
+     ]
+    ],
+    "Landmark": "POINT: 1.叶雪安半身像 artwork 22.0  2.夏坚白半身像 artwork 29.0  3.陈永龄半身像 artwork 35.0",
+    "image_caption": "The rectangular building features a flat, dark roof with evenly spaced rooftop units. It is surrounded by dense trees and vegetation, positioned between recreational facilities including tennis and basketball courts to the north and a park with pathways. A road runs parallel to the building, with additional structures visible in the urban landscape.",
+    "3D Spatial": "",
+    "height": "14.3 m"
+   }
+  },
+  {
+   "104219273": {
+    "name": null,
+    "area": "671m2",
+    "fclass": "building ",
+    "center": [
+     114.35772,
+     30.53004
+    ],
+    "bbox": [
+     [
+      114.35743,
+      30.52999
+     ],
+     [
+      114.35802,
+      30.5301
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.回归路 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a white exterior and evenly spaced windows. It features a flat, weathered roof with patches and discolorations. The building is situated between sports courts (basketball and tennis) to the left and a parking area to the right. It is surrounded by trees, smaller structures, and taller residential buildings in the background, creating a mixed urban landscape.",
+    "3D Spatial": "",
+    "height": "21.1 m"
+   }
+  },
+  {
+   "104219274": {
+    "name": "武汉大学信息学部体育馆",
+    "area": "1974m2",
+    "fclass": "building stadium",
+    "center": [
+     114.35679,
+     30.52998
+    ],
+    "bbox": [
+     [
+      114.35662,
+      30.52963
+     ],
+     [
+      114.35697,
+      30.53036
+     ]
+    ],
+    "Landmark": "POINT: 1.羽毛球场 pitch 0.0  2.乒乓球馆 pitch 0.0  3.小超市 supermarket 0.0",
+    "image_caption": "The building is a long, rectangular structure with a sloped red metal roof and brick exterior walls featuring evenly spaced windows. It is situated adjacent to basketball and tennis courts, with a large athletic field and running track nearby. The building is surrounded by trees, with additional structures visible in the background, creating a campus-like recreational area.",
+    "3D Spatial": "",
+    "height": "20.7 m"
+   }
+  },
+  {
+   "104372384": {
+    "name": "学生宿舍11栋",
+    "area": "527m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35267,
+     30.53018
+    ],
+    "bbox": [
+     [
+      114.35243,
+      30.53013
+     ],
+     [
+      114.35292,
+      30.53023
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖路 residential  2.星湖三路 residential\nPOINT: 1.水卡办理处 bank 0.0  2.读者服务部 bookshop 30.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade featuring evenly spaced windows and balconies, some with air conditioning units and hanging laundry. Its flat roof shows wear, with damaged tiles and a water tank. The structure is part of a dense urban area, with a road running parallel to its left side. The surrounding area includes sports courts, tree-lined paths, and similar residential buildings, creating a compact cityscape with integrated green spaces.",
+    "3D Spatial": "1.珞珈糕点 1037696274 Southeast 44 m  1.学生宿舍12栋 104372385 North 31 m",
+    "height": "31.6 m"
+   }
+  },
+  {
+   "104372385": {
+    "name": "学生宿舍12栋",
+    "area": "634m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35269,
+     30.53046
+    ],
+    "bbox": [
+     [
+      114.35243,
+      30.53041
+     ],
+     [
+      114.35294,
+      30.53052
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential  2.星湖二路 residential\nPOINT: 1.水卡办理处 bank 25.0  2.读者服务部 bookshop 24.0  3.理发店 hairdresser 33.0  4.武大测绘社区居委会 community_centre 35.0",
+    "image_caption": "A rectangular, multi-story building with a light gray facade features uniformly spaced windows and a flat roof equipped with mechanical installations, vents, and tanks. The weathered structure is situated in a dense urban environment, bordered by a sports complex with basketball courts on one side and a park area with trees on the other. Surrounding buildings, roads, and patches of greenery complete the urban landscape.",
+    "3D Spatial": "1.澡堂 104372398 East 49 m  1.学生宿舍11栋 104372384 South 31 m  1.学生宿舍13栋 104372406 North 31 m",
+    "height": "31.7 m"
+   }
+  },
+  {
+   "104372387": {
+    "name": "学生宿舍14栋",
+    "area": "709m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35268,
+     30.53104
+    ],
+    "bbox": [
+     [
+      114.35242,
+      30.53097
+     ],
+     [
+      114.35293,
+      30.5311
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential  2.星湖二路 residential\nPOINT: 1.理发店 hairdresser 45.0  2.武大测绘社区居委会 community_centre 38.0  3.申通快递 post_box 32.0  4.武汉大学医院信息学部分院 hospital 38.0",
+    "image_caption": "A rectangular multi-story building with a light-colored facade and evenly spaced windows features a flat roof with square patterns and two cylindrical water tanks at opposite corners. The building has a red trim along the roofline and numerous air conditioning units on its exterior. It is situated in a dense urban area, flanked by residential structures, with a sports complex and basketball courts to the north. Trees line the area, and roads separate the building from neighboring high-rises.",
+    "3D Spatial": "1.学生宿舍13栋 104372406 South 31 m",
+    "height": "28.1 m"
+   }
+  },
+  {
+   "104372393": {
+    "name": "信息学部四食堂",
+    "area": "6310m2",
+    "fclass": "building ",
+    "center": [
+     114.35279,
+     30.52961
+    ],
+    "bbox": [
+     [
+      114.35241,
+      30.52918
+     ],
+     [
+      114.35329,
+      30.53002
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖路 residential  2.星湖三路 residential\nPOINT: 1.中国银行 atm 33.0  2.信息学部清真食堂 restaurant 0.0  3.学生四食堂 restaurant 0.0  4.武汉大学宇航学院 college 42.0  5.碧华轩 shelter 32.0  6.信息学部学生三食堂 restaurant 0.0  7.水卡办理处 bank 19.0  8.读者服务部 bookshop 44.0",
+    "image_caption": "The building is a large rectangular structure with a flat gray roof dotted with evenly spaced fixtures. Its exterior features light-colored walls and vertical windows in the upper portion. The building is centrally positioned within an urban complex, bordered by adjacent structures on its east and west sides. The surroundings include a pond with a decorative bridge to one side, dense vegetation, and access roads. The landscape integrates both urban development and natural elements.",
+    "3D Spatial": "1.珞珈糕点 1037696274 Northeast 39 m",
+    "height": "32.1 m"
+   }
+  },
+  {
+   "104372398": {
+    "name": "澡堂",
+    "area": "289m2",
+    "fclass": "building ",
+    "center": [
+     114.35321,
+     30.53045
+    ],
+    "bbox": [
+     [
+      114.35314,
+      30.53034
+     ],
+     [
+      114.35327,
+      30.53056
+     ]
+    ],
+    "Landmark": "POINT: 1.水卡办理处 bank 31.0  2.读者服务部 bookshop 0.0  3.信息学部学生二食堂 restaurant 41.0  4.理发店 hairdresser 12.0  5.武大测绘社区居委会 community_centre 20.0  6.信息学部学生一食堂 restaurant 47.0",
+    "image_caption": "A rectangular building with a flat roof and gray exterior features multiple cylindrical metal tanks on its rooftop along with various mechanical equipment. The structure is flanked by larger buildings, with a road running parallel to it and tree-lined streets providing natural elements. A mix of urban and green spaces surrounds the building, including a park area with dense vegetation on one side and parking areas on the other.",
+    "3D Spatial": "1. 307265577 North 26 m  1.学生宿舍12栋 104372385 West 49 m",
+    "height": "20.4 m"
+   }
+  },
+  {
+   "104372401": {
+    "name": "学生宿舍4栋",
+    "area": "1181m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35453,
+     30.53106
+    ],
+    "bbox": [
+     [
+      114.35419,
+      30.53098
+     ],
+     [
+      114.35488,
+      30.53114
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖一路 residential\nPOINT: 1.珞珈川味面馆 restaurant 36.0",
+    "image_caption": "A rectangular, multi-story building with a light-colored facade and uniform window grid shows signs of weathering and discoloration. Its flat roof houses utility structures, water tanks, and ventilation systems. The building is situated in a dense urban environment, adjacent to a sports field with a running track. Tree-lined pathways border the structure, and a small lake with a pavilion and zigzag bridge lies in the vicinity, creating a blend of urban and green spaces.",
+    "3D Spatial": "1.学生宿舍3栋 104372405 South 34 m  1.学生宿舍5栋 236801236 North 36 m",
+    "height": "30.3 m"
+   }
+  },
+  {
+   "104372405": {
+    "name": "学生宿舍3栋",
+    "area": "1116m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35454,
+     30.53075
+    ],
+    "bbox": [
+     [
+      114.35419,
+      30.53067
+     ],
+     [
+      114.35489,
+      30.53082
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖一路 residential\nPOINT: 1.九筒冒菜 restaurant 36.0  2.信息学部学生二食堂 restaurant 48.0  3.罗森 convenience 42.0  4.霸王茶姬 cafe 39.0  5.饭团 restaurant 36.0  6.蛋包饭 restaurant 36.0  7.钵钵鸡 restaurant 36.0  8.珞珈川味面馆 restaurant 35.0  9.信息学部学生一食堂 restaurant 48.0",
+    "image_caption": "A rectangular, multi-story building with a white facade and evenly spaced windows shows signs of weathering. Its flat roof features utility structures and a small raised section. The building is situated among other multi-story structures and dense trees, with a sports track and field to one side and a pond with a zigzag bridge and pavilion nearby. A road and interconnected pathways border the building, integrating it into the urban landscape.",
+    "3D Spatial": "1.学生宿舍4栋 104372401 North 34 m",
+    "height": "28.6 m"
+   }
+  },
+  {
+   "104372406": {
+    "name": "学生宿舍13栋",
+    "area": "693m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35267,
+     30.53075
+    ],
+    "bbox": [
+     [
+      114.35241,
+      30.53069
+     ],
+     [
+      114.35293,
+      30.53082
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential  2.星湖二路 residential\nPOINT: 1.读者服务部 bookshop 44.0  2.理发店 hairdresser 30.0  3.武大测绘社区居委会 community_centre 28.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light beige facade and flat roof featuring a red trim. The rooftop contains various installations, including a blue shed-like structure, ventilation units, and white pipes. Windows are uniformly arranged across the facade, with air conditioning units visible beneath them. The building is flanked by a road on one side and sports facilities including basketball courts on the other, with trees lining the perimeter. The surrounding area consists of other multi-story residential buildings and green spaces, forming part of an urban landscape.",
+    "3D Spatial": "1.学生宿舍14栋 104372387 North 31 m  1.学生宿舍12栋 104372385 South 31 m",
+    "height": "29.3 m"
+   }
+  },
+  {
+   "104373462": {
+    "name": "46栋",
+    "area": "343m2",
+    "fclass": "building ",
+    "center": [
+     114.35585,
+     30.53346
+    ],
+    "bbox": [
+     [
+      114.35563,
+      30.53342
+     ],
+     [
+      114.35607,
+      30.5335
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a flat, weathered roof containing scattered debris. Its upper portion features a stepped parapet design with white latticework panels. The building is surrounded by dense vegetation and trees, with a sports complex including a running track to the north. A pathway runs parallel to the building, and it is situated among other residential structures in an urban setting that balances built infrastructure with green spaces.",
+    "3D Spatial": "1.45栋 104373490 East 42 m  1.49栋 104373495 South 33 m  1.48栋 104373469 West 41 m  1.47栋 104373494 West 43 m",
+    "height": "20.6 m"
+   }
+  },
+  {
+   "104373464": {
+    "name": "40栋",
+    "area": "737m2",
+    "fclass": "building ",
+    "center": [
+     114.35567,
+     30.53243
+    ],
+    "bbox": [
+     [
+      114.35534,
+      30.53238
+     ],
+     [
+      114.35599,
+      30.53249
+     ]
+    ],
+    "Landmark": "POINT: 1.双子座甄品汇 supermarket 34.0  2.武汉大学星湖园招待所 hotel 28.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a flat, weathered roof containing utility structures and vents. Its facade shows a mix of light and dark gray tones with signs of wear. Dense vegetation surrounds the building, particularly with trees lining one side. A road separates it from an adjacent building with a blue roof, while other residential structures and greenery create a compact urban environment around it.",
+    "3D Spatial": "1.老年活动中心 104450163 North 29 m",
+    "height": "19.0 m"
+   }
+  },
+  {
+   "104373466": {
+    "name": "41栋",
+    "area": "581m2",
+    "fclass": "building ",
+    "center": [
+     114.35639,
+     30.53273
+    ],
+    "bbox": [
+     [
+      114.35614,
+      30.53267
+     ],
+     [
+      114.35665,
+      30.53278
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a light-colored facade and flat, dark roof. Its exterior features a series of balconies with metal railings, and shows signs of wear with patches of peeling paint. The roof contains ventilation units and scattered debris, with a distinctive grid-like pattern on its upper facade. The structure is situated among similar residential buildings, with dense vegetation and trees to the south. A sports complex with a running track lies to the north/east, and a road network connects the surrounding urban area.",
+    "3D Spatial": "1.青年楼 104373475 South 41 m  1.42栋 104373491 North 26 m",
+    "height": "15.7 m"
+   }
+  },
+  {
+   "104373469": {
+    "name": "48栋",
+    "area": "319m2",
+    "fclass": "building ",
+    "center": [
+     114.35545,
+     30.53331
+    ],
+    "bbox": [
+     [
+      114.35524,
+      30.53327
+     ],
+     [
+      114.35565,
+      30.53335
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential",
+    "image_caption": "A rectangular, multi-story building with a beige facade features balconies with metal railings and various window styles. The flat roof contains scattered debris and equipment. The building is centrally positioned among similar residential structures, bordered by trees and roads. Notable landmarks include a large building with a blue roof nearby and a sports field with a running track to the north. The surrounding area combines residential buildings, roads, and green spaces in an urban setting.",
+    "3D Spatial": "1.46栋 104373462 East 41 m  1.49栋 104373495 East 43 m  1.47栋 104373494 North 32 m",
+    "height": "19.2 m"
+   }
+  },
+  {
+   "104373471": {
+    "name": "44栋",
+    "area": "178m2",
+    "fclass": "building ",
+    "center": [
+     114.35659,
+     30.53325
+    ],
+    "bbox": [
+     [
+      114.35648,
+      30.53321
+     ],
+     [
+      114.35671,
+      30.53329
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A multi-story building with a beige facade and flat roof features a central vertical strip of white latticework, multiple balconies, and rooftop utilities including solar panels and air conditioning units. The building is centrally positioned among similar residential structures, with a road alongside it and trees providing greenery. In the background, a sports complex with a green field and red running track is visible.",
+    "3D Spatial": "1.45栋 104373490 West 33 m  1.43栋 104373485 East 31 m  1.42栋 104373491 Southwest 37 m",
+    "height": "22.2 m"
+   }
+  },
+  {
+   "104373475": {
+    "name": "青年楼",
+    "area": "1016m2",
+    "fclass": "building ",
+    "center": [
+     114.35639,
+     30.53235
+    ],
+    "bbox": [
+     [
+      114.35607,
+      30.53226
+     ],
+     [
+      114.35663,
+      30.5325
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是一路 residential  2.玉兰路 residential  3.求是大道 residential",
+    "image_caption": "The rectangular building features a flat, weathered roof with scattered debris and utility installations, including pipes and a water tank. It is surrounded by multi-story residential structures and dense vegetation, with trees particularly concentrated to the west. A road runs parallel to the building, and the surrounding urban landscape combines residential buildings with patches of greenery.",
+    "3D Spatial": "1.41栋 104373466 North 41 m",
+    "height": "18.5 m"
+   }
+  },
+  {
+   "104373476": {
+    "name": "星湖园招待所",
+    "area": "1590m2",
+    "fclass": "building commercial",
+    "center": [
+     114.35502,
+     30.53239
+    ],
+    "bbox": [
+     [
+      114.35472,
+      30.53225
+     ],
+     [
+      114.3553,
+      30.53257
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是二路 residential  2.物探路 residential  3.求是大道 residential\nPOINT: 1.伊达图文快印 supermarket 16.0  2.水果店 supermarket 43.0  3.双子座甄品汇 supermarket 14.0  4.武汉大学星湖园招待所 hotel 0.0  5.星湖园食堂 restaurant 29.0",
+    "image_caption": "The rectangular building features a flat, textured roof with a mix of light and dark surfaces, equipped with vents, air conditioning units, and a satellite dish. The upper portion has evenly spaced windows and utility installations. It is surrounded by other structures, including a taller building to the left and similar low-rise buildings to the right. A road lined with parked cars runs alongside the building, while dense trees and vegetation provide a natural backdrop to the urban setting.",
+    "3D Spatial": "",
+    "height": "24.5 m"
+   }
+  },
+  {
+   "104373479": {
+    "name": null,
+    "area": "432m2",
+    "fclass": "building ",
+    "center": [
+     114.35692,
+     30.53228
+    ],
+    "bbox": [
+     [
+      114.35676,
+      30.53219
+     ],
+     [
+      114.35707,
+      30.53238
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential  2.求是大道 residential",
+    "image_caption": "The rectangular building features a flat, dark roof with circular fixtures and a light-colored exterior. Its upper portion includes distinctive architectural elements with windows and small towers. The structure is situated between a sports complex with a running track to the south and multi-story buildings to the north. Dense vegetation surrounds the western side, while a road runs along the eastern edge. The area combines urban development with green spaces, featuring trees interspersed throughout the landscape.",
+    "3D Spatial": "",
+    "height": "18.0 m"
+   }
+  },
+  {
+   "104373483": {
+    "name": "星湖园教工食堂",
+    "area": "1839m2",
+    "fclass": "building ",
+    "center": [
+     114.35502,
+     30.53285
+    ],
+    "bbox": [
+     [
+      114.35474,
+      30.53268
+     ],
+     [
+      114.35529,
+      30.53301
+     ]
+    ],
+    "Landmark": "POINT: 1.伊达图文快印 supermarket 19.0  2.水果店 supermarket 13.0  3.武汉大学星湖园招待所 hotel 38.0  4.星湖园食堂 restaurant 0.0  5.自强超市 supermarket 3.0",
+    "image_caption": "A large rectangular building with a bright blue roof and vertical windows stands among residential apartment blocks. The building features rooftop structures including a circular vent. It is situated adjacent to a road lined with trees, with similar buildings to its north and south. The surrounding area includes a sports field with a running track, scattered vegetation, and parked cars along narrow streets, creating a mixed urban landscape.",
+    "3D Spatial": "1.快递存放处（星湖园玻璃房） 1037322791 Northwest 42 m",
+    "height": "22.7 m"
+   }
+  },
+  {
+   "104373484": {
+    "name": "18栋",
+    "area": "612m2",
+    "fclass": "building ",
+    "center": [
+     114.35492,
+     30.53341
+    ],
+    "bbox": [
+     [
+      114.35469,
+      30.53334
+     ],
+     [
+      114.35515,
+      30.53347
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.物探路 residential  2.玉兰路 residential\nPOINT: 1.水果店 supermarket 49.0  2.自强超市 supermarket 34.0",
+    "image_caption": "A rectangular, multi-story residential building with a light gray facade and flat roof. The roof contains various utility installations, debris, and a mix of gray surfaces. The building features multiple balconies with metal railings, and its exterior shows signs of wear. It is situated among similar residential structures, with a narrow road running parallel to its left side. The surroundings include scattered trees, pathways, parked cars, and a sports field with a running track in the background. A building with a blue roof is visible nearby, and dense vegetation borders the area.",
+    "3D Spatial": "1.36栋 104373486 North 39 m  1.快递存放处（星湖园玻璃房） 1037322791 Southwest 30 m",
+    "height": "25.2 m"
+   }
+  },
+  {
+   "104373485": {
+    "name": "43栋",
+    "area": "179m2",
+    "fclass": "building ",
+    "center": [
+     114.3569,
+     30.53314
+    ],
+    "bbox": [
+     [
+      114.3568,
+      30.53309
+     ],
+     [
+      114.357,
+      30.53319
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A multi-story rectangular building with a beige facade features multiple balconies, air conditioning units, and hanging laundry. The flat roof contains solar panels, stone tiles, and a yellow cylindrical object. The building is situated behind a school with sports facilities and is flanked by residential structures, with a road on one side and trees interspersed throughout the area.",
+    "3D Spatial": "1.44栋 104373471 West 31 m  1.57栋 104373493 East 32 m",
+    "height": "21.9 m"
+   }
+  },
+  {
+   "104373486": {
+    "name": "36栋",
+    "area": "468m2",
+    "fclass": "building ",
+    "center": [
+     114.35488,
+     30.53377
+    ],
+    "bbox": [
+     [
+      114.35457,
+      30.53373
+     ],
+     [
+      114.35519,
+      30.5338
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.物探路 residential  2.玉兰路 residential",
+    "image_caption": "A long, rectangular building with a red-tiled roof and evenly spaced chimneys. The light-colored facade features multiple balconies with white railings, where residents display laundry and plants. The building is situated alongside a pathway, with dense vegetation on one side and parked cars on the other. To the north lies a sports complex with a running track and soccer field, while the surrounding area consists of similar residential buildings connected by narrow roads.",
+    "3D Spatial": "1.18栋 104373484 South 39 m",
+    "height": "20.8 m"
+   }
+  },
+  {
+   "104373490": {
+    "name": "45栋",
+    "area": "147m2",
+    "fclass": "building ",
+    "center": [
+     114.35627,
+     30.53335
+    ],
+    "bbox": [
+     [
+      114.35616,
+      30.53332
+     ],
+     [
+      114.35637,
+      30.53339
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential",
+    "image_caption": "A multi-story rectangular building with a flat, dark roof and stepped upper design features balconies and a geometric facade. The structure is part of a dense residential area, bordered by a tree-lined pathway, with a sports court nearby. Adjacent buildings and scattered vegetation create a mixed urban landscape, while the roof contains various equipment and a small solar panel.",
+    "3D Spatial": "1.44栋 104373471 East 33 m  1.42栋 104373491 South 43 m  1.46栋 104373462 West 42 m  1.49栋 104373495 Southwest 44 m",
+    "height": "21.5 m"
+   }
+  },
+  {
+   "104373491": {
+    "name": "42栋",
+    "area": "553m2",
+    "fclass": "building ",
+    "center": [
+     114.35637,
+     30.53297
+    ],
+    "bbox": [
+     [
+      114.35611,
+      30.53291
+     ],
+     [
+      114.35662,
+      30.53302
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential",
+    "image_caption": "The rectangular building features a flat, light gray roof with scattered equipment and ventilation units. Its beige facade includes multiple balconies and red accents along the roofline. The building is centrally positioned among similar residential structures, with dense trees providing natural barriers. To the north lies a sports facility with a running track, while narrow roads and vegetation separate it from neighboring apartment blocks.",
+    "3D Spatial": "1.44栋 104373471 Northeast 37 m  1.41栋 104373466 South 26 m  1.45栋 104373490 North 43 m",
+    "height": "16.8 m"
+   }
+  },
+  {
+   "104373493": {
+    "name": "57栋",
+    "area": "328m2",
+    "fclass": "building ",
+    "center": [
+     114.35723,
+     30.53306
+    ],
+    "bbox": [
+     [
+      114.35708,
+      30.53296
+     ],
+     [
+      114.35737,
+      30.53316
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular multi-story building with a beige facade and horizontal rows of windows shows signs of wear. Its flat rooftop contains solar panels, ventilation units, and various equipment. The building is situated between residential apartments to the left and a sports complex with basketball courts and a track to the right. A road runs adjacent to the building, with trees and greenery interspersed throughout the urban landscape.",
+    "3D Spatial": "1.43栋 104373485 West 32 m",
+    "height": "27.9 m"
+   }
+  },
+  {
+   "104373494": {
+    "name": "47栋",
+    "area": "283m2",
+    "fclass": "building ",
+    "center": [
+     114.35543,
+     30.53361
+    ],
+    "bbox": [
+     [
+      114.35522,
+      30.53357
+     ],
+     [
+      114.35563,
+      30.53364
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a flat, dark roof featuring scattered debris and lighter patches. It has a distinctive stepped pattern along the roof edges and beige facade with red trim. The building is part of a residential complex, with similar structures aligned to its right. It is bordered by tree-lined pathways, with a sports field featuring a running track visible in the vicinity. The surrounding area combines residential buildings, vegetation, and recreational spaces.",
+    "3D Spatial": "1.46栋 104373462 East 43 m  1.48栋 104373469 South 32 m",
+    "height": "19.6 m"
+   }
+  },
+  {
+   "104373495": {
+    "name": "49栋",
+    "area": "378m2",
+    "fclass": "building ",
+    "center": [
+     114.35587,
+     30.53315
+    ],
+    "bbox": [
+     [
+      114.35565,
+      30.53311
+     ],
+     [
+      114.35608,
+      30.5332
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a beige facade and red trim. It features a flat roof with various utility installations and textures, including gravel and waterproofing materials. The building is situated among similar residential structures, surrounded by dense vegetation and trees. A road runs parallel to the building, providing access, while a blue-roofed structure and sports field are visible nearby. The urban landscape combines residential development with substantial greenery.",
+    "3D Spatial": "1.46栋 104373462 North 33 m  1.45栋 104373490 Northeast 44 m  1.48栋 104373469 West 43 m  1. 1037329805 Southwest 29 m",
+    "height": "19.9 m"
+   }
+  },
+  {
+   "104376125": {
+    "name": "青一",
+    "area": "214m2",
+    "fclass": "building ",
+    "center": [
+     114.35171,
+     30.53149
+    ],
+    "bbox": [
+     [
+      114.35161,
+      30.53141
+     ],
+     [
+      114.3518,
+      30.53155
+     ]
+    ],
+    "Landmark": "POINT: 1.申通快递 post_box 42.0  2.武汉大学医院信息学部分院 hospital 40.0",
+    "image_caption": "A rectangular, multi-story building with a light gray facade and evenly spaced windows, some fitted with air conditioning units. The flat roof features scattered debris and tiles with a red trim along the edge. The building is flanked by a sports complex with courts and a field to the left, and similar residential structures to the right. A narrow road runs alongside the building, while trees and dense vegetation provide natural elements within this urban landscape.",
+    "3D Spatial": "1.青二 104376126 Northwest 28 m  1. 104376129 East 42 m",
+    "height": "25.1 m"
+   }
+  },
+  {
+   "104376126": {
+    "name": "青二",
+    "area": "392m2",
+    "fclass": "building ",
+    "center": [
+     114.35159,
+     30.53173
+    ],
+    "bbox": [
+     [
+      114.35141,
+      30.53167
+     ],
+     [
+      114.35177,
+      30.53178
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular, multi-story residential building with a weathered facade and flat roof featuring small vertical projections and utility structures. The building is situated in a dense urban area, flanked by similar residential structures, with a sports facility to one side and tree-lined streets. The surrounding landscape includes narrow roads, scattered vegetation, and additional residential complexes in the background.",
+    "3D Spatial": "1.青一 104376125 Southeast 28 m  1.青三 104376127 North 26 m",
+    "height": "25.7 m"
+   }
+  },
+  {
+   "104376127": {
+    "name": "青三",
+    "area": "391m2",
+    "fclass": "building ",
+    "center": [
+     114.35163,
+     30.53196
+    ],
+    "bbox": [
+     [
+      114.35145,
+      30.53191
+     ],
+     [
+      114.35181,
+      30.53201
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The building is a rectangular, multi-story residential structure with a predominantly white facade and red accents on the roof edges. Its flat rooftop contains utility structures, chimneys, and satellite dishes. The building is part of a dense urban complex, flanked by similar residential buildings. A tree-lined road runs along its right side, while sports facilities, including courts and a field, are visible nearby. The surrounding landscape features taller apartment blocks and a mix of vegetation, with limited green spaces between buildings.",
+    "3D Spatial": "1. 104376128 East 44 m  1.青二 104376126 South 26 m  1.青四 104376430 North 24 m",
+    "height": "28.1 m"
+   }
+  },
+  {
+   "104376128": {
+    "name": null,
+    "area": "595m2",
+    "fclass": "building ",
+    "center": [
+     114.35209,
+     30.53199
+    ],
+    "bbox": [
+     [
+      114.35189,
+      30.53191
+     ],
+     [
+      114.35228,
+      30.53207
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a white facade and maroon accents, featuring uniform windows and balconies with metal railings. Its flat roof contains various equipment, ventilation units, and a blue awning. The building is centrally located within a residential area, bordered by a tree-lined street on one side and a sports complex with basketball courts on the other. The surrounding landscape combines dense urban housing with mature trees, creating a mixed residential and recreational neighborhood.",
+    "3D Spatial": "1. 664756701 East 35 m  1.青5 104376429 North 32 m  1.青三 104376127 West 44 m  1.青四 104376430 Northwest 42 m  1. 104376129 South 39 m",
+    "height": "25.5 m"
+   }
+  },
+  {
+   "104376129": {
+    "name": null,
+    "area": "760m2",
+    "fclass": "building ",
+    "center": [
+     114.35212,
+     30.53163
+    ],
+    "bbox": [
+     [
+      114.35183,
+      30.53124
+     ],
+     [
+      114.35224,
+      30.53184
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential\nPOINT: 1.申通快递 post_box 0.0  2.武汉大学医院信息学部分院 hospital 0.0",
+    "image_caption": "A rectangular building with a flat roof features a greenish swimming pool and white tiled deck. Beige triangular shade canopies adorn its upper portion. The building is surrounded by multi-story residential structures and bordered by a tree-lined path on one side. Sports courts, including tennis facilities, are located nearby. The area combines urban development with dense greenery throughout.",
+    "3D Spatial": "1. 104376128 North 39 m  1.青一 104376125 West 42 m",
+    "height": "17.1 m"
+   }
+  },
+  {
+   "104376425": {
+    "name": null,
+    "area": "390m2",
+    "fclass": "building ",
+    "center": [
+     114.35189,
+     30.53287
+    ],
+    "bbox": [
+     [
+      114.35172,
+      30.53281
+     ],
+     [
+      114.35206,
+      30.53293
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉法语联盟 college 39.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade, featuring numerous balconies with metal railings and some enclosed with glass. The flat roof contains solar panels, debris, and equipment. The exterior displays air conditioning units and a mix of smooth and textured surfaces. It is situated among similar residential buildings, with a tree-lined road alongside it. A sports complex with basketball courts lies nearby, and the surrounding area combines urban development with patches of greenery.",
+    "3D Spatial": "1.51栋 104376431 Northwest 40 m  1. 104376428 West 31 m  1. 104376426 Southeast 34 m",
+    "height": "25.5 m"
+   }
+  },
+  {
+   "104376426": {
+    "name": null,
+    "area": "361m2",
+    "fclass": "building ",
+    "center": [
+     114.35206,
+     30.53259
+    ],
+    "bbox": [
+     [
+      114.35192,
+      30.53253
+     ],
+     [
+      114.35221,
+      30.53265
+     ]
+    ],
+    "Landmark": "POINT: 1.五洲餐厅 restaurant 42.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade and a flat roof featuring utility installations and air conditioning units. A distinctive red parapet runs along the roof edges. The building is situated within a dense residential area, with similar multi-story buildings nearby. A tree-lined road runs parallel to its left side, and the surrounding area includes a mix of urban development and vegetation.",
+    "3D Spatial": "1.青5 104376429 South 34 m  1. 104376425 Northwest 34 m",
+    "height": "27.4 m"
+   }
+  },
+  {
+   "104376428": {
+    "name": null,
+    "area": "164m2",
+    "fclass": "building ",
+    "center": [
+     114.35156,
+     30.5329
+    ],
+    "bbox": [
+     [
+      114.35147,
+      30.53286
+     ],
+     [
+      114.35166,
+      30.53294
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A multi-story rectangular building with a light gray facade, featuring a grid pattern and glass-enclosed balconies with curved railings. The flat roof has a red border and shows signs of weathering. The structure is part of a dense residential complex, flanked by similar buildings, with a sports court and tree-lined areas nearby.",
+    "3D Spatial": "1.51栋 104376431 North 24 m  1. 104376425 East 31 m",
+    "height": "20.7 m"
+   }
+  },
+  {
+   "104376429": {
+    "name": "青5",
+    "area": "516m2",
+    "fclass": "building ",
+    "center": [
+     114.35211,
+     30.53228
+    ],
+    "bbox": [
+     [
+      114.35194,
+      30.5322
+     ],
+     [
+      114.35227,
+      30.53236
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential\nPOINT: 1.五洲餐厅 restaurant 49.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade and vertical rows of windows and air conditioning units. Its flat roof features various equipment and red accents along the upper edges. The building is part of a dense urban landscape, surrounded by similar residential structures, with a tree-lined road to its left separating it from a parking area. Behind the building lies a sports complex with basketball courts and a soccer field, while narrow alleyways separate it from adjacent buildings.",
+    "3D Spatial": "1. 104376426 North 34 m  1. 104376128 South 32 m  1.青四 104376430 West 40 m  1. 664756701 Southeast 41 m",
+    "height": "25.0 m"
+   }
+  },
+  {
+   "104376430": {
+    "name": "青四",
+    "area": "194m2",
+    "fclass": "building ",
+    "center": [
+     114.3517,
+     30.53218
+    ],
+    "bbox": [
+     [
+      114.3516,
+      30.53213
+     ],
+     [
+      114.3518,
+      30.53222
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A tall, rectangular multi-story building with a light gray facade features evenly spaced balconies with metal railings and windows. The flat roof has pipes and equipment, with red trim along the roofline. The building is part of a dense residential complex, bordered by a small garden area with trees on one side and a road on the other. In the background, a large sports field and additional residential buildings are visible, creating an urban landscape interspersed with greenery.",
+    "3D Spatial": "1.青5 104376429 East 40 m  1. 104376128 Southeast 42 m  1.青三 104376127 South 24 m",
+    "height": "25.3 m"
+   }
+  },
+  {
+   "104376431": {
+    "name": "51栋",
+    "area": "578m2",
+    "fclass": "building ",
+    "center": [
+     114.35159,
+     30.53312
+    ],
+    "bbox": [
+     [
+      114.35126,
+      30.53307
+     ],
+     [
+      114.35191,
+      30.53316
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉法语联盟 college 40.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade, featuring multiple balconies with metal railings and a flat roof with red trim. The upper portion shows weathered surfaces and utility installations. It is situated in a dense urban environment, surrounded by similar residential buildings. To the left is a sports court with recreational areas, while trees line the perimeter. Roads and pathways weave through the complex, connecting it to neighboring apartment blocks in this mixed residential landscape.",
+    "3D Spatial": "1. 104376425 Southeast 40 m  1. 104376428 South 24 m",
+    "height": "21.2 m"
+   }
+  },
+  {
+   "104378155": {
+    "name": "55栋",
+    "area": "605m2",
+    "fclass": "building ",
+    "center": [
+     114.35171,
+     30.5343
+    ],
+    "bbox": [
+     [
+      114.3515,
+      30.53423
+     ],
+     [
+      114.35193,
+      30.53436
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The rectangular building features a flat, light-colored roof and a facade with multiple balconies and railings. Its exterior combines white walls with red accents and evenly spaced windows along the upper portion. The structure is centrally positioned among similar residential buildings, with tree-lined roads running parallel to it. The surrounding area includes a sports court with basketball hoops, scattered vegetation, and additional residential buildings in the background, forming part of a dense urban landscape.",
+    "3D Spatial": "1.53栋 104378159 South 39 m  1.54栋 104378160 Southwest 36 m",
+    "height": "22.6 m"
+   }
+  },
+  {
+   "104378159": {
+    "name": "53栋",
+    "area": "404m2",
+    "fclass": "building ",
+    "center": [
+     114.35168,
+     30.53394
+    ],
+    "bbox": [
+     [
+      114.35152,
+      30.53388
+     ],
+     [
+      114.35185,
+      30.534
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The building is a multi-story residential structure with a light beige facade and numerous balconies featuring glass windows and metal railings. Its flat roof shows signs of wear, with debris, broken tiles, and tar paper scattered across the surface. The building is surrounded by similar residential structures, with a tree-lined street to one side and a recreational area with basketball courts to the other. Dense vegetation separates the buildings, while roads and additional residential structures form the broader urban landscape.",
+    "3D Spatial": "1.55栋 104378155 North 39 m  1.54栋 104378160 Northwest 34 m",
+    "height": "24.6 m"
+   }
+  },
+  {
+   "104378160": {
+    "name": "54栋",
+    "area": "390m2",
+    "fclass": "building ",
+    "center": [
+     114.35139,
+     30.53412
+    ],
+    "bbox": [
+     [
+      114.35125,
+      30.53405
+     ],
+     [
+      114.35154,
+      30.5342
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The rectangular building features a flat, light-colored roof with a grid pattern of gray tiles showing weathering. The rooftop includes solar panels, ventilation units, and a satellite dish. The structure is flanked by similar residential buildings and surrounded by dense trees, with a sports court nearby. The urban setting includes tree-lined streets, parked cars, and adjacent residential buildings, creating a typical urban residential landscape.",
+    "3D Spatial": "1.55栋 104378155 Northeast 36 m  1.53栋 104378159 Southeast 34 m",
+    "height": "23.1 m"
+   }
+  },
+  {
+   "104449519": {
+    "name": "39栋",
+    "area": "749m2",
+    "fclass": "building ",
+    "center": [
+     114.35365,
+     30.53439
+    ],
+    "bbox": [
+     [
+      114.35341,
+      30.53422
+     ],
+     [
+      114.3539,
+      30.53456
+     ]
+    ],
+    "Landmark": "POINT: 1.珞俐便民店 supermarket 47.0  2.千里马考研书店 bookshop 0.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a beige facade and numerous balconies with metal railings. It features a flat roof with various equipment and structures. The building shows signs of wear and is positioned among similar residential buildings with red-tiled roofs. It is bordered by a road with tree lines, dense vegetation to one side, and is part of a larger residential complex. The surrounding area combines urban development with green spaces, including parking areas and connecting roadways.",
+    "3D Spatial": "1.30栋 104449649 South 34 m",
+    "height": "29.0 m"
+   }
+  },
+  {
+   "104449520": {
+    "name": "37栋",
+    "area": "569m2",
+    "fclass": "building ",
+    "center": [
+     114.3525,
+     30.53455
+    ],
+    "bbox": [
+     [
+      114.35218,
+      30.53451
+     ],
+     [
+      114.35281,
+      30.53459
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade and flat, weathered roof. It features a series of balconies with metal railings and is surrounded by similar residential buildings with red-tiled roofs. The urban setting includes tree-lined roads, patches of vegetation, and parking areas, with a mix of pathways and open spaces throughout the neighborhood.",
+    "3D Spatial": "1.34栋 104449642 South 26 m",
+    "height": "18.5 m"
+   }
+  },
+  {
+   "104449521": {
+    "name": "38栋",
+    "area": "440m2",
+    "fclass": "building ",
+    "center": [
+     114.35312,
+     30.53455
+    ],
+    "bbox": [
+     [
+      114.35288,
+      30.5345
+     ],
+     [
+      114.35337,
+      30.53459
+     ]
+    ],
+    "Landmark": "POINT: 1.千里马考研书店 bookshop 46.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade featuring multiple balconies with metal railings and air conditioning units. Its flat roof has a patchwork of dark and light materials with scattered debris and ventilation structures. The building is part of a residential complex, flanked by similar buildings with red-tiled roofs on one side and dense vegetation on the other. A road runs parallel to the structure, and the surrounding area includes landscaped spaces, trees, and a network of pathways, creating a mixed urban environment.",
+    "3D Spatial": "1.33栋 104449646 South 26 m",
+    "height": "18.4 m"
+   }
+  },
+  {
+   "104449602": {
+    "name": "1号楼",
+    "area": "550m2",
+    "fclass": "building ",
+    "center": [
+     114.35426,
+     30.53231
+    ],
+    "bbox": [
+     [
+      114.35397,
+      30.53226
+     ],
+     [
+      114.35455,
+      30.53235
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖一路 residential  2.物探路 residential  3.求是大道 residential\nPOINT: 1.嗨购猫 restaurant 0.0  2.伊达图文快印 supermarket 27.0  3.武汉大学星湖园招待所 hotel 48.0",
+    "image_caption": "A long, rectangular building with a red-tiled gable roof stands amid dense vegetation. The building features a light-colored facade with windows and balconies. Two chimneys are spaced along the roofline. A road runs parallel to its left side, with parked cars visible. The surrounding area includes modern buildings with flat roofs, landscaped pathways, and a circular plaza. Trees line the vicinity, creating a mixed urban and green environment.",
+    "3D Spatial": "1.教工2栋 104449626 West 46 m  1.14栋 104449625 North 30 m",
+    "height": "29.6 m"
+   }
+  },
+  {
+   "104449604": {
+    "name": "院士楼4号",
+    "area": "227m2",
+    "fclass": "building ",
+    "center": [
+     114.35285,
+     30.53213
+    ],
+    "bbox": [
+     [
+      114.35277,
+      30.53204
+     ],
+     [
+      114.35293,
+      30.53221
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential",
+    "image_caption": "The building features a multi-tiered red-tiled roof with a central black section housing a cylindrical structure and a dormer window. Its light-colored walls include decorative arches and a small balcony. The structure is surrounded by dense vegetation and similar red-roofed buildings, with a tree-lined road and parked vehicles to the left. Behind the building, a sports court is visible through the trees, creating a mixed urban and natural landscape.",
+    "3D Spatial": "1. 664756701 West 39 m  1. 104449615 East 46 m  1.院士楼2号 104449606 East 23 m",
+    "height": "13.7 m"
+   }
+  },
+  {
+   "104449606": {
+    "name": "院士楼2号",
+    "area": "200m2",
+    "fclass": "building ",
+    "center": [
+     114.35309,
+     30.53215
+    ],
+    "bbox": [
+     [
+      114.35301,
+      30.53207
+     ],
+     [
+      114.35318,
+      30.53223
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖二路 residential  2.求是大道 residential",
+    "image_caption": "A multi-story building with a beige exterior and red-tiled, multi-gabled roof features a central rectangular skylight, dormer window, and decorative trim around its windows. The structure is positioned along a curved road, surrounded by similar residential buildings with red roofs and nestled among trees and landscaped areas. A tennis court and pedestrian paths are visible nearby, creating a mixed urban-residential setting.",
+    "3D Spatial": "1.12栋 104449622 Northeast 38 m  1. 104449627 East 41 m  1.院士楼4号 104449604 West 23 m  1. 104449615 East 23 m",
+    "height": "13.5 m"
+   }
+  },
+  {
+   "104449609": {
+    "name": "21栋",
+    "area": "618m2",
+    "fclass": "building ",
+    "center": [
+     114.35301,
+     30.53358
+    ],
+    "bbox": [
+     [
+      114.35276,
+      30.53352
+     ],
+     [
+      114.35325,
+      30.53364
+     ]
+    ],
+    "Landmark": "POINT: 1.珞俐便民店 supermarket 48.0",
+    "image_caption": "The rectangular building has a flat, weathered roof with gray and brown tones, featuring small utility structures and vents. It is centrally positioned within a dense residential area, surrounded by similar multi-story buildings with both flat and red roofs. Narrow roads run between the structures, with parked cars along the streets. Trees and patches of greenery are interspersed throughout the urban landscape, creating natural breaks in the built environment.",
+    "3D Spatial": "1.28栋 104449648 North 29 m  1.25栋 104449612 South 33 m",
+    "height": "31.5 m"
+   }
+  },
+  {
+   "104449612": {
+    "name": "25栋",
+    "area": "989m2",
+    "fclass": "building ",
+    "center": [
+     114.35311,
+     30.53329
+    ],
+    "bbox": [
+     [
+      114.35278,
+      30.53322
+     ],
+     [
+      114.35345,
+      30.53336
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉法语联盟 college 44.0",
+    "image_caption": "A multi-story residential building with a light gray facade and numerous balconies with glass railings. The flat roof features utility structures and a reddish-brown trim along the top edge. The building is centrally positioned among similar residential structures, separated by narrow roads. Dense tree coverage and vegetation surrounds the area, particularly to the right, creating a mix of urban development and greenery. The surrounding landscape includes parking areas and sports courts, forming part of a dense residential neighborhood.",
+    "3D Spatial": "1.21栋 104449609 North 33 m  1.11栋 202058617 South 38 m",
+    "height": "26.2 m"
+   }
+  },
+  {
+   "104449614": {
+    "name": "16栋",
+    "area": "828m2",
+    "fclass": "building ",
+    "center": [
+     114.35428,
+     30.53291
+    ],
+    "bbox": [
+     [
+      114.35398,
+      30.53284
+     ],
+     [
+      114.35458,
+      30.53298
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.物探路 residential\nPOINT: 1.伊达图文快印 supermarket 28.0  2.水果店 supermarket 3.0  3.星湖园食堂 restaurant 38.0  4.自强超市 supermarket 19.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade and a flat, dark roof featuring utility installations and weathering patterns. Its upper portion displays vertical window rows and balconies with red roofing overhangs. The building is situated in a dense urban area, bordered by a narrow tree-lined road on one side and residential buildings with red roofs on the other. The surrounding landscape includes scattered vegetation, a sports field with a running track in the background, and various access roads between structures.",
+    "3D Spatial": "1.14栋 104449625 South 35 m  1.17栋 104449624 North 34 m",
+    "height": "25.2 m"
+   }
+  },
+  {
+   "104449615": {
+    "name": null,
+    "area": "204m2",
+    "fclass": "building ",
+    "center": [
+     114.35332,
+     30.53221
+    ],
+    "bbox": [
+     [
+      114.35322,
+      30.53213
+     ],
+     [
+      114.35342,
+      30.5323
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential",
+    "image_caption": "A beige building with a red-tiled, multi-angled roof features a central skylight and a small dormer window. The building is positioned adjacent to similar residential structures and bordered by a road with trees. To the left lies a park with circular walking paths, while the surrounding area includes a mix of residential buildings, paved pathways, and dense vegetation, creating a suburban landscape.",
+    "3D Spatial": "1.12栋 104449622 North 29 m  1. 104449627 East 18 m  1.教工2栋 104449626 East 45 m  1.院士楼4号 104449604 West 46 m  1.星空广场 1155391715 Southeast 48 m  1.院士楼2号 104449606 West 23 m",
+    "height": "14.9 m"
+   }
+  },
+  {
+   "104449618": {
+    "name": "19栋",
+    "area": "623m2",
+    "fclass": "building ",
+    "center": [
+     114.35423,
+     30.53354
+    ],
+    "bbox": [
+     [
+      114.35398,
+      30.53348
+     ],
+     [
+      114.35448,
+      30.5336
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.物探路 residential\nPOINT: 1.珞俐便民店 supermarket 36.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a flat roof featuring a checkered pattern of dark and light tiles. Its facade is light gray with red accents and includes balconies with metal railings. The building is positioned parallel to a narrow, tree-lined road and is surrounded by similar residential structures with red-tiled roofs. The surrounding area includes scattered vegetation, and a sports field with a running track is visible in the background.",
+    "3D Spatial": "1.35栋 104449647 North 45 m  1.17栋 104449624 South 35 m",
+    "height": "25.5 m"
+   }
+  },
+  {
+   "104449619": {
+    "name": "国际交流中心",
+    "area": "1509m2",
+    "fclass": "building ",
+    "center": [
+     114.35244,
+     30.53318
+    ],
+    "bbox": [
+     [
+      114.35221,
+      30.53296
+     ],
+     [
+      114.35266,
+      30.53337
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential\nPOINT: 1.五洲餐厅 restaurant 37.0  2.武汉法语联盟 college 0.0",
+    "image_caption": "The rectangular building features a flat, dark roof with signs of weathering and a small rooftop utility structure. Its light-colored walls show patches of discoloration. The building is situated in a dense urban residential area, surrounded by multi-story buildings and tree-lined streets. To one side lies a recreational area with a sports court, while other sides are bordered by narrow roads and residential structures. The surrounding landscape combines urban development with interspersed vegetation.",
+    "3D Spatial": "1.26栋 104449623 North 38 m",
+    "height": "21.5 m"
+   }
+  },
+  {
+   "104449620": {
+    "name": "20栋",
+    "area": "545m2",
+    "fclass": "building ",
+    "center": [
+     114.35357,
+     30.53358
+    ],
+    "bbox": [
+     [
+      114.35333,
+      30.53352
+     ],
+     [
+      114.35381,
+      30.53364
+     ]
+    ],
+    "Landmark": "POINT: 1.珞俐便民店 supermarket 21.0",
+    "image_caption": "A rectangular multi-story building with a flat, gray roof featuring a small blue utility structure and various installations. The building's light gray facade shows signs of wear and includes balconies with metal railings. It is situated among similar residential structures with red roofs, connected by narrow roads. Trees and vegetation are interspersed throughout the area, with a wooded section to the north.",
+    "3D Spatial": "1. 358205763 South 39 m  1.27栋 104449644 North 29 m",
+    "height": "27.8 m"
+   }
+  },
+  {
+   "104449621": {
+    "name": "15栋",
+    "area": "588m2",
+    "fclass": "building ",
+    "center": [
+     114.35366,
+     30.53289
+    ],
+    "bbox": [
+     [
+      114.35342,
+      30.53284
+     ],
+     [
+      114.35391,
+      30.53295
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular, multi-story building with a light gray facade and red accents along the roofline. The structure features multiple balconies with railings and windows, topped by a flat roof with skylights and ventilation units. It is situated within a residential complex, bordered by a tree-lined road and surrounded by similar buildings, with mixed vegetation throughout the area.",
+    "3D Spatial": "1. 358205763 North 37 m  1.武大信息学部教工13栋 266284516 South 26 m",
+    "height": "24.4 m"
+   }
+  },
+  {
+   "104449622": {
+    "name": "12栋",
+    "area": "464m2",
+    "fclass": "building ",
+    "center": [
+     114.35324,
+     30.53247
+    ],
+    "bbox": [
+     [
+      114.353,
+      30.53235
+     ],
+     [
+      114.35348,
+      30.53259
+     ]
+    ],
+    "Landmark": "POINT: 1.五洲餐厅 restaurant 42.0",
+    "image_caption": "A long, rectangular building with a red-tiled gable roof and light gray exterior walls features multiple balconies with metal railings and ventilation blocks. The structure has evenly spaced chimneys along its roofline and is surrounded by dense vegetation, particularly trees on its eastern side. It sits within a residential area, parallel to similar buildings with red roofs, and is accessed by roads that connect to a nearby landscaped park with circular pathways. The surrounding urban environment includes apartment complexes and open green spaces.",
+    "3D Spatial": "1. 104449615 South 29 m  1. 104449627 Southeast 32 m  1.院士楼2号 104449606 Southwest 38 m",
+    "height": "18.6 m"
+   }
+  },
+  {
+   "104449623": {
+    "name": "26栋",
+    "area": "825m2",
+    "fclass": "building ",
+    "center": [
+     114.35235,
+     30.53352
+    ],
+    "bbox": [
+     [
+      114.35203,
+      30.53346
+     ],
+     [
+      114.35266,
+      30.53358
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential\nPOINT: 1.武汉法语联盟 college 31.0",
+    "image_caption": "The building is a multi-story rectangular residential structure with a light gray facade and multiple balconies, some displaying hanging laundry. Its flat roof features a patchwork of light and dark tiles, with the upper portion distinguished by red awnings above the windows. The building is situated among similar residential structures, bordered by roads with parked cars and dense trees. The surrounding area includes a sports court and other apartment blocks, forming a compact urban environment with interspersed greenery.",
+    "3D Spatial": "1.29栋 104449643 North 36 m  1.国际交流中心 104449619 South 38 m",
+    "height": "24.9 m"
+   }
+  },
+  {
+   "104449624": {
+    "name": "17栋",
+    "area": "1061m2",
+    "fclass": "building ",
+    "center": [
+     114.35425,
+     30.53322
+    ],
+    "bbox": [
+     [
+      114.35392,
+      30.53314
+     ],
+     [
+      114.35459,
+      30.53332
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.物探路 residential\nPOINT: 1.水果店 supermarket 26.0  2.自强超市 supermarket 20.0",
+    "image_caption": "The building is a multi-story rectangular residential structure with a light gray facade and multiple balconies with metal railings. Its flat roof features a mix of concrete and red-tiled sections, with visible wear and debris. The structure includes red triangular accents above the windows and various air conditioning units. It is part of a residential complex, surrounded by similar apartment buildings, with narrow roads, parked cars, and dense clusters of trees providing natural buffers throughout the area.",
+    "3D Spatial": "1.19栋 104449618 North 35 m  1.16栋 104449614 South 34 m",
+    "height": "30.5 m"
+   }
+  },
+  {
+   "104449625": {
+    "name": "14栋",
+    "area": "642m2",
+    "fclass": "building ",
+    "center": [
+     114.35426,
+     30.53258
+    ],
+    "bbox": [
+     [
+      114.35396,
+      30.53253
+     ],
+     [
+      114.35457,
+      30.53264
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.物探路 residential\nPOINT: 1.嗨购猫 restaurant 25.0  2.伊达图文快印 supermarket 1.0  3.水果店 supermarket 30.0  4.星湖园食堂 restaurant 44.0  5.自强超市 supermarket 48.0",
+    "image_caption": "The building is rectangular with a light gray facade and red-tiled gable roof, featuring evenly spaced chimneys along its ridge. It is surrounded by a mix of residential structures, with a taller building to one side and smaller houses with red roofs to the other. Dense vegetation and trees border the building, while a road separates it from nearby structures. The broader area includes a combination of apartment blocks, roads, and green spaces, creating a typical suburban landscape.",
+    "3D Spatial": "1.16栋 104449614 North 35 m  1.1号楼 104449602 South 30 m",
+    "height": "26.1 m"
+   }
+  },
+  {
+   "104449626": {
+    "name": "教工2栋",
+    "area": "167m2",
+    "fclass": "building ",
+    "center": [
+     114.35378,
+     30.53233
+    ],
+    "bbox": [
+     [
+      114.35369,
+      30.53228
+     ],
+     [
+      114.35386,
+      30.53237
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential\nPOINT: 1.嗨购猫 restaurant 32.0",
+    "image_caption": "A rectangular building with a reddish-brown tiled roof and a small chimney sits among dense trees. The building features light-colored trim and is part of a cohesive residential area with similar red-tiled structures. It is situated near a curved road with parked cars, surrounded by landscaped areas with pathways and trimmed bushes.",
+    "3D Spatial": "1. 104449627 West 27 m  1. 104449615 West 45 m  1.武大信息学部教工13栋 266284516 North 37 m  1.1号楼 104449602 East 46 m",
+    "height": "20.8 m"
+   }
+  },
+  {
+   "104449627": {
+    "name": null,
+    "area": "184m2",
+    "fclass": "building ",
+    "center": [
+     114.3535,
+     30.53228
+    ],
+    "bbox": [
+     [
+      114.35339,
+      30.53221
+     ],
+     [
+      114.3536,
+      30.53235
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential",
+    "image_caption": "A rectangular building with a reddish-brown tiled roof features a chimney and a small central skylight. The building is surrounded by dense vegetation and sits among similar red-roofed structures in an urban residential area. Paved roads with parked vehicles border the property, while landscaped pathways and gardens integrate throughout the neighborhood.",
+    "3D Spatial": "1.12栋 104449622 Northwest 32 m  1.教工2栋 104449626 East 27 m  1.星空广场 1155391715 South 49 m  1. 104449615 West 18 m  1.武大信息学部教工13栋 266284516 Northeast 47 m  1.院士楼2号 104449606 West 41 m",
+    "height": "16.5 m"
+   }
+  },
+  {
+   "104449642": {
+    "name": "34栋",
+    "area": "462m2",
+    "fclass": "building ",
+    "center": [
+     114.35251,
+     30.53431
+    ],
+    "bbox": [
+     [
+      114.35227,
+      30.53426
+     ],
+     [
+      114.35274,
+      30.53436
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是大道 residential",
+    "image_caption": "A rectangular multi-story building with a light gray facade and red-tiled roof features multiple balconies with varied coverings and awnings. The roof is dotted with small structures, vents, and evenly spaced protrusions. The building is part of a residential complex with similar structures, surrounded by tree-lined roads, pathways, and landscaped areas. Adjacent features include a sports court to the left and scattered vegetation throughout the urban setting.",
+    "3D Spatial": "1.37栋 104449520 North 26 m  1.32栋 104449650 South 24 m",
+    "height": "19.3 m"
+   }
+  },
+  {
+   "104449643": {
+    "name": "29栋",
+    "area": "817m2",
+    "fclass": "building ",
+    "center": [
+     114.35236,
+     30.53385
+    ],
+    "bbox": [
+     [
+      114.35211,
+      30.53375
+     ],
+     [
+      114.35261,
+      30.53393
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential  2.求是大道 residential",
+    "image_caption": "A rectangular building with a red-tiled roof features evenly spaced white chimneys and blue awnings over some windows. The structure is part of a densely built residential area with similar red-roofed buildings connected by narrow roads and pathways. Trees and vegetation are interspersed throughout the area, with a plaza to the north and a major road nearby.",
+    "3D Spatial": "1.26栋 104449623 South 36 m  1.32栋 104449650 Northeast 31 m",
+    "height": "46.0 m"
+   }
+  },
+  {
+   "104449644": {
+    "name": "27栋",
+    "area": "572m2",
+    "fclass": "building ",
+    "center": [
+     114.35354,
+     30.53384
+    ],
+    "bbox": [
+     [
+      114.35333,
+      30.53377
+     ],
+     [
+      114.35374,
+      30.53391
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential\nPOINT: 1.珞俐便民店 supermarket 0.0  2.千里马考研书店 bookshop 46.0",
+    "image_caption": "A rectangular building with a red-tiled roof and evenly spaced white chimneys sits among similar residential structures. The building features multiple windows and balconies with a light-colored exterior. It is part of a dense residential complex with parallel-arranged buildings, surrounded by tree-lined pathways, parking areas, and narrow roads. The area transitions from residential to commercial zones, with vegetation serving as a natural buffer.",
+    "3D Spatial": "1.30栋 104449649 Northeast 31 m  1.31栋 104449645 Northwest 49 m  1.20栋 104449620 South 29 m",
+    "height": "14.5 m"
+   }
+  },
+  {
+   "104449645": {
+    "name": "31栋",
+    "area": "437m2",
+    "fclass": "building ",
+    "center": [
+     114.35312,
+     30.53409
+    ],
+    "bbox": [
+     [
+      114.35289,
+      30.53404
+     ],
+     [
+      114.35334,
+      30.53414
+     ]
+    ],
+    "Landmark": "POINT: 1.珞俐便民店 supermarket 43.0  2.千里马考研书店 bookshop 49.0",
+    "image_caption": "A rectangular, multi-story residential building with a red-tiled roof and light gray facade features multiple balconies with metal railings. The upper portion has evenly spaced windows, chimneys, and vents. The building is part of a dense urban neighborhood, surrounded by similar residential structures, with narrow roads, pathways, and scattered vegetation between buildings. Trees and landscaped areas provide green spaces throughout the area.",
+    "3D Spatial": "1.33栋 104449646 North 23 m  1.27栋 104449644 Southeast 49 m  1.28栋 104449648 Southwest 31 m",
+    "height": "16.7 m"
+   }
+  },
+  {
+   "104449646": {
+    "name": "33栋",
+    "area": "453m2",
+    "fclass": "building ",
+    "center": [
+     114.35311,
+     30.53431
+    ],
+    "bbox": [
+     [
+      114.35288,
+      30.53426
+     ],
+     [
+      114.35334,
+      30.53436
+     ]
+    ],
+    "Landmark": "POINT: 1.千里马考研书店 bookshop 44.0",
+    "image_caption": "A rectangular building with a red-tiled roof and light gray facade features multiple balconies with varied awnings and metal railings. The roof includes several chimneys and ventilation structures. The building is situated among similar residential structures with red-tiled roofs in a densely built area, connected by narrow roads and pathways. Trees and landscaped greenery are interspersed throughout, with a larger building featuring a turquoise roof visible to the north.",
+    "3D Spatial": "1.31栋 104449645 South 23 m  1.38栋 104449521 North 26 m",
+    "height": "22.5 m"
+   }
+  },
+  {
+   "104449647": {
+    "name": "35栋",
+    "area": "424m2",
+    "fclass": "building ",
+    "center": [
+     114.35426,
+     30.53395
+    ],
+    "bbox": [
+     [
+      114.35403,
+      30.53391
+     ],
+     [
+      114.3545,
+      30.53399
+     ]
+    ],
+    "Landmark": "POINT: 1.珞俐便民店 supermarket 32.0  2.千里马考研书店 bookshop 43.0",
+    "image_caption": "A rectangular residential building with a red-tiled sloped roof and multiple balconies, some featuring blue awnings. The facade is light gray and beige with metal railings. The building has a uniform row of chimneys and windows along its upper portion. It is situated along a tree-lined road in a suburban area, surrounded by similar residential structures and dense vegetation. A larger complex with a turquoise roof and a sports field with a running track are visible in the background.",
+    "3D Spatial": "1.19栋 104449618 South 45 m",
+    "height": "19.4 m"
+   }
+  },
+  {
+   "104449648": {
+    "name": "28栋",
+    "area": "615m2",
+    "fclass": "building ",
+    "center": [
+     114.35296,
+     30.53384
+    ],
+    "bbox": [
+     [
+      114.35272,
+      30.53378
+     ],
+     [
+      114.3532,
+      30.5339
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.玉兰路 residential\nPOINT: 1.珞俐便民店 supermarket 49.0",
+    "image_caption": "A rectangular building with a red-tiled roof and beige facade features multiple balconies with metal railings, chimneys, and solar panels. It stands among similar residential structures with red roofs, connected by narrow roads with parked cars. Trees and shrubs are interspersed between buildings, and a larger complex with a turquoise roof is visible to the north, separated by dense vegetation and a main road.",
+    "3D Spatial": "1.21栋 104449609 South 29 m  1.31栋 104449645 Northeast 31 m",
+    "height": "15.2 m"
+   }
+  },
+  {
+   "104449649": {
+    "name": "30栋",
+    "area": "468m2",
+    "fclass": "building ",
+    "center": [
+     114.35371,
+     30.53408
+    ],
+    "bbox": [
+     [
+      114.35349,
+      30.53403
+     ],
+     [
+      114.35394,
+      30.53413
+     ]
+    ],
+    "Landmark": "POINT: 1.珞俐便民店 supermarket 23.0  2.千里马考研书店 bookshop 21.0",
+    "image_caption": "A rectangular residential building with a red-tiled roof and light-colored facade features multiple balconies with metal railings and white chimneys along the roofline. It stands alongside a narrow road lined with trees and is surrounded by similar multi-story buildings with red-tiled roofs. The urban setting includes patches of greenery, paved pathways, and taller buildings in the background.",
+    "3D Spatial": "1.27栋 104449644 Southwest 31 m  1.39栋 104449519 North 34 m",
+    "height": "18.1 m"
+   }
+  },
+  {
+   "104449650": {
+    "name": "32栋",
+    "area": "441m2",
+    "fclass": "building ",
+    "center": [
+     114.35252,
+     30.53409
+    ],
+    "bbox": [
+     [
+      114.35229,
+      30.53405
+     ],
+     [
+      114.35274,
+      30.53414
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular multi-story building with a light gray facade and reddish-brown tiled roof. The structure features multiple balconies with metal railings and blue and white awnings. Its flat rooftop area contains scattered items and installations. The building is situated in a dense residential neighborhood, surrounded by similar structures with red-tiled roofs, connected by narrow roads. Trees and small green spaces are interspersed throughout the area, with a larger tree-lined street nearby.",
+    "3D Spatial": "1.29栋 104449643 Southwest 31 m  1.34栋 104449642 North 24 m",
+    "height": "19.5 m"
+   }
+  },
+  {
+   "104450163": {
+    "name": "老年活动中心",
+    "area": "553m2",
+    "fclass": "building ",
+    "center": [
+     114.35566,
+     30.5327
+    ],
+    "bbox": [
+     [
+      114.3554,
+      30.53264
+     ],
+     [
+      114.35597,
+      30.53281
+     ]
+    ],
+    "Landmark": "POINT: 1.星湖园食堂 restaurant 40.0",
+    "image_caption": "A long, rectangular building with a weathered blue-tinted roof and gabled upper section stands among dense vegetation. The structure is centrally positioned between parallel rows of residential buildings, with a road running alongside it. Trees and shrubs surround the building, creating a natural buffer in this urban setting.",
+    "3D Spatial": "1. 1037329805 Northeast 24 m  1.40栋 104373464 South 29 m",
+    "height": "26.2 m"
+   }
+  },
+  {
+   "127025727": {
+    "name": "信息学部2号教学楼",
+    "area": "1519m2",
+    "fclass": "building university",
+    "center": [
+     114.35685,
+     30.52882
+    ],
+    "bbox": [
+     [
+      114.35643,
+      30.52868
+     ],
+     [
+      114.35724,
+      30.52892
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.回归路 residential",
+    "image_caption": "A rectangular building with a flat, dark roof and light-colored walls features evenly spaced windows along its length. The roof contains a small, light-colored section, possibly for ventilation or solar panels. The building is surrounded by landscaped gardens with trees and paved pathways, with parking areas nearby. Adjacent structures include a domed building to one side and other rectangular buildings, creating a mixed urban environment with abundant greenery.",
+    "3D Spatial": "",
+    "height": "29.8 m"
+   }
+  },
+  {
+   "18320238": {
+    "name": "信息学部1号教学楼",
+    "area": "3121m2",
+    "fclass": "building university",
+    "center": [
+     114.3557,
+     30.52882
+    ],
+    "bbox": [
+     [
+      114.35497,
+      30.5287
+     ],
+     [
+      114.35643,
+      30.52893
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.陕西路 residential  2.求是一路 residential  3.求是二路 residential",
+    "image_caption": "A multi-story rectangular building with a light blue facade and white-framed windows features a prominent white dome on its roof. The structure is surrounded by trees and landscaped gardens with paved walkways, situated in a dense urban setting with adjacent buildings.",
+    "3D Spatial": "",
+    "height": "42.6 m"
+   }
+  },
+  {
+   "127025731": {
+    "name": "印刷包装系（3号教学楼）",
+    "area": "1372m2",
+    "fclass": "building university",
+    "center": [
+     114.35456,
+     30.52883
+    ],
+    "bbox": [
+     [
+      114.35418,
+      30.52868
+     ],
+     [
+      114.35497,
+      30.52891
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是二路 residential\nPOINT: 1.自强超市 convenience 31.0  2.竹园 memorial 50.0  3.流芳廊 shelter 50.0",
+    "image_caption": "A rectangular building with light-colored walls and evenly spaced windows stands amid dense trees and vegetation. The flat-roofed structure is situated near other buildings, including one with a dome, and is surrounded by landscaped pathways with a water body visible in the background.",
+    "3D Spatial": "1.附3教学楼 273968040 Southwest 33 m",
+    "height": "33.0 m"
+   }
+  },
+  {
+   "202058617": {
+    "name": "11栋",
+    "area": "1007m2",
+    "fclass": "building ",
+    "center": [
+     114.35309,
+     30.53295
+    ],
+    "bbox": [
+     [
+      114.35281,
+      30.53286
+     ],
+     [
+      114.35337,
+      30.53304
+     ]
+    ],
+    "Landmark": "POINT: 1.五洲餐厅 restaurant 29.0  2.武汉法语联盟 college 50.0",
+    "image_caption": "A multi-story residential building with a flat dark roof, featuring utility structures and rooftop gardens. The rectangular structure has balconies with metal railings and is accented with maroon trim. It stands among similar residential buildings connected by narrow roads and pathways, with scattered trees and landscaping throughout. A circular plaza area is visible nearby, and the surrounding urban landscape includes both residential and institutional buildings.",
+    "3D Spatial": "1.25栋 104449612 North 38 m",
+    "height": "25.8 m"
+   }
+  },
+  {
+   "202279989": {
+    "name": "教学实验大楼",
+    "area": "1961m2",
+    "fclass": "building university",
+    "center": [
+     114.35665,
+     30.52761
+    ],
+    "bbox": [
+     [
+      114.35642,
+      30.52737
+     ],
+     [
+      114.35699,
+      30.52788
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是一路 residential\nPOINT: 1.南极石 memorial 27.0  2.武汉大学先进技术研究院 college 0.0",
+    "image_caption": "The building is a tall, rectangular structure with rounded corners, featuring a light beige and gray facade with a grid-like pattern of windows. Its rooftop includes a green space with various equipment. The building is surrounded by a mix of vegetation and paved areas, with a parking lot and trees to one side, roads running parallel, and adjacent high-rise structures in the vicinity. The urban setting includes landscaped areas, pathways, and other buildings, creating a dense, developed environment.",
+    "3D Spatial": "",
+    "height": "63.6 m"
+   }
+  },
+  {
+   "236801236": {
+    "name": "学生宿舍5栋",
+    "area": "1168m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35455,
+     30.53139
+    ],
+    "bbox": [
+     [
+      114.35423,
+      30.5313
+     ],
+     [
+      114.35488,
+      30.53149
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade and uniform grid-like window patterns. Its flat rooftop features a cylindrical water tank, HVAC units, and clotheslines. The building is situated along a curved, tree-lined road, with a sports field and running track visible to one side. It is surrounded by other multi-story residential buildings and patches of greenery, forming part of a developed urban landscape.",
+    "3D Spatial": "1.学生宿舍18栋 953298307 North 44 m  1.学生宿舍4栋 104372401 South 36 m",
+    "height": "26.6 m"
+   }
+  },
+  {
+   "256668237": {
+    "name": "信息学部7栋",
+    "area": "1296m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35355,
+     30.52888
+    ],
+    "bbox": [
+     [
+      114.35318,
+      30.5288
+     ],
+     [
+      114.35394,
+      30.52896
+     ]
+    ],
+    "Landmark": "POINT: 1.自强超市 convenience 21.0  2.竹园 memorial 29.0  3.流芳廊 shelter 42.0  4.中国银行 atm 36.0  5.信息学部清真食堂 restaurant 44.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light-colored facade and a grid pattern of windows. Its flat, dark roof features utility structures and clotheslines. The building is situated along a tree-lined road, surrounded by other multi-story buildings. To one side lies a dense area of vegetation, while a pond with a pavilion adds a scenic element to the surroundings, creating a blend of urban and natural features.",
+    "3D Spatial": "1.信息学部8栋 311927943 South 40 m",
+    "height": "33.1 m"
+   }
+  },
+  {
+   "256668241": {
+    "name": "信息学部9栋",
+    "area": "1117m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35247,
+     30.52848
+    ],
+    "bbox": [
+     [
+      114.3521,
+      30.52841
+     ],
+     [
+      114.35284,
+      30.52856
+     ]
+    ],
+    "Landmark": "POINT: 1.中国银行 atm 38.0",
+    "image_caption": "A rectangular multi-story building with a white and gray facade features a grid pattern of windows and a flat roof with mechanical equipment, including air conditioning units and a satellite dish. The structure is situated between a wide road and a narrow alley, with adjacent buildings on both sides and scattered trees providing greenery in the urban landscape.",
+    "3D Spatial": "1.信息学部10栋 311928697 North 43 m",
+    "height": "28.5 m"
+   }
+  },
+  {
+   "266284516": {
+    "name": "武大信息学部教工13栋",
+    "area": "295m2",
+    "fclass": "building apartments",
+    "center": [
+     114.35372,
+     30.53266
+    ],
+    "bbox": [
+     [
+      114.35357,
+      30.53262
+     ],
+     [
+      114.35387,
+      30.53271
+     ]
+    ],
+    "Landmark": "POINT: 1.嗨购猫 restaurant 46.0",
+    "image_caption": "A rectangular building with a red-tiled gable roof and light gray exterior walls features evenly spaced windows and two small chimneys. It stands among similar residential structures with red-tiled roofs, surrounded by dense trees and connected by narrow roads. The urban setting includes a circular plaza nearby and a larger multi-story building in the background.",
+    "3D Spatial": "1.15栋 104449621 North 26 m  1. 104449627 Southwest 47 m  1.教工2栋 104449626 South 37 m",
+    "height": "28.1 m"
+   }
+  },
+  {
+   "273968039": {
+    "name": "遥感信息工程学院（5号教学楼）",
+    "area": "1457m2",
+    "fclass": "building university",
+    "center": [
+     114.35458,
+     30.52829
+    ],
+    "bbox": [
+     [
+      114.35418,
+      30.52819
+     ],
+     [
+      114.35498,
+      30.52838
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.北京路 residential  2.求是二路 residential\nPOINT: 1.遥感院门口的小亭子 shelter 28.0  2.自强超市 convenience 40.0",
+    "image_caption": "A rectangular multi-story building with a beige facade and dark-framed windows stands adjacent to a tree-lined road. The flat roof houses technical equipment and antennas, while the surrounding area features parked cars, a pathway through green space, and partial views of neighboring structures.",
+    "3D Spatial": "1.附3教学楼 273968040 Northwest 36 m  1. 1037280644 Southeast 32 m",
+    "height": "26.8 m"
+   }
+  },
+  {
+   "273968040": {
+    "name": "附3教学楼",
+    "area": "550m2",
+    "fclass": "building university",
+    "center": [
+     114.35437,
+     30.52857
+    ],
+    "bbox": [
+     [
+      114.3543,
+      30.52838
+     ],
+     [
+      114.35444,
+      30.52876
+     ]
+    ],
+    "Landmark": "POINT: 1.自强超市 convenience 43.0",
+    "image_caption": "A rectangular building with a light gray and beige facade features multiple windows with air conditioning units. The flat roof is topped with a white dome and pipes. Dense trees surround the structure, which sits near a pond with a pavilion and is part of a larger campus complex.",
+    "3D Spatial": "1.印刷包装系（3号教学楼） 127025731 Northeast 33 m  1.遥感信息工程学院（5号教学楼） 273968039 Southeast 36 m",
+    "height": "25.1 m"
+   }
+  },
+  {
+   "286543789": {
+    "name": "信息学部一食堂",
+    "area": "2741m2",
+    "fclass": "building ",
+    "center": [
+     114.35369,
+     30.53071
+    ],
+    "bbox": [
+     [
+      114.35339,
+      30.5305
+     ],
+     [
+      114.354,
+      30.53093
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖一路 residential\nPOINT: 1.珞珈山综合商店 supermarket 38.0  2.肯德基 fast_food 49.0  3.瑞幸咖啡 cafe 43.0  4.读者服务部 bookshop 25.0  5.信息学部学生二食堂 restaurant 0.0  6.罗森 convenience 30.0  7.霸王茶姬 cafe 27.0  8.蛋包饭 restaurant 49.0  9.珞珈川味面馆 restaurant 0.0  10.理发店 hairdresser 15.0  11.武大测绘社区居委会 community_centre 17.0  12.信息学部学生一食堂 restaurant 0.0",
+    "image_caption": "The building is rectangular with a flat, dark gray roof featuring mechanical units, piping, and ventilation systems. The exterior has light-colored walls with large windows. It is situated in a dense urban environment, bordered by a road on one side and surrounded by other high-rise structures. To the west lies a landscaped area with pathways and vegetation, while a sports court is visible nearby. The surrounding area combines urban development with scattered greenery and recreational spaces.",
+    "3D Spatial": "1. 307265577 West 46 m",
+    "height": "23.3 m"
+   }
+  },
+  {
+   "305553574": {
+    "name": "学生宿舍2舍",
+    "area": "1546m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35456,
+     30.53029
+    ],
+    "bbox": [
+     [
+      114.35417,
+      30.5301
+     ],
+     [
+      114.35487,
+      30.53049
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖路 residential  2.星湖一路 residential\nPOINT: 1.九筒冒菜 restaurant 0.0  2.珞珈山综合商店 supermarket 24.0  3.肯德基 fast_food 0.0  4.瑞幸咖啡 cafe 0.0  5.古茗 cafe 0.0  6.7-Eleven convenience 0.0  7.茶颜悦色 cafe 0.0  8.研卤堂 restaurant 0.0  9.罗森 convenience 0.0  10.霸王茶姬 cafe 0.0  11.饭团 restaurant 0.0  12.蛋包饭 restaurant 0.0  13.钵钵鸡 restaurant 0.0",
+    "image_caption": "The building is a rectangular, multi-story structure with a light gray facade and a grid-like pattern of windows. Its flat roof features utility structures, including a cylindrical tank. The building is centrally positioned in an urban landscape, flanked by a pond with a pavilion and a sports field with a running track. Dense tree coverage and pathways surround the structure, while additional multi-story buildings form the backdrop.",
+    "3D Spatial": "1.樱花园 306407534 South 43 m",
+    "height": "28.0 m"
+   }
+  },
+  {
+   "306407524": {
+    "name": "测绘遥感国家重点实验室",
+    "area": "1829m2",
+    "fclass": "building university",
+    "center": [
+     114.35478,
+     30.52943
+    ],
+    "bbox": [
+     [
+      114.35456,
+      30.52917
+     ],
+     [
+      114.35497,
+      30.52971
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是二路 residential",
+    "image_caption": "The building is a rectangular, multi-story structure with a white and light gray exterior, featuring a combination of flat and sloped roofs. The upper portion includes a light blue roof section with HVAC equipment and a small red canopy. The structure shows signs of wear and surface discoloration. It is surrounded by dense trees and vegetation, with a domed building to its left, a sports field with running track to its right, and a pond featuring a pavilion and zigzag bridge in the background.",
+    "3D Spatial": "",
+    "height": "45.2 m"
+   }
+  },
+  {
+   "307265577": {
+    "name": null,
+    "area": "359m2",
+    "fclass": "building ",
+    "center": [
+     114.35321,
+     30.53069
+    ],
+    "bbox": [
+     [
+      114.35314,
+      30.53056
+     ],
+     [
+      114.35327,
+      30.53082
+     ]
+    ],
+    "Landmark": "POINT: 1.水卡办理处 bank 49.0  2.读者服务部 bookshop 21.0  3.信息学部学生二食堂 restaurant 40.0  4.理发店 hairdresser 0.0  5.武大测绘社区居委会 community_centre 0.0  6.信息学部学生一食堂 restaurant 40.0",
+    "image_caption": "The building is rectangular with a flat, dark weathered roof featuring aligned HVAC units and scattered debris. A satellite dish is mounted on its upper portion. The structure has light-colored walls and is situated between other buildings, with a narrow road and parked cars along one side. The surrounding area includes a circular garden, sports courts, and a park with trees, creating a mix of urban and green spaces.",
+    "3D Spatial": "1.澡堂 104372398 South 26 m  1.信息学部一食堂 286543789 East 46 m",
+    "height": "22.5 m"
+   }
+  },
+  {
+   "311927943": {
+    "name": "信息学部8栋",
+    "area": "2099m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35348,
+     30.52852
+    ],
+    "bbox": [
+     [
+      114.35283,
+      30.52841
+     ],
+     [
+      114.35394,
+      30.5288
+     ]
+    ],
+    "Landmark": "POINT: 1.自强超市 convenience 0.0  2.竹园 memorial 47.0  3.中国银行 atm 38.0",
+    "image_caption": "A rectangular multi-story building with a white and gray facade features a uniform grid pattern of windows and vertical black sections. The flat rooftop contains ventilation units, equipment, and railings. The building is flanked by a tree-lined road and park with dense vegetation on one side, while other large structures occupy the adjacent urban space. The surrounding area includes a small pond, roads, and mixed urban development.",
+    "3D Spatial": "1.信息学部7栋 256668237 North 40 m",
+    "height": "31.1 m"
+   }
+  },
+  {
+   "311928697": {
+    "name": "信息学部10栋",
+    "area": "863m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35259,
+     30.52886
+    ],
+    "bbox": [
+     [
+      114.35221,
+      30.52881
+     ],
+     [
+      114.35296,
+      30.52892
+     ]
+    ],
+    "Landmark": "POINT: 1.中国银行 atm 0.0  2.信息学部清真食堂 restaurant 49.0",
+    "image_caption": "The rectangular building features a light gray facade with evenly spaced windows and a flat roof equipped with HVAC units. Dense trees surround the structure, particularly on its western side, while a parallel road runs along its eastern edge. The building is part of an urban landscape with adjacent structures, pathways, and a mix of high-rise buildings in the background.",
+    "3D Spatial": "1.信息学部9栋 256668241 South 43 m",
+    "height": "28.0 m"
+   }
+  },
+  {
+   "505746697": {
+    "name": "星湖综合实验大楼",
+    "area": "1867m2",
+    "fclass": "building university",
+    "center": [
+     114.35039,
+     30.52968
+    ],
+    "bbox": [
+     [
+      114.35014,
+      30.52949
+     ],
+     [
+      114.35064,
+      30.52987
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The building is a tall, rectangular structure with a light gray exterior and evenly distributed windows. Its roof features rows of solar panels and a glass atrium. The building is surrounded by multi-story structures, with a parking area and parked cars to the left, and a sports court with green space to the right. A road runs alongside the building, set within an urban landscape of high-rise buildings.",
+    "3D Spatial": "",
+    "height": "81.0 m"
+   }
+  },
+  {
+   "664756697": {
+    "name": "主席台",
+    "area": "149m2",
+    "fclass": "building ",
+    "center": [
+     114.35623,
+     30.53005
+    ],
+    "bbox": [
+     [
+      114.35619,
+      30.52996
+     ],
+     [
+      114.35628,
+      30.53013
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是一路 residential\nPOINT: 1.乒乓球馆 pitch 48.0",
+    "image_caption": "The rectangular building features a weathered blue roof with rust patches and circular vents. It is positioned between a running track and basketball courts, with bleachers nearby. The structure is surrounded by leafless trees and sits adjacent to a sports field, forming part of a recreational complex.",
+    "3D Spatial": "",
+    "height": "22.4 m"
+   }
+  },
+  {
+   "953298307": {
+    "name": "学生宿舍18栋",
+    "area": "1543m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35455,
+     30.53179
+    ],
+    "bbox": [
+     [
+      114.35419,
+      30.53169
+     ],
+     [
+      114.35491,
+      30.5319
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖一路 residential\nPOINT: 1.嗨购猫 restaurant 46.0  2.双子座甄品汇 supermarket 34.0",
+    "image_caption": "A rectangular high-rise building with a light gray facade and grid-like window pattern. The flat rooftop features HVAC units and mechanical equipment. The building is situated in a dense urban area, with a road running along its side and other residential structures nearby. To the left are trees separating it from a sports field with a running track, while the surrounding area includes landscaped pathways and mixed residential buildings.",
+    "3D Spatial": "1.学生宿舍5栋 236801236 South 44 m",
+    "height": "60.9 m"
+   }
+  },
+  {
+   "990913729": {
+    "name": "学生宿舍17栋",
+    "area": "1455m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35361,
+     30.53117
+    ],
+    "bbox": [
+     [
+      114.35325,
+      30.53107
+     ],
+     [
+      114.35398,
+      30.53126
+     ]
+    ],
+    "Landmark": "POINT: 1.信息学部学生二食堂 restaurant 50.0  2.珞珈川味面馆 restaurant 23.0  3.理发店 hairdresser 46.0  4.武大测绘社区居委会 community_centre 38.0  5.信息学部学生一食堂 restaurant 34.0",
+    "image_caption": "A tall, rectangular building with a light gray facade and uniform grid-like windows stands prominently in an urban setting. The flat rooftop features solar panels and mechanical equipment. The structure is surrounded by residential buildings and bordered by roads, with a sports complex containing basketball courts and a soccer field to its left. Scattered trees and greenery provide natural elements throughout the densely built area.",
+    "3D Spatial": "",
+    "height": "74.9 m"
+   }
+  },
+  {
+   "1036561024": {
+    "name": "C7舍",
+    "area": "423m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.35201,
+     30.52975
+    ],
+    "bbox": [
+     [
+      114.35186,
+      30.52968
+     ],
+     [
+      114.35216,
+      30.52982
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉大学宇航学院 college 21.0",
+    "image_caption": "The rectangular building features a flat, light gray roof with minimal surface markings and small rooftop structures. Its upper portion has rounded corners and a grid of windows with air conditioning units beneath. The building is situated among other multi-story structures, with a narrow road running alongside it. Trees line the perimeter, creating natural barriers between buildings. The surrounding urban landscape includes parking areas, vehicles, and a mix of built structures and greenery.",
+    "3D Spatial": "1. 104218610 North 27 m  1.武汉大学宇航研究院 1037024049 South 25 m  1. 104218611 West 44 m",
+    "height": "22.2 m"
+   }
+  },
+  {
+   "1037024049": {
+    "name": "武汉大学宇航研究院",
+    "area": "546m2",
+    "fclass": "building school",
+    "center": [
+     114.35203,
+     30.52952
+    ],
+    "bbox": [
+     [
+      114.35191,
+      30.5294
+     ],
+     [
+      114.35217,
+      30.52963
+     ]
+    ],
+    "Landmark": "POINT: 1.武汉大学宇航学院 college 0.0",
+    "image_caption": "The rectangular building features a light gray exterior with a grid-patterned facade. Its rooftop combines flat sections with two blue-gray metal gabled structures and includes a garden area with potted plants and circular tables. The building is situated in an urban environment, bordered by trees on one side and adjacent structures on the other, with roads and parked vehicles nearby. Larger commercial buildings form the surrounding cityscape.",
+    "3D Spatial": "1.地球空间环境与大地测量研究室 104218566 West 45 m  1.C7舍 1036561024 North 25 m",
+    "height": "24.2 m"
+   }
+  },
+  {
+   "1037322791": {
+    "name": "快递存放处（星湖园玻璃房）",
+    "area": "64m2",
+    "fclass": "building retail",
+    "center": [
+     114.35478,
+     30.53316
+    ],
+    "bbox": [
+     [
+      114.35474,
+      30.53312
+     ],
+     [
+      114.35482,
+      30.53321
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.物探路 residential\nPOINT: 1.水果店 supermarket 28.0  2.星湖园食堂 restaurant 38.0  3.自强超市 supermarket 10.0",
+    "image_caption": "A paved parking area contains several parked cars and is shaded by bare trees. The space is situated between residential buildings, with a blue-roofed structure to the right and multi-story buildings with balconies to the left. A narrow road runs parallel to the parking area, and dense vegetation borders the left side.",
+    "3D Spatial": "1.18栋 104373484 Northeast 30 m  1.星湖园教工食堂 104373483 Southeast 42 m",
+    "height": "23.4 m"
+   }
+  },
+  {
+   "1037696274": {
+    "name": "珞珈糕点",
+    "area": "421m2",
+    "fclass": "building ",
+    "center": [
+     114.35301,
+     30.52991
+    ],
+    "bbox": [
+     [
+      114.35282,
+      30.52986
+     ],
+     [
+      114.35319,
+      30.52999
+     ]
+    ],
+    "Landmark": "POINT: 1.学生四食堂 restaurant 45.0  2.信息学部学生三食堂 restaurant 30.0  3.水卡办理处 bank 24.0  4.读者服务部 bookshop 44.0",
+    "image_caption": "The building features a flat, dark gray roof with evenly spaced rectangular structures and vents. Its exterior combines glass and concrete, with a distinctive curved edge along one side. The structure is part of a dense urban complex, surrounded by parallel buildings and tree-lined paths. The area includes a pond with a pavilion, landscaped green spaces, and roads with parked cars connecting the various buildings.",
+    "3D Spatial": "1.学生宿舍11栋 104372384 Northwest 44 m  1.信息学部四食堂 104372393 Southwest 39 m",
+    "height": "16.6 m"
+   }
+  },
+  {
+   "1154975830": {
+    "name": "学生宿舍6栋",
+    "area": "1123m2",
+    "fclass": "building dormitory",
+    "center": [
+     114.3537,
+     30.53025
+    ],
+    "bbox": [
+     [
+      114.35342,
+      30.5301
+     ],
+     [
+      114.35404,
+      30.53034
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖路 residential  2.星湖一路 residential\nPOINT: 1.珞珈山综合商店 supermarket 3.0  2.肯德基 fast_food 31.0  3.瑞幸咖啡 cafe 24.0  4.古茗 cafe 38.0  5.茶颜悦色 cafe 44.0  6.读者服务部 bookshop 23.0  7.信息学部学生二食堂 restaurant 32.0  8.罗森 convenience 14.0  9.霸王茶姬 cafe 14.0  10.蛋包饭 restaurant 42.0  11.钵钵鸡 restaurant 46.0  12.理发店 hairdresser 40.0  13.武大测绘社区居委会 community_centre 48.0  14.信息学部学生一食堂 restaurant 48.0",
+    "image_caption": "A rectangular, multi-story building with a light gray facade and grid-patterned windows features a flat roof equipped with HVAC units and a cylindrical water tank. The building is situated in a dense urban environment, bordered by other large structures and a road. To its left lies a park area with a pond and traditional pavilion, creating a blend of urban development and landscaped greenery.",
+    "3D Spatial": "",
+    "height": "29.8 m"
+   }
+  },
+  {
+   "1337114125": {
+    "name": "武汉大学国家网络安全学院",
+    "area": "1749m2",
+    "fclass": "building university",
+    "center": [
+     114.35102,
+     30.52976
+    ],
+    "bbox": [
+     [
+      114.35081,
+      30.52939
+     ],
+     [
+      114.35129,
+      30.53013
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The modern building features a distinctive design with flat and curved surfaces, including a curved section on the right portion of its roof. The structure has a light gray facade with narrow windows along its upper portion. It is surrounded by a parking area with cars to the north and west, while a basketball court bordered by trees lies to the east. The urban setting includes adjacent buildings and a mix of greenery, connected by roads and pathways.",
+    "3D Spatial": "",
+    "height": "53.3 m"
+   }
+  },
+  {
+   "1337114126": {
+    "name": "国软B4教学楼",
+    "area": "1228m2",
+    "fclass": "building university",
+    "center": [
+     114.35148,
+     30.53005
+    ],
+    "bbox": [
+     [
+      114.35113,
+      30.52994
+     ],
+     [
+      114.35181,
+      30.53014
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The building is a tall rectangular structure with a light-colored facade and vertical windows arranged in a grid pattern. Its flat roof features a small blue structure and circular architectural elements. The building is situated in a dense urban area, surrounded by other multi-story structures, with a tree-lined boundary on one side. Adjacent features include a parking area and a sports court. Roads and pathways connect the surrounding buildings, forming part of the urban landscape.",
+    "3D Spatial": "1. 104218611 South 32 m",
+    "height": "38.3 m"
+   }
+  },
+  {
+   "1036561019": {
+    "name": "信息学部操场",
+    "area": "14612m2",
+    "fclass": "pitch ",
+    "center": [
+     114.3557,
+     30.53004
+    ],
+    "bbox": [
+     [
+      114.35521,
+      30.52923
+     ],
+     [
+      114.35617,
+      30.53084
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.毕升路 residential\nPOINT: 1.金通尹半身像 artwork 32.0  2.武汉大学信息学部凉亭 shelter 41.0",
+    "image_caption": "A rectangular sports pitch with alternating dark and light green stripes features white boundary lines, goalposts, and soccer field markings. A red running track encircles the pitch, with trees bordering the left and bottom edges. Adjacent sports courts lie to the right, while multi-story buildings and urban structures blend with dense vegetation in the background. A road with parked cars runs alongside the complex, creating an integrated urban recreational space.",
+    "3D Spatial": "1. 1036561020 West 0 m"
+   }
+  },
+  {
+   "1036561020": {
+    "name": null,
+    "area": "7322m2",
+    "fclass": "pitch ",
+    "center": [
+     114.35569,
+     30.53004
+    ],
+    "bbox": [
+     [
+      114.35534,
+      30.52955
+     ],
+     [
+      114.35605,
+      30.53053
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular soccer pitch with alternating dark and light green stripes features white boundary markings, a center circle, and penalty areas. The pitch is encircled by a reddish-brown running track and bordered by trees. Adjacent basketball courts and multi-story buildings lie to one side, while a prominent white building stands in the background. Goalposts with nets mark each end of the field, and the surface shows signs of regular use.",
+    "3D Spatial": "1.信息学部操场 1036561019 East 0 m"
+   }
+  },
+  {
+   "1036561021": {
+    "name": "星湖运动场",
+    "area": "2722m2",
+    "fclass": "sports_centre ",
+    "center": [
+     114.35266,
+     30.53153
+    ],
+    "bbox": [
+     [
+      114.35243,
+      30.53124
+     ],
+     [
+      114.35289,
+      30.53182
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential\nPOINT: 1.申通快递 post_box 22.0  2.武汉大学医院信息学部分院 hospital 22.0",
+    "image_caption": "The sports centre features a rectangular layout with multiple outdoor courts, including basketball and tennis courts with green surfaces and white markings. The upper portion contains basketball hoops and blue table tennis tables. The facility is surrounded by trees and sits within a dense urban environment, bordered by residential buildings, roads, and landscaped areas with circular pathways.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1036561022": {
+    "name": null,
+    "area": "14302m2",
+    "fclass": "pitch ",
+    "center": [
+     114.35013,
+     30.53083
+    ],
+    "bbox": [
+     [
+      114.34965,
+      30.53003
+     ],
+     [
+      114.35062,
+      30.53161
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The irregularly shaped pitch features a mix of green grass and brown earth patches with uneven surface texture. It is centrally located in an urban setting, bordered by residential buildings to the left and a road with parked cars. The upper portion contains a sandy path or track, while scattered vegetation and trees line the perimeter. The surrounding area includes parking spaces and additional urban structures, creating a dense built environment.",
+    "3D Spatial": "1. 1036561023 Southeast 3 m"
+   }
+  },
+  {
+   "1036561023": {
+    "name": null,
+    "area": "9441m2",
+    "fclass": "pitch ",
+    "center": [
+     114.35015,
+     30.5308
+    ],
+    "bbox": [
+     [
+      114.34978,
+      30.53013
+     ],
+     [
+      114.35052,
+      30.53148
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "An irregularly shaped pitch with mixed grass and bare earth patches is centrally located in an urban setting. The pitch is bordered by residential buildings to the left and bottom, with a road running along its edge. The surrounding area features parked vehicles, scattered trees, and a sports court in the background, creating a blend of built infrastructure and vegetation.",
+    "3D Spatial": "1. 1036561022 Northwest 3 m"
+   }
+  },
+  {
+   "104219266": {
+    "name": null,
+    "area": "32118m2",
+    "fclass": "forest ",
+    "center": [
+     114.35623,
+     30.53155
+    ],
+    "bbox": [
+     [
+      114.35505,
+      30.53092
+     ],
+     [
+      114.35748,
+      30.53221
+     ]
+    ]
+   }
+  },
+  {
+   "104372390": {
+    "name": null,
+    "area": "1914m2",
+    "fclass": "grass ",
+    "center": [
+     114.35534,
+     30.52846
+    ],
+    "bbox": [
+     [
+      114.35507,
+      30.52829
+     ],
+     [
+      114.35561,
+      30.52863
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.北京路 residential  2.陕西路 residential  3.求是二路 residential\nPOINT: 1.3s雕像（空中之舞） artwork 48.0",
+    "image_caption": "A well-maintained, uniform green lawn stretches alongside a road with parked cars, bordered by dense trees and shrubs. A sidewalk separates the grass from the road, with a partially visible building on the far left.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "104372394": {
+    "name": null,
+    "area": "1948m2",
+    "fclass": "grass ",
+    "center": [
+     114.35602,
+     30.52846
+    ],
+    "bbox": [
+     [
+      114.35575,
+      30.52828
+     ],
+     [
+      114.35629,
+      30.52863
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.北京路 residential  2.陕西路 residential  3.求是一路 residential\nPOINT: 1.3s雕像（空中之舞） artwork 47.0",
+    "image_caption": "A well-maintained grass lawn stretches between rows of trees, with parked cars along a pathway on the right side and a multi-story building visible in the background.",
+    "3D Spatial": "1. 104372397 South 49 m"
+   }
+  },
+  {
+   "104372397": {
+    "name": null,
+    "area": "1897m2",
+    "fclass": "grass ",
+    "center": [
+     114.35607,
+     30.52801
+    ],
+    "bbox": [
+     [
+      114.35579,
+      30.52763
+     ],
+     [
+      114.35627,
+      30.52823
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.北京路 residential  2.求是一路 residential\nPOINT: 1.南极石 memorial 30.0  2.武汉大学先进技术研究院 college 32.0  3.3s雕像（空中之舞） artwork 18.0",
+    "image_caption": "A patchy grass area bordered by parked cars and a road on one side and rows of trees on the other, featuring an uneven texture of green and brown grass with a small flowerbed and a paved path along its edge.",
+    "3D Spatial": "1. 104372394 North 49 m"
+   }
+  },
+  {
+   "104372412": {
+    "name": null,
+    "area": "2250m2",
+    "fclass": "grass ",
+    "center": [
+     114.35532,
+     30.528
+    ],
+    "bbox": [
+     [
+      114.3551,
+      30.52764
+     ],
+     [
+      114.35562,
+      30.52823
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.北京路 residential  2.求是二路 residential\nPOINT: 1.3s雕像（空中之舞） artwork 17.0  2.遥感院门口的小亭子 shelter 43.0",
+    "image_caption": "A large lawn with varying patches of green and brown grass extends across the area, bordered by a concrete path and dense shrubs on the left. Tall trees line the background, and a small rectangular marker sits on the grass to the right, with a red-tiled structure partially visible at the edge.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "306407534": {
+    "name": "樱花园",
+    "area": "1663m2",
+    "fclass": "forest ",
+    "center": [
+     114.35458,
+     30.5299
+    ],
+    "bbox": [
+     [
+      114.35422,
+      30.52973
+     ],
+     [
+      114.35488,
+      30.53004
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖路 residential\nPOINT: 1.九筒冒菜 restaurant 36.0  2.星湖亭 shelter 38.0  3.珞珈山综合商店 supermarket 34.0  4.肯德基 fast_food 18.0  5.瑞幸咖啡 cafe 19.0  6.古茗 cafe 19.0  7.7-Eleven convenience 19.0  8.茶颜悦色 cafe 19.0  9.研卤堂 restaurant 19.0  10.罗森 convenience 29.0  11.霸王茶姬 cafe 33.0  12.饭团 restaurant 35.0  13.蛋包饭 restaurant 35.0  14.钵钵鸡 restaurant 35.0",
+    "image_caption": "A cluster of tall, slender trees with sparse foliage and thin branches stands between urban buildings and a small lake with a decorative pavilion. The trees display muted browns and greens, creating a natural buffer within the urban landscape. The forest is characterized by visible pathways and patches of grass beneath the canopy.",
+    "3D Spatial": "1.学生宿舍2舍 305553574 North 43 m"
+   }
+  },
+  {
+   "307265567": {
+    "name": "樱花园",
+    "area": "6306m2",
+    "fclass": "forest ",
+    "center": [
+     114.35381,
+     30.52948
+    ],
+    "bbox": [
+     [
+      114.35337,
+      30.52912
+     ],
+     [
+      114.35459,
+      30.53005
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖南路 residential  2.星湖路 residential\nPOINT: 1.竹园 memorial 0.0  2.流芳廊 shelter 0.0  3.星湖亭 shelter 19.0  4.珞珈山综合商店 supermarket 13.0  5.肯德基 fast_food 46.0  6.瑞幸咖啡 cafe 39.0  7.信息学部清真食堂 restaurant 29.0  8.学生四食堂 restaurant 34.0  9.碧华轩 shelter 0.0  10.读者服务部 bookshop 43.0  11.罗森 convenience 37.0  12.霸王茶姬 cafe 40.0",
+    "image_caption": "A dense urban forest features varied tree heights and mixed foliage, with pathways winding through its grounds. A traditional pavilion stands near a pond within the forest, while tall buildings border the area on multiple sides, creating a natural sanctuary within the cityscape.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "358205763": {
+    "name": null,
+    "area": "1393m2",
+    "fclass": "grass ",
+    "center": [
+     114.35367,
+     30.53324
+    ],
+    "bbox": [
+     [
+      114.35351,
+      30.53303
+     ],
+     [
+      114.35383,
+      30.53344
+     ]
+    ],
+    "Landmark": "POINT: 1.珞俐便民店 supermarket 43.0",
+    "image_caption": "A patchy grass area forms a courtyard surrounded by multi-story residential buildings with red-tiled roofs. The grass shows varying shades of green with shadows cast by tall trees. Narrow roads with parked cars border the north and south sides, while dense trees and shrubs line the eastern edge. Pathways weave between the buildings, creating a mixed urban landscape of greenery and concrete structures.",
+    "3D Spatial": "1.15栋 104449621 South 37 m  1.20栋 104449620 North 39 m"
+   }
+  },
+  {
+   "539831831": {
+    "name": null,
+    "area": "1343m2",
+    "fclass": "forest ",
+    "center": [
+     114.35604,
+     30.53109
+    ],
+    "bbox": [
+     [
+      114.35576,
+      30.53096
+     ],
+     [
+      114.35628,
+      30.53123
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是一路 residential  2.毕升路 residential\nPOINT: 1.金通尹半身像 artwork 25.0  2.武汉大学信息学部凉亭 shelter 0.0",
+    "image_caption": "A dense forest area contains a small heart-shaped pond in its upper portion, featuring a mix of lush and bare trees. The forest is bordered by a large building to the west, sports courts to the east, a paved road to the north, and a running track to the south. Paved walkways separate the forest from the surrounding urban structures and recreational facilities.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "539831833": {
+    "name": null,
+    "area": "1437m2",
+    "fclass": "forest ",
+    "center": [
+     114.35536,
+     30.5311
+    ],
+    "bbox": [
+     [
+      114.35511,
+      30.53097
+     ],
+     [
+      114.35566,
+      30.53124
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.毕升路 residential  2.求是二路 residential\nPOINT: 1.金通尹半身像 artwork 0.0  2.武汉大学信息学部凉亭 shelter 45.0",
+    "image_caption": "A dense forest with varied tree heights and mixed foliage creates a lush green canopy in an urban setting. The forest is bordered by a large building to the south, a road with trees to the north, residential buildings to the east, and a sports field to the west, forming a natural contrast to the surrounding urban landscape.",
+    "3D Spatial": "1.武汉大学图书馆(信息分馆) 104108001 Northeast 46 m"
+   }
+  },
+  {
+   "664756701": {
+    "name": null,
+    "area": "273m2",
+    "fclass": "grass ",
+    "center": [
+     114.35245,
+     30.53205
+    ],
+    "bbox": [
+     [
+      114.35238,
+      30.53195
+     ],
+     [
+      114.35259,
+      30.53222
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖三路 residential",
+    "image_caption": "A lush, densely packed grass area with uniform texture is situated between a road and a cluster of trees. The grass strip is adjacent to a small pavilion and bordered by multi-story residential buildings, with tennis courts nearby. This green space serves as a landscaped buffer within an urban setting that combines recreational facilities and residential structures.",
+    "3D Spatial": "1.青5 104376429 Northwest 41 m  1. 104376128 West 35 m  1.院士楼4号 104449604 East 39 m"
+   }
+  },
+  {
+   "1037280644": {
+    "name": null,
+    "area": "1258m2",
+    "fclass": "grass ",
+    "center": [
+     114.35476,
+     30.52804
+    ],
+    "bbox": [
+     [
+      114.35455,
+      30.52787
+     ],
+     [
+      114.35501,
+      30.52818
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.求是二路 residential\nPOINT: 1.遥感院门口的小亭子 shelter 0.0",
+    "image_caption": "A lush, green grass area with dense, uniform texture sits between buildings and a paved pathway. The well-maintained lawn is surrounded by trees and shrubs, forming part of a courtyard-like space. The area is bordered by large buildings and connects to a plaza with parking lots in the background.",
+    "3D Spatial": "1.遥感信息工程学院（5号教学楼） 273968039 Northwest 32 m  1.资源与环境科学学院（7号教学楼） 104108011 Southwest 30 m"
+   }
+  },
+  {
+   "1037329805": {
+    "name": null,
+    "area": "1964m2",
+    "fclass": "forest ",
+    "center": [
+     114.35575,
+     30.53291
+    ],
+    "bbox": [
+     [
+      114.35542,
+      30.53275
+     ],
+     [
+      114.35606,
+      30.53306
+     ]
+    ],
+    "Landmark": "POINT: 1.星湖园食堂 restaurant 43.0",
+    "image_caption": "A dense, lush forest stands as a green enclave between residential buildings on three sides, with a road along one edge. The forest features a varied canopy of closely packed trees with visible branches, creating a natural contrast to the surrounding urban landscape. A large building with a blue roof is visible in the background.",
+    "3D Spatial": "1.49栋 104373495 Northeast 29 m  1.老年活动中心 104450163 Southwest 24 m"
+   }
+  },
+  {
+   "1037696272": {
+    "name": "信部CBD",
+    "area": "1346m2",
+    "fclass": "retail ",
+    "center": [
+     114.35452,
+     30.53028
+    ],
+    "bbox": [
+     [
+      114.35417,
+      30.53019
+     ],
+     [
+      114.35487,
+      30.53037
+     ]
+    ]
+   }
+  },
+  {
+   "1155391715": {
+    "name": "星空广场",
+    "area": "6068m2",
+    "fclass": "park ",
+    "center": [
+     114.35356,
+     30.53183
+    ],
+    "bbox": [
+     [
+      114.35303,
+      30.53153
+     ],
+     [
+      114.35411,
+      30.53218
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.星湖一路 residential  2.星湖二路 residential  3.求是大道 residential\nPOINT: 1.嗨购猫 restaurant 16.0",
+    "image_caption": "The park features an oval-shaped central lawn surrounded by winding pathways and landscaped areas. A distinctive circular plaza with patterned stone surfaces and radial pathways occupies the upper portion. Trees and shrubs line the paths throughout the grounds. The park is bordered by residential buildings with red-tiled roofs to the north, while larger multi-story structures stand to the south. Roads encircle the park on multiple sides, integrating it into the urban landscape.",
+    "3D Spatial": "1. 104449627 North 49 m  1. 104449615 Northwest 48 m"
+   }
+  },
+  {
+   "7728026": {
+    "name": "武汉大学信息学部",
+    "area": "462149m2",
+    "fclass": "university ",
+    "center": [
+     114.35405,
+     30.53089
+    ],
+    "bbox": [
+     [
+      114.34913,
+      30.52696
+     ],
+     [
+      114.35808,
+      30.53502
+     ]
+    ]
+   }
+  },
+  {
+   "295111844": {
+    "name": "星湖",
+    "area": "3357m2",
+    "fclass": "water ",
+    "center": [
+     114.35415,
+     30.52963
+    ],
+    "bbox": [
+     [
+      114.35368,
+      30.52938
+     ],
+     [
+      114.35461,
+      30.52986
+     ]
+    ]
+   }
+  }
+ ],
+ "Polyline": [
+  {
+   "103949717": {
+    "name": "求是一路",
+    "fclass": "residential",
+    "length": 574,
+    "nodes": [
+     [
+      114.35573,
+      30.52731
+     ],
+     [
+      114.35632,
+      30.52764
+     ],
+     [
+      114.3563,
+      30.53221
+     ]
+    ]
+   }
+  },
+  {
+   "103949718": {
+    "name": null,
+    "fclass": "residential",
+    "length": 381,
+    "nodes": [
+     [
+      114.35065,
+      30.53069
+     ],
+     [
+      114.35074,
+      30.52926
+     ],
+     [
+      114.35198,
+      30.52928
+     ],
+     [
+      114.35199,
+      30.52834
+     ]
+    ]
+   }
+  },
+  {
+   "103949725": {
+    "name": "毕升路",
+    "fclass": "residential",
+    "length": 120,
+    "nodes": [
+     [
+      114.35631,
+      30.53092
+     ],
+     [
+      114.35505,
+      30.53092
+     ]
+    ]
+   }
+  },
+  {
+   "103949733": {
+    "name": "玉兰路",
+    "fclass": "residential",
+    "length": 556,
+    "nodes": [
+     [
+      114.35668,
+      30.5322
+     ],
+     [
+      114.35668,
+      30.53303
+     ],
+     [
+      114.35579,
+      30.53337
+     ],
+     [
+      114.35452,
+      30.53369
+     ],
+     [
+      114.35199,
+      30.53375
+     ]
+    ]
+   }
+  },
+  {
+   "104108007": {
+    "name": "北京路",
+    "fclass": "residential",
+    "length": 120,
+    "nodes": [
+     [
+      114.35632,
+      30.52825
+     ],
+     [
+      114.35507,
+      30.52828
+     ]
+    ]
+   }
+  },
+  {
+   "104219265": {
+    "name": null,
+    "fclass": "footway",
+    "length": 112,
+    "nodes": [
+     [
+      114.35631,
+      30.53092
+     ],
+     [
+      114.35748,
+      30.53093
+     ]
+    ]
+   }
+  },
+  {
+   "104372380": {
+    "name": "星湖一路",
+    "fclass": "residential",
+    "length": 234,
+    "nodes": [
+     [
+      114.35409,
+      30.53008
+     ],
+     [
+      114.35409,
+      30.5322
+     ]
+    ]
+   }
+  },
+  {
+   "104372381": {
+    "name": "陕西路",
+    "fclass": "residential",
+    "length": 120,
+    "nodes": [
+     [
+      114.35506,
+      30.52866
+     ],
+     [
+      114.35632,
+      30.52866
+     ]
+    ]
+   }
+  },
+  {
+   "104372395": {
+    "name": "物探路",
+    "fclass": "residential",
+    "length": 168,
+    "nodes": [
+     [
+      114.35465,
+      30.5322
+     ],
+     [
+      114.35468,
+      30.53333
+     ],
+     [
+      114.35452,
+      30.53369
+     ]
+    ]
+   }
+  },
+  {
+   "104372400": {
+    "name": "星湖二路",
+    "fclass": "residential",
+    "length": 210,
+    "nodes": [
+     [
+      114.35303,
+      30.53009
+     ],
+     [
+      114.35301,
+      30.53199
+     ]
+    ]
+   }
+  },
+  {
+   "104372402": {
+    "name": "求是大道",
+    "fclass": "residential",
+    "length": 848,
+    "nodes": [
+     [
+      114.35747,
+      30.53178
+     ],
+     [
+      114.35727,
+      30.53203
+     ],
+     [
+      114.35668,
+      30.5322
+     ],
+     [
+      114.35371,
+      30.53219
+     ],
+     [
+      114.35273,
+      30.53194
+     ],
+     [
+      114.35194,
+      30.53348
+     ],
+     [
+      114.3522,
+      30.53427
+     ],
+     [
+      114.35185,
+      30.535
+     ]
+    ]
+   }
+  },
+  {
+   "104372409": {
+    "name": "星湖路",
+    "fclass": "residential",
+    "length": 259,
+    "nodes": [
+     [
+      114.35506,
+      30.53007
+     ],
+     [
+      114.35235,
+      30.53008
+     ]
+    ]
+   }
+  },
+  {
+   "104950060": {
+    "name": null,
+    "fclass": "footway",
+    "length": 27,
+    "nodes": [
+     [
+      114.35434,
+      30.52807
+     ],
+     [
+      114.35405,
+      30.52808
+     ]
+    ]
+   }
+  },
+  {
+   "122625785": {
+    "name": null,
+    "fclass": "footway",
+    "length": 60,
+    "nodes": [
+     [
+      114.35506,
+      30.52863
+     ],
+     [
+      114.35444,
+      30.52864
+     ]
+    ]
+   }
+  },
+  {
+   "122625898": {
+    "name": null,
+    "fclass": "footway",
+    "length": 57,
+    "nodes": [
+     [
+      114.35372,
+      30.52951
+     ],
+     [
+      114.35342,
+      30.52907
+     ]
+    ]
+   }
+  },
+  {
+   "122625899": {
+    "name": null,
+    "fclass": "footway",
+    "length": 128,
+    "nodes": [
+     [
+      114.35402,
+      30.52907
+     ],
+     [
+      114.35363,
+      30.52971
+     ],
+     [
+      114.35379,
+      30.53009
+     ]
+    ]
+   }
+  },
+  {
+   "122625900": {
+    "name": null,
+    "fclass": "footway",
+    "length": 9,
+    "nodes": [
+     [
+      114.35381,
+      30.52951
+     ],
+     [
+      114.35375,
+      30.52944
+     ]
+    ]
+   }
+  },
+  {
+   "122625902": {
+    "name": null,
+    "fclass": "footway",
+    "length": 52,
+    "nodes": [
+     [
+      114.35406,
+      30.52984
+     ],
+     [
+      114.35381,
+      30.52951
+     ]
+    ]
+   }
+  },
+  {
+   "122744427": {
+    "name": null,
+    "fclass": "residential",
+    "length": 30,
+    "nodes": [
+     [
+      114.35574,
+      30.52704
+     ],
+     [
+      114.35573,
+      30.52731
+     ]
+    ]
+   }
+  },
+  {
+   "122744428": {
+    "name": "求是二路",
+    "fclass": "residential",
+    "length": 575,
+    "nodes": [
+     [
+      114.35568,
+      30.52732
+     ],
+     [
+      114.35507,
+      30.52762
+     ],
+     [
+      114.35505,
+      30.5322
+     ]
+    ]
+   }
+  },
+  {
+   "202358434": {
+    "name": null,
+    "fclass": "service",
+    "length": 167,
+    "nodes": [
+     [
+      114.35276,
+      30.53309
+     ],
+     [
+      114.35341,
+      30.53308
+     ],
+     [
+      114.35344,
+      30.53263
+     ],
+     [
+      114.35371,
+      30.53219
+     ]
+    ]
+   }
+  },
+  {
+   "202358435": {
+    "name": null,
+    "fclass": "service",
+    "length": 198,
+    "nodes": [
+     [
+      114.35268,
+      30.53373
+     ],
+     [
+      114.35301,
+      30.53199
+     ]
+    ]
+   }
+  },
+  {
+   "202516852": {
+    "name": null,
+    "fclass": "service",
+    "length": 107,
+    "nodes": [
+     [
+      114.35353,
+      30.53248
+     ],
+     [
+      114.35465,
+      30.53248
+     ]
+    ]
+   }
+  },
+  {
+   "203427107": {
+    "name": null,
+    "fclass": "service",
+    "length": 245,
+    "nodes": [
+     [
+      114.35666,
+      30.53262
+     ],
+     [
+      114.35533,
+      30.53265
+     ],
+     [
+      114.35532,
+      30.53236
+     ],
+     [
+      114.35604,
+      30.53236
+     ],
+     [
+      114.35603,
+      30.53221
+     ]
+    ]
+   }
+  },
+  {
+   "203427109": {
+    "name": null,
+    "fclass": "service",
+    "length": 67,
+    "nodes": [
+     [
+      114.35668,
+      30.53303
+     ],
+     [
+      114.35734,
+      30.53291
+     ]
+    ]
+   }
+  },
+  {
+   "203427211": {
+    "name": null,
+    "fclass": "service",
+    "length": 139,
+    "nodes": [
+     [
+      114.35395,
+      30.5322
+     ],
+     [
+      114.35389,
+      30.53344
+     ]
+    ]
+   }
+  },
+  {
+   "203427214": {
+    "name": null,
+    "fclass": "service",
+    "length": 122,
+    "nodes": [
+     [
+      114.35345,
+      30.53282
+     ],
+     [
+      114.35472,
+      30.53282
+     ]
+    ]
+   }
+  },
+  {
+   "273985258": {
+    "name": null,
+    "fclass": "residential",
+    "length": 92,
+    "nodes": [
+     [
+      114.35632,
+      30.52808
+     ],
+     [
+      114.35728,
+      30.52808
+     ]
+    ]
+   }
+  },
+  {
+   "273985259": {
+    "name": "回归路",
+    "fclass": "residential",
+    "length": 415,
+    "nodes": [
+     [
+      114.35728,
+      30.52808
+     ],
+     [
+      114.35747,
+      30.53178
+     ]
+    ]
+   }
+  },
+  {
+   "307265569": {
+    "name": null,
+    "fclass": "path",
+    "length": 132,
+    "nodes": [
+     [
+      114.35334,
+      30.52908
+     ],
+     [
+      114.35333,
+      30.52998
+     ],
+     [
+      114.35303,
+      30.53009
+     ]
+    ]
+   }
+  },
+  {
+   "307265572": {
+    "name": null,
+    "fclass": "footway",
+    "length": 27,
+    "nodes": [
+     [
+      114.35367,
+      30.52961
+     ],
+     [
+      114.35338,
+      30.5296
+     ]
+    ]
+   }
+  },
+  {
+   "307265573": {
+    "name": null,
+    "fclass": "footway",
+    "length": 204,
+    "nodes": [
+     [
+      114.35224,
+      30.52963
+     ],
+     [
+      114.35184,
+      30.52963
+     ],
+     [
+      114.35185,
+      30.53003
+     ],
+     [
+      114.3517,
+      30.53017
+     ],
+     [
+      114.35067,
+      30.53018
+     ]
+    ]
+   }
+  },
+  {
+   "307265575": {
+    "name": null,
+    "fclass": "footway",
+    "length": 153,
+    "nodes": [
+     [
+      114.35067,
+      30.53018
+     ],
+     [
+      114.35001,
+      30.52996
+     ],
+     [
+      114.34913,
+      30.53004
+     ]
+    ]
+   }
+  },
+  {
+   "358205746": {
+    "name": null,
+    "fclass": "footway",
+    "length": 44,
+    "nodes": [
+     [
+      114.35631,
+      30.53138
+     ],
+     [
+      114.35677,
+      30.53139
+     ]
+    ]
+   }
+  },
+  {
+   "358205747": {
+    "name": null,
+    "fclass": "footway",
+    "length": 98,
+    "nodes": [
+     [
+      114.35672,
+      30.53093
+     ],
+     [
+      114.35684,
+      30.53117
+     ],
+     [
+      114.35725,
+      30.53117
+     ],
+     [
+      114.35732,
+      30.53093
+     ]
+    ]
+   }
+  },
+  {
+   "358205748": {
+    "name": null,
+    "fclass": "footway",
+    "length": 26,
+    "nodes": [
+     [
+      114.35684,
+      30.53117
+     ],
+     [
+      114.35677,
+      30.53139
+     ]
+    ]
+   }
+  },
+  {
+   "358205749": {
+    "name": null,
+    "fclass": "footway",
+    "length": 41,
+    "nodes": [
+     [
+      114.35725,
+      30.53117
+     ],
+     [
+      114.35725,
+      30.53154
+     ]
+    ]
+   }
+  },
+  {
+   "358205751": {
+    "name": null,
+    "fclass": "service",
+    "length": 95,
+    "nodes": [
+     [
+      114.35505,
+      30.53056
+     ],
+     [
+      114.35409,
+      30.53045
+     ]
+    ]
+   }
+  },
+  {
+   "358205752": {
+    "name": null,
+    "fclass": "service",
+    "length": 88,
+    "nodes": [
+     [
+      114.35505,
+      30.53092
+     ],
+     [
+      114.35413,
+      30.53092
+     ]
+    ]
+   }
+  },
+  {
+   "358205753": {
+    "name": null,
+    "fclass": "service",
+    "length": 92,
+    "nodes": [
+     [
+      114.35409,
+      30.53125
+     ],
+     [
+      114.35505,
+      30.53124
+     ]
+    ]
+   }
+  },
+  {
+   "358205754": {
+    "name": null,
+    "fclass": "footway",
+    "length": 65,
+    "nodes": [
+     [
+      114.35235,
+      30.53033
+     ],
+     [
+      114.35303,
+      30.53033
+     ]
+    ]
+   }
+  },
+  {
+   "358205755": {
+    "name": null,
+    "fclass": "footway",
+    "length": 64,
+    "nodes": [
+     [
+      114.35235,
+      30.53063
+     ],
+     [
+      114.35302,
+      30.53063
+     ]
+    ]
+   }
+  },
+  {
+   "358205756": {
+    "name": null,
+    "fclass": "footway",
+    "length": 64,
+    "nodes": [
+     [
+      114.35235,
+      30.53089
+     ],
+     [
+      114.35302,
+      30.53089
+     ]
+    ]
+   }
+  },
+  {
+   "358205760": {
+    "name": null,
+    "fclass": "service",
+    "length": 61,
+    "nodes": [
+     [
+      114.35569,
+      30.5281
+     ],
+     [
+      114.3557,
+      30.52866
+     ]
+    ]
+   }
+  },
+  {
+   "358205764": {
+    "name": null,
+    "fclass": "footway",
+    "length": 29,
+    "nodes": [
+     [
+      114.35328,
+      30.53374
+     ],
+     [
+      114.35328,
+      30.53347
+     ]
+    ]
+   }
+  },
+  {
+   "358205765": {
+    "name": null,
+    "fclass": "footway",
+    "length": 201,
+    "nodes": [
+     [
+      114.35274,
+      30.53347
+     ],
+     [
+      114.35468,
+      30.53333
+     ]
+    ]
+   }
+  },
+  {
+   "358205767": {
+    "name": null,
+    "fclass": "footway",
+    "length": 46,
+    "nodes": [
+     [
+      114.35341,
+      30.53308
+     ],
+     [
+      114.35349,
+      30.53347
+     ]
+    ]
+   }
+  },
+  {
+   "358205769": {
+    "name": null,
+    "fclass": "footway",
+    "length": 77,
+    "nodes": [
+     [
+      114.35392,
+      30.53301
+     ],
+     [
+      114.35473,
+      30.53302
+     ]
+    ]
+   }
+  },
+  {
+   "402823351": {
+    "name": null,
+    "fclass": "footway",
+    "length": 53,
+    "nodes": [
+     [
+      114.35632,
+      30.52866
+     ],
+     [
+      114.35678,
+      30.52875
+     ]
+    ]
+   }
+  },
+  {
+   "436981355": {
+    "name": null,
+    "fclass": "footway",
+    "length": 120,
+    "nodes": [
+     [
+      114.35505,
+      30.53127
+     ],
+     [
+      114.35631,
+      30.53126
+     ]
+    ]
+   }
+  },
+  {
+   "536353533": {
+    "name": null,
+    "fclass": "footway",
+    "length": 37,
+    "nodes": [
+     [
+      114.35572,
+      30.53126
+     ],
+     [
+      114.35572,
+      30.53092
+     ]
+    ]
+   }
+  },
+  {
+   "539822020": {
+    "name": null,
+    "fclass": "footway",
+    "length": 60,
+    "nodes": [
+     [
+      114.35677,
+      30.53139
+     ],
+     [
+      114.35684,
+      30.53159
+     ],
+     [
+      114.35723,
+      30.53159
+     ]
+    ]
+   }
+  },
+  {
+   "539822022": {
+    "name": null,
+    "fclass": "footway",
+    "length": 42,
+    "nodes": [
+     [
+      114.35678,
+      30.53139
+     ],
+     [
+      114.357,
+      30.53139
+     ],
+     [
+      114.357,
+      30.53159
+     ]
+    ]
+   }
+  },
+  {
+   "539822024": {
+    "name": null,
+    "fclass": "footway",
+    "length": 24,
+    "nodes": [
+     [
+      114.357,
+      30.53139
+     ],
+     [
+      114.35701,
+      30.53116
+     ]
+    ]
+   }
+  },
+  {
+   "539822029": {
+    "name": null,
+    "fclass": "footway",
+    "length": 131,
+    "nodes": [
+     [
+      114.35513,
+      30.5322
+     ],
+     [
+      114.35631,
+      30.53165
+     ]
+    ]
+   }
+  },
+  {
+   "539830418": {
+    "name": null,
+    "fclass": "service",
+    "length": 48,
+    "nodes": [
+     [
+      114.35297,
+      30.52864
+     ],
+     [
+      114.35296,
+      30.52907
+     ]
+    ]
+   }
+  },
+  {
+   "539831834": {
+    "name": null,
+    "fclass": "service",
+    "length": 17,
+    "nodes": [
+     [
+      114.35351,
+      30.52864
+     ],
+     [
+      114.35351,
+      30.5288
+     ]
+    ]
+   }
+  },
+  {
+   "673284744": {
+    "name": null,
+    "fclass": "residential",
+    "length": 158,
+    "nodes": [
+     [
+      114.35406,
+      30.52764
+     ],
+     [
+      114.35404,
+      30.52907
+     ]
+    ]
+   }
+  },
+  {
+   "673284746": {
+    "name": null,
+    "fclass": "service",
+    "length": 139,
+    "nodes": [
+     [
+      114.35375,
+      30.52864
+     ],
+     [
+      114.3523,
+      30.52864
+     ]
+    ]
+   }
+  },
+  {
+   "673284748": {
+    "name": "星湖南路",
+    "fclass": "residential",
+    "length": 509,
+    "nodes": [
+     [
+      114.35728,
+      30.52906
+     ],
+     [
+      114.35198,
+      30.5291
+     ]
+    ]
+   }
+  },
+  {
+   "673284749": {
+    "name": "星湖三路",
+    "fclass": "residential",
+    "length": 400,
+    "nodes": [
+     [
+      114.35236,
+      30.52908
+     ],
+     [
+      114.35238,
+      30.53269
+     ]
+    ]
+   }
+  },
+  {
+   "911456999": {
+    "name": null,
+    "fclass": "residential",
+    "length": 31,
+    "nodes": [
+     [
+      114.35568,
+      30.52732
+     ],
+     [
+      114.35569,
+      30.52703
+     ]
+    ]
+   }
+  },
+  {
+   "990913727": {
+    "name": null,
+    "fclass": "service",
+    "length": 92,
+    "nodes": [
+     [
+      114.35409,
+      30.53161
+     ],
+     [
+      114.35505,
+      30.53161
+     ]
+    ]
+   }
+  },
+  {
+   "1036845861": {
+    "name": null,
+    "fclass": "service",
+    "length": 221,
+    "nodes": [
+     [
+      114.35409,
+      30.53096
+     ],
+     [
+      114.35316,
+      30.53096
+     ],
+     [
+      114.35316,
+      30.53135
+     ],
+     [
+      114.35409,
+      30.53135
+     ]
+    ]
+   }
+  },
+  {
+   "1036845875": {
+    "name": null,
+    "fclass": "service",
+    "length": 91,
+    "nodes": [
+     [
+      114.35409,
+      30.53191
+     ],
+     [
+      114.35504,
+      30.5319
+     ]
+    ]
+   }
+  },
+  {
+   "1036845890": {
+    "name": null,
+    "fclass": "residential",
+    "length": 105,
+    "nodes": [
+     [
+      114.35235,
+      30.53006
+     ],
+     [
+      114.35217,
+      30.52936
+     ],
+     [
+      114.35198,
+      30.52927
+     ]
+    ]
+   }
+  },
+  {
+   "1037322795": {
+    "name": null,
+    "fclass": "path",
+    "length": 53,
+    "nodes": [
+     [
+      114.35288,
+      30.53258
+     ],
+     [
+      114.3532,
+      30.5327
+     ],
+     [
+      114.35311,
+      30.53264
+     ]
+    ]
+   }
+  },
+  {
+   "1037322796": {
+    "name": null,
+    "fclass": "path",
+    "length": 27,
+    "nodes": [
+     [
+      114.3532,
+      30.5327
+     ],
+     [
+      114.35345,
+      30.53282
+     ]
+    ]
+   }
+  },
+  {
+   "1037322797": {
+    "name": null,
+    "fclass": "footway",
+    "length": 186,
+    "nodes": [
+     [
+      114.35265,
+      30.53373
+     ],
+     [
+      114.35266,
+      30.53398
+     ],
+     [
+      114.35223,
+      30.53399
+     ],
+     [
+      114.35228,
+      30.5342
+     ],
+     [
+      114.35282,
+      30.53422
+     ],
+     [
+      114.35282,
+      30.53398
+     ],
+     [
+      114.35266,
+      30.53398
+     ]
+    ]
+   }
+  },
+  {
+   "1037322798": {
+    "name": null,
+    "fclass": "footway",
+    "length": 190,
+    "nodes": [
+     [
+      114.35282,
+      30.53422
+     ],
+     [
+      114.35343,
+      30.53432
+     ],
+     [
+      114.35219,
+      30.53441
+     ]
+    ]
+   }
+  },
+  {
+   "1037322799": {
+    "name": null,
+    "fclass": "footway",
+    "length": 20,
+    "nodes": [
+     [
+      114.35282,
+      30.53422
+     ],
+     [
+      114.35282,
+      30.5344
+     ]
+    ]
+   }
+  },
+  {
+   "1037322800": {
+    "name": null,
+    "fclass": "footway",
+    "length": 86,
+    "nodes": [
+     [
+      114.35343,
+      30.53422
+     ],
+     [
+      114.35344,
+      30.53397
+     ],
+     [
+      114.35282,
+      30.53398
+     ]
+    ]
+   }
+  },
+  {
+   "1037322801": {
+    "name": null,
+    "fclass": "footway",
+    "length": 26,
+    "nodes": [
+     [
+      114.35328,
+      30.53374
+     ],
+     [
+      114.35327,
+      30.53398
+     ]
+    ]
+   }
+  },
+  {
+   "1037322802": {
+    "name": null,
+    "fclass": "footway",
+    "length": 121,
+    "nodes": [
+     [
+      114.35344,
+      30.53397
+     ],
+     [
+      114.35396,
+      30.53397
+     ],
+     [
+      114.35396,
+      30.53411
+     ],
+     [
+      114.35343,
+      30.53432
+     ]
+    ]
+   }
+  },
+  {
+   "1037322803": {
+    "name": null,
+    "fclass": "footway",
+    "length": 61,
+    "nodes": [
+     [
+      114.35396,
+      30.53397
+     ],
+     [
+      114.35389,
+      30.53344
+     ]
+    ]
+   }
+  },
+  {
+   "1037329806": {
+    "name": null,
+    "fclass": "service",
+    "length": 99,
+    "nodes": [
+     [
+      114.3561,
+      30.53325
+     ],
+     [
+      114.35604,
+      30.53236
+     ]
+    ]
+   }
+  },
+  {
+   "1050745724": {
+    "name": null,
+    "fclass": "footway",
+    "length": 109,
+    "nodes": [
+     [
+      114.35505,
+      30.53161
+     ],
+     [
+      114.35618,
+      30.53175
+     ]
+    ]
+   }
+  },
+  {
+   "1050745725": {
+    "name": null,
+    "fclass": "footway",
+    "length": 27,
+    "nodes": [
+     [
+      114.35562,
+      30.53197
+     ],
+     [
+      114.35571,
+      30.53221
+     ]
+    ]
+   }
+  },
+  {
+   "1268358749": {
+    "name": null,
+    "fclass": "path",
+    "length": 9,
+    "nodes": [
+     [
+      114.35406,
+      30.52984
+     ],
+     [
+      114.35406,
+      30.52993
+     ]
+    ]
+   }
+  },
+  {
+   "1268358750": {
+    "name": null,
+    "fclass": "path",
+    "length": 31,
+    "nodes": [
+     [
+      114.35412,
+      30.52995
+     ],
+     [
+      114.35402,
+      30.52999
+     ],
+     [
+      114.35412,
+      30.52995
+     ]
+    ]
+   }
+  },
+  {
+   "1268358751": {
+    "name": null,
+    "fclass": "path",
+    "length": 8,
+    "nodes": [
+     [
+      114.35414,
+      30.53008
+     ],
+     [
+      114.35409,
+      30.53001
+     ]
+    ]
+   }
+  },
+  {
+   "104372401": {
+    "name": null,
+    "fclass": "residential",
+    "length": 41,
+    "nodes": [
+     [
+      114.35277,
+      30.53192
+     ],
+     [
+      114.35234,
+      30.53192
+     ]
+    ]
+   }
+  }
+ ],
+ "Point": [
+  {
+   "1199840485": {
+    "name": null,
+    "fclass": "bicycle_rental",
+    "coordinates": [
+     114.35201,
+     30.53453
+    ]
+   }
+  },
+  {
+   "1204194431": {
+    "name": "武汉大学星湖园招待所",
+    "fclass": "hotel",
+    "coordinates": [
+     114.35505,
+     30.53234
+    ]
+   }
+  },
+  {
+   "1204235248": {
+    "name": "星湖园食堂",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35498,
+     30.53281
+    ]
+   }
+  },
+  {
+   "1369722862": {
+    "name": "千里马考研书店",
+    "fclass": "bookshop",
+    "coordinates": [
+     114.3538,
+     30.53432
+    ]
+   }
+  },
+  {
+   "1369722875": {
+    "name": "自强超市",
+    "fclass": "convenience",
+    "coordinates": [
+     114.35386,
+     30.52861
+    ]
+   }
+  },
+  {
+   "2122112784": {
+    "name": null,
+    "fclass": "atm",
+    "coordinates": [
+     114.3562,
+     30.52883
+    ]
+   }
+  },
+  {
+   "2177869899": {
+    "name": "乒乓球馆",
+    "fclass": "pitch",
+    "coordinates": [
+     114.35677,
+     30.53015
+    ]
+   }
+  },
+  {
+   "2334952920": {
+    "name": "武汉大学先进技术研究院",
+    "fclass": "college",
+    "coordinates": [
+     114.35653,
+     30.52746
+    ]
+   }
+  },
+  {
+   "2481290613": {
+    "name": "3s雕像（空中之舞）",
+    "fclass": "artwork",
+    "coordinates": [
+     114.35569,
+     30.52787
+    ]
+   }
+  },
+  {
+   "2800927425": {
+    "name": "中国银行",
+    "fclass": "atm",
+    "coordinates": [
+     114.35281,
+     30.52889
+    ]
+   }
+  },
+  {
+   "3401585917": {
+    "name": "自强超市",
+    "fclass": "supermarket",
+    "coordinates": [
+     114.35476,
+     30.53303
+    ]
+   }
+  },
+  {
+   "3407309301": {
+    "name": "理发店",
+    "fclass": "hairdresser",
+    "coordinates": [
+     114.35324,
+     30.53066
+    ]
+   }
+  },
+  {
+   "4059151054": {
+    "name": "星湖亭",
+    "fclass": "shelter",
+    "coordinates": [
+     114.35396,
+     30.52967
+    ]
+   }
+  },
+  {
+   "4787804299": {
+    "name": "申通快递",
+    "fclass": "post_box",
+    "coordinates": [
+     114.35219,
+     30.53131
+    ]
+   }
+  },
+  {
+   "5223034043": {
+    "name": "夏坚白半身像",
+    "fclass": "artwork",
+    "coordinates": [
+     114.35719,
+     30.53137
+    ]
+   }
+  },
+  {
+   "9546618603": {
+    "name": "金通尹半身像",
+    "fclass": "artwork",
+    "coordinates": [
+     114.35551,
+     30.53111
+    ]
+   }
+  },
+  {
+   "9546618604": {
+    "name": "遥感院门口的小亭子",
+    "fclass": "shelter",
+    "coordinates": [
+     114.35465,
+     30.52796
+    ]
+   }
+  },
+  {
+   "9548634106": {
+    "name": "信息学部学生三食堂",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35279,
+     30.52959
+    ]
+   }
+  },
+  {
+   "9548634108": {
+    "name": "信息学部学生一食堂",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35369,
+     30.53077
+    ]
+   }
+  },
+  {
+   "9548634109": {
+    "name": "信息学部学生二食堂",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35369,
+     30.53063
+    ]
+   }
+  },
+  {
+   "9548634918": {
+    "name": "武汉大学宇航学院",
+    "fclass": "college",
+    "coordinates": [
+     114.35198,
+     30.52949
+    ]
+   }
+  },
+  {
+   "9548634922": {
+    "name": "武大测绘社区居委会",
+    "fclass": "community_centre",
+    "coordinates": [
+     114.35321,
+     30.53074
+    ]
+   }
+  },
+  {
+   "9552099927": {
+    "name": "南极石",
+    "fclass": "memorial",
+    "coordinates": [
+     114.35615,
+     30.52738
+    ]
+   }
+  },
+  {
+   "9553919075": {
+    "name": "学生四食堂",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35303,
+     30.52945
+    ]
+   }
+  },
+  {
+   "9553919076": {
+    "name": "信息学部清真食堂",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35307,
+     30.52935
+    ]
+   }
+  },
+  {
+   "9553919077": {
+    "name": "珞珈川味面馆",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35383,
+     30.53087
+    ]
+   }
+  },
+  {
+   "9554504329": {
+    "name": "碧华轩",
+    "fclass": "shelter",
+    "coordinates": [
+     114.35362,
+     30.52945
+    ]
+   }
+  },
+  {
+   "9554504330": {
+    "name": "竹园",
+    "fclass": "memorial",
+    "coordinates": [
+     114.35381,
+     30.52922
+    ]
+   }
+  },
+  {
+   "9555904973": {
+    "name": "水卡办理处",
+    "fclass": "bank",
+    "coordinates": [
+     114.35288,
+     30.53018
+    ]
+   }
+  },
+  {
+   "9555904974": {
+    "name": "伊达图文快印",
+    "fclass": "supermarket",
+    "coordinates": [
+     114.35458,
+     30.5326
+    ]
+   }
+  },
+  {
+   "9555904979": {
+    "name": "水果店",
+    "fclass": "supermarket",
+    "coordinates": [
+     114.35461,
+     30.5329
+    ]
+   }
+  },
+  {
+   "9555904999": {
+    "name": "五洲餐厅",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35264,
+     30.53265
+    ]
+   }
+  },
+  {
+   "9555905001": {
+    "name": "珞俐便民店",
+    "fclass": "supermarket",
+    "coordinates": [
+     114.35371,
+     30.53382
+    ]
+   }
+  },
+  {
+   "9555974804": {
+    "name": "读者服务部",
+    "fclass": "bookshop",
+    "coordinates": [
+     114.35319,
+     30.53036
+    ]
+   }
+  },
+  {
+   "9555974805": {
+    "name": "武汉大学医院信息学部分院",
+    "fclass": "hospital",
+    "coordinates": [
+     114.3522,
+     30.53139
+    ]
+   }
+  },
+  {
+   "9556027233": {
+    "name": "流芳廊",
+    "fclass": "shelter",
+    "coordinates": [
+     114.354,
+     30.52933
+    ]
+   }
+  },
+  {
+   "9557586665": {
+    "name": "武汉法语联盟",
+    "fclass": "college",
+    "coordinates": [
+     114.35232,
+     30.53318
+    ]
+   }
+  },
+  {
+   "9722186835": {
+    "name": "珞珈山综合商店",
+    "fclass": "supermarket",
+    "coordinates": [
+     114.35392,
+     30.53016
+    ]
+   }
+  },
+  {
+   "9722186836": {
+    "name": null,
+    "fclass": "waste_basket",
+    "coordinates": [
+     114.3524,
+     30.52994
+    ]
+   }
+  },
+  {
+   "10742578168": {
+    "name": "羽毛球场",
+    "fclass": "pitch",
+    "coordinates": [
+     114.3568,
+     30.52987
+    ]
+   }
+  },
+  {
+   "10743000838": {
+    "name": "研卤堂",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35463,
+     30.5302
+    ]
+   }
+  },
+  {
+   "10743000839": {
+    "name": "7-Eleven",
+    "fclass": "convenience",
+    "coordinates": [
+     114.35457,
+     30.5302
+    ]
+   }
+  },
+  {
+   "10743000840": {
+    "name": "茶颜悦色",
+    "fclass": "cafe",
+    "coordinates": [
+     114.3545,
+     30.5302
+    ]
+   }
+  },
+  {
+   "10743000841": {
+    "name": "古茗",
+    "fclass": "cafe",
+    "coordinates": [
+     114.35444,
+     30.5302
+    ]
+   }
+  },
+  {
+   "10743258309": {
+    "name": "霸王茶姬",
+    "fclass": "cafe",
+    "coordinates": [
+     114.35419,
+     30.53032
+    ]
+   }
+  },
+  {
+   "10743258310": {
+    "name": "罗森",
+    "fclass": "convenience",
+    "coordinates": [
+     114.35419,
+     30.53029
+    ]
+   }
+  },
+  {
+   "10743475230": {
+    "name": "肯德基",
+    "fclass": "fast_food",
+    "coordinates": [
+     114.35437,
+     30.5302
+    ]
+   }
+  },
+  {
+   "10744477508": {
+    "name": "嗨购猫",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35419,
+     30.53231
+    ]
+   }
+  },
+  {
+   "10744862655": {
+    "name": "武汉大学信息学部凉亭",
+    "fclass": "shelter",
+    "coordinates": [
+     114.35612,
+     30.53113
+    ]
+   }
+  },
+  {
+   "10744899262": {
+    "name": "陈永龄半身像",
+    "fclass": "artwork",
+    "coordinates": [
+     114.35719,
+     30.53143
+    ]
+   }
+  },
+  {
+   "10744899263": {
+    "name": "叶雪安半身像",
+    "fclass": "artwork",
+    "coordinates": [
+     114.35719,
+     30.53131
+    ]
+   }
+  },
+  {
+   "11777315367": {
+    "name": "九筒冒菜",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35466,
+     30.53035
+    ]
+   }
+  },
+  {
+   "11777328386": {
+    "name": "瑞幸咖啡",
+    "fclass": "cafe",
+    "coordinates": [
+     114.35429,
+     30.5302
+    ]
+   }
+  },
+  {
+   "11777488429": {
+    "name": "小超市",
+    "fclass": "supermarket",
+    "coordinates": [
+     114.35676,
+     30.53036
+    ]
+   }
+  },
+  {
+   "11780160231": {
+    "name": "双子座甄品汇",
+    "fclass": "supermarket",
+    "coordinates": [
+     114.35514,
+     30.53213
+    ]
+   }
+  },
+  {
+   "11782936508": {
+    "name": "蛋包饭",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35448,
+     30.53035
+    ]
+   }
+  },
+  {
+   "11782936509": {
+    "name": "钵钵鸡",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.35452,
+     30.53035
+    ]
+   }
+  },
+  {
+   "11782936511": {
+    "name": "饭团",
+    "fclass": "restaurant",
+    "coordinates": [
+     114.3546,
+     30.53035
+    ]
+   }
+  }
+ ]
+}

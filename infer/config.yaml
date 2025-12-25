@@ -1,0 +1,57 @@
+# =========================
+# Input / Output Settings
+# =========================
+# input_file: "data.json"     # Path to the structured JSON input file
+# output_file: "result.txt"   # Path to save the generated results
+
+input_file: ''     # Path to the structured JSON input file
+output_file: ''   # Path to save the generated results
+
+
+# =========================
+# Model Provider Settings
+# =========================
+# Available providers:
+# - "openai"     (ChatGPT, OpenAI-compatible APIs such as DeepSeek, Qwen)
+# - "anthropic" (Claude models)
+model_provider: "openai"
+
+# =========================
+# OpenAI Configuration (Primary)
+# =========================
+api_key: "YOUR_OPENAI_API_KEY"
+base_url: "https://api.openai.com/v1"
+model_name: "gpt-5"   # Example: gpt-4.1, gpt-4.1-mini, gpt-4o
+temperature: 0.1
+
+
+# =========================
+# Alternative Providers (Reference Only)
+# Uncomment and switch model_provider if needed
+# =========================
+
+# --- DeepSeek (OpenAI-compatible) ---
+# api_key: "YOUR_DEEPSEEK_API_KEY"
+# base_url: "https://api.deepseek.com"
+# model_name: "deepseek-chat"
+# temperature: 0.1
+
+
+# --- Google Gemini (via OpenAI-compatible API) ---
+# api_key: "YOUR_GOOGLE_API_KEY"
+# base_url: "https://gemini-api.google.com/v1"
+# model_name: "gemini-2.5-pro"
+
+
+# --- Qwen (Alibaba DashScope, OpenAI-compatible mode) ---
+# api_key: "YOUR_QWEN_API_KEY"
+# base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+# model_name: "qwen-plus"
+# temperature: 0.1
+
+
+# --- Anthropic Claude ---
+# model_provider: "anthropic"
+# api_key: "YOUR_ANTHROPIC_API_KEY"
+# model_name: "claude-4.5-sonnnet"
+# temperature: 0.1

@@ -1,0 +1,513 @@
+{
+  "distance_cognition": [
+    {
+      "id": 1,
+      "question": "According to the geographic data, what is the approximate straight-line distance from \"金通尹半身像\" to \"双子座甄品汇\"?\nA. 75-100m B. 100-125m C. 125-150m D. 150-175m",
+      "Ground_truth": "B"
+    },
+     {
+      "id": 2,
+      "question": "Calculate the straight-line distance from Information School Cafeteria No.4 (信息学部四食堂) to Wuhan University Library (Information Branch):\nA. 250-275m B. 275-300m C. 300-325m D. 325-350m",
+      "Ground_truth": "D"
+    },
+     {
+      "id": 3,
+      "question": "Calculate the straight-line distance from \"南极石\" to \"3s雕像（空中之舞）\":\nA. 50-75m B. 75-100m C. 100-125m D. 125-150m",
+      "Ground_truth": "A"
+    },
+     {
+      "id": 4,
+      "question": "What is the approximate straight-line distance from 信息学部一食堂 to 信息学部四食堂?\nA. 50-100m B. 100-150m C. 150-200m D. 200-200m",
+      "Ground_truth": "B"
+    },
+     {
+      "id": 5,
+      "question": "What is the approximate straight-line distance from 学生宿舍11栋 to 学生宿舍17栋?\nA. 75-100m B. 100-125m C. 125-150m D. 150-175m",
+      "Ground_truth": "C"
+    },
+     {
+      "id": 6,
+      "question": "What is the approximate straight-line distance between 武汉大学图书馆-信息分馆 and 星湖?\nA. 150-175m B. 175-200m C. 200-225m D. 225-250m",
+      "Ground_truth": "D"
+    },
+     {
+      "id": 7,
+      "question": "How far apart are the two statues: \"夏坚白半身像\" and \"陈永龄半身像\"?\nA. 0-25m B. 25-50m C. 50-75m D. 75-100m",
+      "Ground_truth": "A"
+    },
+     {
+      "id": 8,
+      "question": "What is the total perimeter distance around the park area (星空广场)?\nA. 350-375m B. 375-400m C. 400-425m D. 425-450m",
+      "Ground_truth": "B"
+    },
+     {
+      "id": 9,
+      "question": "What's the straight-line distance between the two furthest dormitory buildings: Building 55 (55栋) and 学生宿舍18栋?\nA. 325-350m B. 350-400m C. 400-425m D. 425-450m",
+      "Ground_truth": "B"
+    },
+     {
+      "id": 10,
+      "question": "Calculate the distance from the 武汉大学国家网络安全学院 to 信息学部四食堂:\nA. 50-100m B. 100-155m C. 150-200m D. 200-250m\n",
+      "Ground_truth": "C"
+    },
+     {
+      "id": 11,
+      "question": "How far is it from the College of Remote Sensing (遥感信息工程学院) to Student Dormitory 20 (20栋)?\nA. 300-350m B. 350-400m C. 400-450m D. 450-500m\n",
+      "Ground_truth": "D"
+    },
+     {
+      "id": 12,
+      "question": "What is the approximate straight-line distance from 国际交流中心 to 信息学部1号教学楼?\nA. 400-450m B. 450-500m C. 500-550m D. 550-600m",
+      "Ground_truth": "D"
+    },
+     {
+      "id": 13,
+      "question": "What's the straight-line distance from 武汉大学图书馆(信息分馆) to the 星湖综合实验大楼?\nA. 500-550m B. 550-600m C. 600-650m D. 650-7000m",
+      "Ground_truth": "A"
+    },
+     {
+      "id": 14,
+      "question": "Calculate the perimeter of the Star Lake (星湖) including all its curves:\nA. 250-275m B. 275-300m C. 300-325m D. 325-350m",
+      "Ground_truth": "B"
+    },
+     {
+      "id": 15,
+      "question": "Calculate the distance between 武汉大学国家网络安全学院 and 测绘学院.\nA. 575-600m B. 600-625m C. 625-650m D. 650-675m",
+      "Ground_truth": "A"
+    },
+     {
+      "id": 16,
+      "question": "Calculate the distance between these two dormitory entrances:\n学生宿舍4栋 and 学生宿舍14栋\nA. 175-200m B. 200-225m C. 225-250m D. 250-275m",
+      "Ground_truth": "A"
+    },
+     {
+      "id": 17,
+      "question": "Find the distance between these two retail points:\nKFC (肯德基) and 7-Eleven\nA. 0-25m B. 25-50m C. 50-75m D. 75-100m\n",
+      "Ground_truth": "A"
+    },
+     {
+      "id": 18,
+      "question": "Calculate the straight-line distance from:\nCollege of Surveying and Mapping (测绘学院)) to College of Remote Sensing (遥感信息工程学院)\nA. 175-200m B. 200-225m C. 250-275m D. 300-325m",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 19,
+      "question": "Find the straight-line distance from:\nTable Tennis Hall (乒乓球馆) to Star Lake Sports Complex (星湖运动场)\nA. 350-400m B. 400-450m C. 400-450m D. 450-500m",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 20,
+      "question": "Calculate the straight-line distance between:\nYouth Building (青年楼) and Star Lake Hotel (武汉大学星湖园招待所)\nA. 200-225m B. 175-200m C. 175-200m D. 125-150m",
+      "Ground_truth": "D"
+    }
+  ],
+  "position_cognition": [
+    {
+      "id": 21,
+      "question": "Which direction is C7舍 relative to 武汉大学宇航研究院?\nA. South\nB. North\nC. East\nD. West",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which direction is 55栋 relative to 53栋?\nA. North B. East C. South D. West",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 23,
+      "question": "what is the direction of 学生宿舍11栋 relative to 珞珈糕点?\nA. Southeast\nB. Northwest\nC. Northeast\nD. Southwest",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 24,
+      "question": "According to the data, what lies to the East of 院士楼2号?\nA. 院士楼4号\nB. 青5\nC. 12栋\nD. 教工2栋",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 25,
+      "question": "If you're at 青三, which direction would you walk to reach 53栋?\nA. North\nB. South\nC. Northeast\nD. Southwest",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 26,
+      "question": "When standing at 测绘学院-测量仪器陈列馆, which direction would 3s雕像（空中之舞） be located?\nA. Northwest\nB. Northeast\nC. Southeast\nD. Southwest",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 27,
+      "question": "Based on coordinates, what direction is 水卡办理处 relative to 星湖园食堂?\nA. Northwest\nB. East\nC. North\nD. Southwest",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 28,
+      "question": "According to the location data, what's the direction from 星湖综合实验大楼 to 国际交流中心?\nA. Southwest\nB. Southeast\nC. Northeast\nD. Northwest",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 29,
+      "question": "What direction would you walk from 武汉大学信息学部体育馆 to 学生宿舍4栋?\nA. Northwest\nB. Northeast\nC. Southwest\nD. Southeast",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 30 ,
+      "question": "What direction is 武汉大学图书馆(信息分馆) relative to 教学实验大楼?\nA. East\nB. West\nC. North\nD. South",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 31,
+      "question": "According to the coordinates, what's the direction from 武汉大学宇航学院 to 南极石?\nA. Southeast\nB. Southwest\nC. Northeast\nD. Northwest",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which direction is 55栋 relative to 测绘学院(4号教学楼)?\nA. Southeast\nB. Northwest\nC. Northeast\nD. Southwest",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 33,
+      "question": "what direction would you walk from 附3教学楼 to 珞珈糕点?\nA. Northwest\nB. Northeast\nC. Southwest\nD. Southeast",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 34,
+      "question": "When you're at 信息学部操场, which direction is 46栋?\nA. South\nB. North\nC. Northeast\nD. Northwest",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 35,
+      "question": "what direction would you travel from 星湖综合实验大楼to 武汉大学图书馆(信息分馆)?\nA. West\nB. East\nC. Northeast\nD. Southeast",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 36,
+      "question": "If you stand at 双泽楼 looking at 26栋, which direction are you facing?\nA. Northwest\nB. Northeast\nC. Southwest\nD. Southeast",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 37,
+      "question": "When walking from 羽毛球场 to 罗森, you are heading:\nA. Southwest\nB. Northwest\nC. West\nD. Southeast",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 38,
+      "question": "The 流芳廊 is located _____ of 主席台.\nA. Northeast\nB. Northwest\nC. Southeast\nD. Southwest",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 39,
+      "question": "If you are at 测绘遥感国家重点实验室 and need to send a package, which direction should you walk?\nA. Northwest\nB. Northeast\nC. Southwest\nD. Southeast",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 40,
+      "question": "After finishing your class at 信息学部1号教学楼, you want to grab a coffee. Which direction should you walk to reach the nearest cafe?\nA. Northwest\nB. Southwest\nC. Northeast\nD. West",
+      "Ground_truth": "A"
+    }
+  ],
+  "poi_cognition": [
+    {
+      "id": 41,
+      "question": "What academic building is located at coordinates (114.35569, 30.52882)?\nA. 测绘学院(4号教学楼)\nB. 信息学部1号教学楼\nC. 印刷包装系（3号教学楼）\nD. 遥感信息工程学院（5号教学楼）",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which building is located at coordinates (114.35665, 30.52761)?\nA. 教学实验大楼\nB. 测绘遥感国家重点实验室\nC. 星湖综合实验大楼\nD. 双泽楼",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 43,
+      "question": "What building can be found at coordinates (114.35502, 30.53285)?\nA. 信息学部学生一食堂\nB. 信息学部文体中心\nC. 星湖园教工食堂\nD. 老年活动中心",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 44,
+      "question": "When standing at coordinates (114.354674,  30.528038), which two buildings are visible on your left and right?\nA. 信息学部1号教学楼 and 印刷包装系（3号教学楼）\nB. 双泽楼 and 教学实验大楼\nC. 遥感信息工程学院（5号教学楼） and 资源与环境科学学院（7号教学楼）\nD. 测绘学院(4号教学楼) and 大学生活动中心",
+      "Ground_truth": ""
+    },
+    {
+      "id": 45,
+      "question": "Standing at (114.354602, 30.532003), what is the nearest dormitory building?\nA. 学生宿舍4栋\nB. 学生宿舍5栋\nC. 学生宿舍18栋\nD. 学生宿舍6栋",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 46,
+      "question": "What facilities can be found within 50 meters of coordinates (114.354612, 30.532260)?\nA. 武汉大学图书馆(信息分馆) and 双子座甄品汇\nB. 快递存放处（星湖园玻璃房）and 水果店\nC. 信息学部一食堂 and 学生宿舍17栋\nD. 星湖园教工食堂 and 学生宿舍18栋",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 47,
+      "question": "\"If you walk 50 meters north from coordinates (114.355673, 30.530614), which building would you reach first?\nA. 武汉大学图书馆(信息分馆)\nB. 信息学部学生一食堂\nC. 星湖园教工食堂\nD. 信息学部文体中心",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 48,
+      "question": "What is the primary building located at coordinates (114.354580, 30.528290)?\nA. 信息学部1号教学楼\nB. 大学生活动中心\nC. 遥感信息工程学院（5号教学楼） \nD. 教学实验大楼",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 49,
+      "question": "Which dormitory is closest to the coordinates (114.352030, 30.530890)?\nA. 学生宿舍15栋\nB. 学生宿舍18栋\nC. 学生宿舍17栋\nD. 学生宿舍14栋",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 50,
+      "question": "Standing at coordinates (114.356230, 30.527180), what is the nearest landmark?\nA. 南极石\nB. 教学实验大楼\nC. 双泽楼\nD. 信息学部1号教学楼",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 51,
+      "question": "Standing at coordinates (114.353550, 30.528880), which scenic area is nearby?\nA. 星湖亭\nB. 竹园\nC. 流芳廊\nD. 碧华轩\n",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 52,
+      "question": "What is the approximate height of the building located at (114.357200, 30.528800)?\nA. 25 meters\nB. 30 meters\nC. 35 meters\nD. 40 meters",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 53,
+      "question": "Which artistic landmark is located near (114.356000, 30.527500)?\nA. 空中之舞\nB. 叶雪安半身像\nC. 南极石\nD. 夏坚白半身像",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 54,
+      "question": "What sport can you play near (114.357300, 30.531900)?\nA. Basketball\nB. Tennis\nC. volleyball\nD. Table Tennis",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 55,
+      "question": "At coordinates (114.352200, 30.533000), which of the following is a common activity?\nA. Dining in a cafeteria\nB. Conducting academic research\nC. Playing outdoor sports\nD. Visiting a convenience store",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 56,
+      "question": " If you are at (114.353976, 30.533072), which dining hall is closest?\nA. 星湖园教工食堂\nB. 学生三食堂\nC. 学生四食堂\nD. 信息学部清真食堂",
+      "Ground_truth": ""
+    },
+    {
+      "id": 57,
+      "question": "Standing at (114.355020, 30.532850), which landmark is within 50 meters?\nA. 星湖园教工食堂\nB. 学生宿舍18栋\nC. 信息学部7栋\nD. 3S雕像（空中之舞）",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 58,
+      "question": "Standing at coordinates (114.356700, 30.529500), which of the following is true about this area?\nA. You can find a dormitory nearby.\nB. There is a library within 50 meters.\nC. A basketball court is located here.\nD. It is primarily an academic area with classrooms.\n",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following best describes the area around (114.355600, 30.528800)?\nA. It is an open recreational space.\nB. It is surrounded by multiple academic buildings.\nC. It contains a mix of student dormitories and dining halls.\nD. It is primarily a commercial area with shops and stores.\n",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 60,
+      "question": " What activities can you engage in near (114.354768, 30.53028)?\nA. Play tennis and enjoy scenic views\nB. Attend a lecture and visit a historical landmark\nC. Grab a snack and shop for groceries\nD. Relax at a garden and visit a library\n",
+      "Ground_truth": "C"
+    }
+  ],
+  "route_plan": [
+    {
+      "id": 61,
+      "question": "How do you reach 武汉大学图书馆(信息分馆) from 测绘学院(4号教学楼)? A. Head north on 求是大道 → Turn left onto 毕升路 → Arrive at 武汉大学图书馆(信息分馆)\nB. Follow 爱校路 west → Cross the sports field → Turn right to 武汉大学图书馆(信息分馆)\nC. Walk along 陕西路 east → Take a shortcut through 星湖园 → Enter 武汉大学图书馆(信息分馆)\nD. Follow 求是大道 south → Access via pedestrian plaza → Arrive at 武汉大学图书馆(信息分馆)",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 62,
+      "question": "What is the best route from 学生宿舍18舍 to 信息学部1号教学楼?\nA. Follow 求是二路 south → Turn left onto 星湖南路 → Arrive at 信息学部1号教学楼\nB. Walk along 星湖一路 west → Pass by 星湖园招待所 → Turn south onto 星湖南路 → Arrive at 信息学部1号教学楼\nC. Take 求是大道 east → Cross through 流芳廊 → Enter 信息学部1号教学楼 from the east gate\nD. Follow 星湖二路 south → Turn right at the small garden → Continue to 信息学部1号教学楼",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 63,
+      "question": "What is the best route from 学生宿舍11栋 to 信息学部CBD?\nA. Head south onto 星湖一路 → Pass by 星湖园食堂 → Arrive at 信息学部CBD\nB. Walk west along 星湖路 → Arrive directly at 信息学部CBD\nC. Follow 星湖三路 east →  Arrive at 信息学部CBD\nD. Take 求是大道 east → Pass through 星湖 → Arrive at 信息学部CBD",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 64,
+      "question": "What is the best route from 测绘遥感国家重点实验室 to 信息学部体育馆?\nA. Head south onto 星湖路 → Turn west along 玉兰路 → Reach 信息学部体育馆\nB. Walk east along 星湖南路 → Turn left onto 求是一路 → Arrive at 信息学部体育馆\nC. Follow 星湖南路 west → Arrive at 信息学部体育馆\nD. Take 求是大道 west → Turn north onto 星湖三路 → Enter 信息学部体育馆",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 65,
+      "question": "What is the best route from 遥感信息工程学院（5号教学楼） to 测绘学院（4号教学楼）?\n\nA. Follow 回归路 north → Turn east onto 北京路 → Arrive at 测绘学院（4号教学楼）\nB. Head south onto 爱校路 → Turn east onto 北京路 → Arrive at 测绘学院（4号教学楼）\nC. Walk east along 北京路 → Arrive directly at 测绘学院（4号教学楼）\nD. Take 求是二路 east → Turn north at 星湖三路 → Reach 测绘学院（4号教学楼）",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 66,
+      "question": "What is the best route from 学生宿舍11舍 to 学生宿舍18舍?\nA. Walk west onto 星湖一路 → Turn north along 星湖二路 → Reach 学生宿舍18舍\nB. Head east along 星湖一路 → Continue straight past 星湖园食堂 → Arrive at 学生宿舍18舍\nC. Follow 星湖路 east → Turn left onto 玉兰路 → Continue to 学生宿舍18舍\nD. Walk east along 星湖路 → Turn left onto 星湖一路 → Head north to reach 学生宿舍18舍",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 67,
+      "question": "What is the best route from 星湖综合实验大楼 to 信息学部操场?\nA. Head north along 求是大道 → Turn east onto 星湖南路 → Reach 信息学部操场\nB. Follow osmid 103949718 east → Turn north onto 星湖三路 → Arrive at 信息学部操场\nC. Follow osmid 103949718 east → Continue east along 星湖南路 → Arrive at 信息学部操场\nD. Take 星湖路 west → Turn south onto 星湖南路 → Head east to 信息学部操场",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 68,
+      "question": "What is the right route from 图书馆 to 星湖园教工食堂?\"\n\nA. Follow 求是二路 to 星湖路, then continue to 星湖园教工食堂\nB. Take 毕升路, then 求是二路 to 星湖园教工食堂\nC. Walk along 求是一路, then turn onto 物探路 to 星湖园教工食堂\nD. Follow 求是二路 to 求是大道, then to 物探路 to 星湖园教工食堂",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 69,
+      "question": "What is the best route from 星湖园玻璃房 to 21栋?\nA. Take 物探路 to 21栋\nB. Walk along 星湖三路, then continue to 21栋\nC. Follow footway(osmid:358205765) west to arrive at 21栋\nD. Follow footway(osmid:202358435) west to arrive at 21栋",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 70,
+      "question": "Which route is the most straightforward to reach 国际交流中心 from 学生宿舍11栋?\"\n\nA. Take a short walk along 星湖一路, then proceed via 求是大道 to 国际交流中心\nB. Head north on 星湖三路 until you reach 求是大道, then arrive at 国际交流中心\nC. Follow 星湖南路, cross 星湖路, and continue along 求是大道 to 国际交流中心\nD. Walk along 星湖二路 to 求是二路, then turn towards 国际交流中心",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 71,
+      "question": "How can you get to 星湖园招待所 from 珞珈糕点?\n\nA. Walk along 星湖一路, then follow 星湖南路 to 星湖园招待所\nB. Follow 求是二路 north, then continue onto 求是大道 to 星湖园招待所\nC. Head north along 星湖二路, then walk east along 求是大道 to 星湖园招待所\nD. Take 星湖路, cross 星湖园玻璃房, and follow 求是大道 to 星湖园招待所",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 72,
+      "question": "Which road leads to 3s雕像（空中之舞） from 1号教学楼?\n\nA. 求是一路\nB. 星湖路\nC. the footway(osmid:402823351)\nD. the service way(osmid:358205760)",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 73,
+      "question": "Which road is the shortest route from 信息学部文体中心 to 宇航研究院?\n\nA. 星湖一路\nB. 星湖二路\nC. footway(osmid:307265575)\nD. footway(osmid:307265573)",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 74,
+      "question": "Which road leads to 44栋 from 29栋?\n\nA. 星湖三路\nB. 玉兰路\nC. 星湖一路\nD. 求是大道",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 75,
+      "question": "Which road leads to 院士楼2号 from 21栋?\n\nA. 玉兰路\nB. the footway(osmid:358205764)\nC. service way(osmid:202358435)\nD. the footway(osmid:358205765)",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 76,
+      "question": "Which route is the most appropriate to get to 瑞幸咖啡 from 测绘遥感国家重点实验室?\n\nA. Follow 求是一路 north, then turn left onto 星湖路 and reach 瑞幸咖啡\nB. Walk along 求是二路 then turn left to 星湖路 and arrive at 瑞幸咖啡\nC. Take 求是二路 north, turn left onto 星湖南路, and reach 瑞幸咖啡\nD. Head along 求是二路, turn left at 星湖园食堂, and arrive at 瑞幸咖啡",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 77,
+      "question": "Which route is the best to get to 信息学部一食堂 from 图书馆?\nA. Take 求是大道 → 星湖一路 → Arrive at 信息学部一食堂\nB. Follow 物探路 → 星湖南路 → Reach 信息学部一食堂\nC. Walk along 358205753 → 星湖一路 → Arrive at 信息学部一食堂\nD. Use 星湖三路 → 求是大道 → Continue to 信息学部一食堂",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 78,
+      "question": "Which route is the best to get to 青年楼 from 信息学部10栋?\"\n\nA. Follow 星湖南路, then take 求是一路 north to 青年楼\nB. Walk along 星湖南路, turn left onto 求是大道, and continue to 青年楼\nC. Take 星湖路 east, turn left onto 求是一路, and head north to 青年楼\nD. Use 求是大道, turn right onto 星湖南路, and continue to 青年楼",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 79,
+      "question": "Which route is the best to get to 信息学部四食堂 from 学生宿舍18栋?\\n\nA. Walk along 星湖南路 south, then turn onto 星湖路 and continue west to 信息学部四食堂\nB. Follow 星湖二路 south, turn left onto 星湖南路, and head west to 信息学部四食堂\nC. Take 星湖一路 south, turn right onto 星湖南路, and continue west to 信息学部四食堂\nD. Walk along 星湖一路 south, then turn right onto 星湖路 and head west to 信息学部四食堂",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 80,
+      "question": "Which route is the best to get to 遥感信息工程学院 from 星湖综合实验大楼?\"\n\nA. Walk along the road(osmid:103949718) west, then take 星湖南路 west, and turn onto 求是一路 north to 遥感信息工程学院\nB. Walk along the road(osmid:103949718) west, continue on 星湖路 west, and turn south onto 求是大道 to 遥感信息工程学院\nC. Take 星湖南路 west, then 求是大道 south, and arrive at 遥感信息工程学院\nD. Follow the road (osmid: 103949718) to the west, then turn into 星湖南路 and go west, then turn into 求是二路 and go south to  遥感信息工程学院",
+      "Ground_truth": "D"
+    }
+  ],
+  "grounding": [
+    {
+      "id": 81,
+      "question": "Which building near 回归路 has a flat, dark roof with a small light-colored section and is surrounded by landscaped gardens?\n\nA. 信息学部1号教学楼\nB. 信息学部2号教学楼\nC. 遥感信息工程学院（5号教学楼）\nD. 院士楼2号",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 82,
+      "question": "Which building near 星湖一路 features a dark gray flat roof with visible mechanical units and large windows on its exterior?\n\nA. 信息学部一食堂\nB. 信息学部四食堂\nC. 学生宿舍2舍\nD. 学生宿舍11舍",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 83,
+      "question": "Which building located near 陕西路 has a light blue facade, white-framed windows, and a prominent dome on its roof?\nA. 遥感信息工程学院（5号教学楼）\nB. 附3教学楼\nC. 信息学部7栋\nD. 信息学部1号教学楼",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 84,
+      "question": "Which building near 求是一路 has a green rooftop garden and a light beige and gray facade with a grid-like window pattern?\nA. 附3教学楼\nB. 信息学部9栋\nC. 信息学部1号教学楼\nD. 教学实验大楼",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 85,
+      "question": "Which building  has a height of about 30 meters, features a flat, dark roof, and is adjacent to domed buildings and landscaped gardens?\n\nA. 信息学部2号教学楼\nB. 信息学部1号教学楼\nC. 附3教学楼\nD. 遥感信息工程学院（5号教学楼）",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 86,
+      "question": "Which building is surrounded by 星湖园食堂 and 星湖园招待所, and features a blue-tinted roof with gabled sections?\nA. 学生宿舍18舍\nB. 青年楼\nC. 1号楼\nD. 老年活动中心",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 87,
+      "question": "Which building has a height of about 20 meters, features a red-tiled roof, and is adjacent to a sports court?\n\nA. 30栋\nB. 27栋\nC. 国际交流中心\nD. 34栋",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 88,
+      "question": "Which building is located near 星湖亭, and features a dark roof with utility structures?\n\nA. 测绘遥感国家重点实验室\nB. 信息学部7栋\nC. 遥感信息工程学院（5号教学楼）\nD. 信息学部一食堂",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 89,
+      "question": "Which building has six roads near it with blue facades and white windows?\nA. 信息学部1号教学楼\nB. 遥感信息工程学院（5号教学楼）\nC. 信息学部2号教学楼\nD. 教学实验大楼",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 90,
+      "question": "Which building has a light gray facade with a red-tiled gable roof and is surrounded by trees and smaller red-roofed houses?\n\nA. 青五\nB. 14栋\nC. 15栋\nD. 16栋",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 91,
+      "question": "Which building has a red-tiled roof and white chimneys, surrounded by tree-lined pathways?\n\nA. 39栋\nB. 31栋\nC. 36栋\nD. 14栋",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 92,
+      "question": "Which building has vertical ridges on its facade and is near a soccer field?\n\nA. 遥感信息工程学院（5号教学楼）\nB. 信息学部1号教学楼\nC. 教学实验大楼\nD. 大学生活动中心",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 93,
+      "question": "Which building has a white facade, cylindrical water tanks on the roof, and is near basketball courts?\n\nA. 学生宿舍11栋\nB. 信息学部二食堂\nC. 学生宿舍15栋\nD. 信息学部学生三食堂",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 94,
+      "question": "Which building has a light gray facade, rows of balconies, and is located near 星湖三路?\n\nA. 25栋\nB. 26栋\nC. 12栋\nD. 28栋",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 95,
+      "question": "Which building is rectangular with a bright blue roof and is next to residential blocks?\nA. 教学实验大\nB. 信息学部学生三食堂\nC. 老年活动中心\nD. 星湖园教工食堂楼",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 96,
+      "question": "Which building features light-colored walls and is located near 南极石 and 教学实验大楼?\n\nA. 双泽楼\nB. 测绘学院（4号教学楼）\nC. 信息学部1号教学楼\nD. 资源与环境科学学院（7号教学楼）",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 97,
+      "question": "Which building has a light gray facade with evenly spaced windows and is located near 乒乓球馆?\n\nA. 信息学部文体中心\nB. 信息学部7栋\nC. 学生宿舍2舍\nD. 信息学部四食堂",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 98,
+      "question": "Which building has air conditioning units hanging on its exterior walls and is located near 星湖亭?\n\nA. 学生宿舍17栋\nB. 学生宿舍15栋\nC. 学生宿舍14栋\nD. 学生宿舍11栋",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 99,
+      "question": "Which building is located near 求是一路, has rounded corners, and features a rooftop garden?\n\nA. 遥感信息工程学院（5号教学楼）\nB. 信息学部一食堂\nC. 教学实验大楼\nD. 信息学部2号教学楼",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 100,
+      "question": "Which building has a light blue roof with a small red canopy and is located near a domed structure?\n\nA. 附3教学楼\nB. 信息学部1号教学楼\nC. 测绘遥感国家重点实验室\nD. 信息学部文体中心",
+      "Ground_truth": "C"
+    }
+  ]
+
+}

@@ -1,0 +1,3639 @@
+{
+ "Polygon": [
+  {
+   "8507769": {
+    "name": null,
+    "fclass": "forest ",
+    "area": "643123 m2",
+    "center": [
+     113.98656,
+     22.6087
+    ],
+    "bbox": [
+     [
+      113.98015,
+      22.60514
+     ],
+     [
+      113.99217,
+      22.6117
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.丽康路 tertiary  2.丽康路 tertiary",
+    "image_caption": "A dense, lush forest with varying shades of green dominates the landscape, interspersed with winding dirt paths. The forest is bordered by a road with adjacent structures, including a sports complex with basketball courts and buildings featuring blue and white roofs. A small pond lies near the forest edge, and patches of cleared land and agricultural areas transition from the dense vegetation. The terrain is gently sloping, with the forest canopy creating an uneven, textured surface of mixed tree species.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "370104624": {
+    "name": "国家超级计算深圳中心（深圳云计算中心）",
+    "fclass": "commercial building ",
+    "area": "11460 m2",
+    "center": [
+     113.98478,
+     22.59923
+    ],
+    "bbox": [
+     [
+      113.984,
+      22.59871
+     ],
+     [
+      113.98557,
+      22.59979
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.科研环路 tertiary  2.幽兰路 tertiary\nPOINT: 1.深大总医院总站 bus_station 97.0  2.胡杨林 bus_stop 99.0",
+    "image_caption": "A modern commercial building with a gray rectangular facade, glass panels, and vertical lines stands amid landscaped grounds with green trees. The rooftop features ventilation fans and satellite dishes. Sports courts are visible above the building, while a wide road with pedestrian crossings runs alongside it. The surrounding area includes lawns, pathways, and other urban structures.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "980001097": {
+    "name": "揽月岭",
+    "fclass": "forest ",
+    "area": "34071 m2",
+    "center": [
+     113.98435,
+     22.60448
+    ],
+    "bbox": [
+     [
+      113.98296,
+      22.60338
+     ],
+     [
+      113.98531,
+      22.60534
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.丽康路 tertiary\nPOINT: 1.揽月岭南 bus_stop 77.0  2.四方楼站 bus_stop 71.0  3.紫罗兰 bus_stop 61.0",
+    "image_caption": "A dense forest with rich green foliage and varied canopy textures borders a winding road. The forest creates a natural boundary between the undeveloped landscape and an urban area featuring modern buildings, construction sites, and paved pathways. The landscape slopes from the forest down to the developed area, where scattered buildings and parking spaces are visible. The forest canopy displays diverse shades of green, with occasional lighter patches indicating variations in vegetation, while the surrounding area shows signs of ongoing development and infrastructure.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1273961068": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "2040 m2",
+    "center": [
+     113.98922,
+     22.60285
+    ],
+    "bbox": [
+     [
+      113.98892,
+      22.60264
+     ],
+     [
+      113.98952,
+      22.60305
+     ]
+    ],
+    "Landmark": "POINT: 1.工学院 bus_stop 77.0  2.惟新门 bus_stop 35.0  3.工学院 bus_stop 96.0",
+    "image_caption": "A lush, rectangular lawn with vibrant green grass and uniform texture sits within an urban landscape. The lawn is bordered by paved walkways and modern buildings with flat rooftops. Adjacent areas feature additional green spaces, scattered trees, and a small pond, creating a harmonious blend of natural and architectural elements. A road runs parallel to one side of the lawn, while geometric buildings with large windows define the surrounding cityscape.",
+    "3D Spatial": "1. 1273961069 East 46 m"
+   }
+  },
+  {
+   "1273961069": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "634 m2",
+    "center": [
+     113.98966,
+     22.60289
+    ],
+    "bbox": [
+     [
+      113.98956,
+      22.6027
+     ],
+     [
+      113.98977,
+      22.60308
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟新路 unclassified  2.惟文路 unclassified\nPOINT: 1.深大丽湖校区东门 bus_stop 91.0  2.工学院 bus_stop 52.0  3.惟新门 bus_stop 25.0  4.瑞幸咖啡 cafe 86.0  5.工学院 bus_stop 74.0",
+    "image_caption": "A lush, vibrant green grass patch lies adjacent to a paved walkway, forming part of a landscaped courtyard. The grass maintains a smooth, uniform surface and is surrounded by modern buildings with geometric designs. The area features additional greenery and trees, creating a structured urban landscape with pathways and multi-story buildings.",
+    "3D Spatial": "1. 1273961068 West 46 m"
+   }
+  },
+  {
+   "1273961071": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "2268 m2",
+    "center": [
+     113.98507,
+     22.60102
+    ],
+    "bbox": [
+     [
+      113.98469,
+      22.60087
+     ],
+     [
+      113.98549,
+      22.60121
+     ]
+    ],
+    "Landmark": "POINT: 1.胡杨林 bus_stop 35.0  2.麦当劳 fast_food 46.0",
+    "image_caption": "A lush green grass expanse displays varying shades and a slightly uneven texture, with scattered patches of taller growth in its upper portion. The grassy area is bordered by paved walkways and sits adjacent to a large building with a gray roof. Nearby features include a running track, trees, and a tiled plaza, creating a blend of natural and urban landscape elements.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1273961072": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "3737 m2",
+    "center": [
+     113.98603,
+     22.60278
+    ],
+    "bbox": [
+     [
+      113.98568,
+      22.60249
+     ],
+     [
+      113.98637,
+      22.60306
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟文路 unclassified\nPOINT: 1.揽月岭南 bus_stop 28.0",
+    "image_caption": "A large, lush green field with uniform coverage and smooth texture sits adjacent to a paved walkway. The field is bordered by trees and shrubs, with modern buildings visible to the right. The surrounding landscape includes a mix of natural and urban elements, featuring water features, pathways, and additional greenery. A sports field with a running track lies to the left, while construction materials are present near the top edge of the grass area.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1273961073": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "2025 m2",
+    "center": [
+     113.98833,
+     22.60264
+    ],
+    "bbox": [
+     [
+      113.98797,
+      22.60241
+     ],
+     [
+      113.98876,
+      22.60286
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A lush, vibrant green lawn with uniform texture sits adjacent to a modern building complex. The rectangular grass area is bordered by paved walkways, with triangular water features and fountains visible to the left. The landscaped setting includes trees along the paths and integrates with surrounding urban elements, including flat-roofed buildings and geometric architectural designs.",
+    "3D Spatial": "1. 1273961074 Northeast 38 m  1. 1274232077 South 43 m"
+   }
+  },
+  {
+   "1273961074": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "901 m2",
+    "center": [
+     113.98866,
+     22.6028
+    ],
+    "bbox": [
+     [
+      113.98839,
+      22.60262
+     ],
+     [
+      113.98883,
+      22.60295
+     ]
+    ],
+    "Landmark": "POINT: 1.惟新门 bus_stop 99.0",
+    "image_caption": "A well-maintained patch of lush green grass sits adjacent to a modern building with a sloped roof. The grass is uniformly trimmed and densely packed, bordered by concrete walkways and complemented by surrounding trees. The area is part of a larger urban landscape featuring geometric buildings and roads, creating an integrated blend of natural and architectural elements.",
+    "3D Spatial": "1. 1273961073 Southwest 38 m"
+   }
+  },
+  {
+   "1273961077": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "2618 m2",
+    "center": [
+     113.98771,
+     22.60235
+    ],
+    "bbox": [
+     [
+      113.9874,
+      22.60206
+     ],
+     [
+      113.98808,
+      22.60264
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A lush, vibrant green lawn with a smooth, uniform surface sits centrally within an urban landscape. The rectangular grass area is bordered by paved walkways and positioned adjacent to a modern building with angular design. To the left, a series of ponds with fountains are connected by narrow pathways, surrounded by dense vegetation. The well-maintained lawn creates a natural transition between the architectural structures and water features, forming part of a landscaped complex that blends urban and natural elements.",
+    "3D Spatial": "1. 1273961082 West 40 m"
+   }
+  },
+  {
+   "1273961078": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "1991 m2",
+    "center": [
+     113.9866,
+     22.60222
+    ],
+    "bbox": [
+     [
+      113.98627,
+      22.60195
+     ],
+     [
+      113.98699,
+      22.6024
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A well-maintained, lush green lawn with a smooth, uniform surface sits adjacent to a modern building complex. The lawn is bordered by a paved walkway and a pond featuring a fountain, with a narrow strip of vegetation separating it from the water. The surrounding landscape includes additional green spaces, pathways, and sports facilities with a running track and soccer field in the background.",
+    "3D Spatial": "1. 1273961083 East 31 m"
+   }
+  },
+  {
+   "1273961080": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "847 m2",
+    "center": [
+     113.988,
+     22.60298
+    ],
+    "bbox": [
+     [
+      113.98776,
+      22.6028
+     ],
+     [
+      113.98825,
+      22.60324
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A triangular section of lush, evenly cut grass sits adjacent to a modern building with a slanted roof. The grass area is bordered by paved walkways and integrated into a larger landscaped space with scattered trees. The surrounding urban environment features contemporary buildings and a pond to the left, creating a blend of natural and architectural elements.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1273961081": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "215 m2",
+    "center": [
+     113.9872,
+     22.60211
+    ],
+    "bbox": [
+     [
+      113.98699,
+      22.60207
+     ],
+     [
+      113.98737,
+      22.60215
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A lush, vibrant green lawn with smooth, uniform coverage lies adjacent to a paved pathway and concrete structures. The grass borders a body of water to the left and extends toward a large building with a geometric roof on the right. The landscaped area features a circular fountain, additional green spaces, and a network of pathways, creating a blend of natural and urban elements.",
+    "3D Spatial": "1. 1273961083 West 31 m  1. 1273961084 Northwest 30 m  1. 1273961082 Northeast 23 m"
+   }
+  },
+  {
+   "1273961082": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "220 m2",
+    "center": [
+     113.98732,
+     22.6023
+    ],
+    "bbox": [
+     [
+      113.98723,
+      22.60217
+     ],
+     [
+      113.98737,
+      22.6024
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The lush, vibrant green grass features uniformly cut blades creating a smooth, even surface with dense texture and no bare spots. It is situated near a construction area, bordered by paved walkways and positioned between concrete structures and a larger grassy field. The surrounding landscape includes rectangular ponds with fountains, modern buildings, and additional greenery, creating a blend of urban development and natural elements.",
+    "3D Spatial": "1. 1273961081 Southwest 23 m  1. 1273961083 West 44 m  1. 1273961084 West 25 m  1. 1273961077 East 40 m"
+   }
+  },
+  {
+   "1273961083": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "153 m2",
+    "center": [
+     113.9869,
+     22.60219
+    ],
+    "bbox": [
+     [
+      113.9868,
+      22.60211
+     ],
+     [
+      113.987,
+      22.60229
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A lush, uniformly cut grass area sits adjacent to a paved walkway. The grass is bordered by a modern building on one side and connects to a larger landscaped space featuring geometric water bodies with fountains. A circular structure is nearby, with intersecting pathways and additional greenery completing the urban landscape.",
+    "3D Spatial": "1. 1273961081 East 31 m  1. 1273961078 West 31 m  1. 1273961084 Northeast 26 m  1. 1273961082 East 44 m"
+   }
+  },
+  {
+   "1273961084": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "104 m2",
+    "center": [
+     113.98708,
+     22.60236
+    ],
+    "bbox": [
+     [
+      113.98697,
+      22.60232
+     ],
+     [
+      113.98717,
+      22.6024
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular patch of lush green grass sits between a paved walkway and a construction area with circular structures. The grass, which shows slight color variations in its upper portion, is part of a landscaped urban setting that includes a modern glass-faced building to the right and a body of water in the background. The area features additional greenery, trees, and paved pathways as part of the broader urban landscape.",
+    "3D Spatial": "1. 1273961081 Southeast 30 m  1. 1273961083 Southwest 26 m  1. 1273961082 East 25 m"
+   }
+  },
+  {
+   "1273961085": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "818 m2",
+    "center": [
+     113.98555,
+     22.60516
+    ],
+    "bbox": [
+     [
+      113.98535,
+      22.60471
+     ],
+     [
+      113.98578,
+      22.60544
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟文路 unclassified  2.丽康路 tertiary\nPOINT: 1.四方楼站 bus_stop 31.0",
+    "image_caption": "A well-maintained grass area with uniform texture and vibrant green color sits between a curved paved road and a construction site. The surrounding landscape features a modern building with rooftop gardens, dense forest areas, and ongoing construction zones, creating a mix of natural and urban development.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1273961086": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "4591 m2",
+    "center": [
+     113.98735,
+     22.60393
+    ],
+    "bbox": [
+     [
+      113.98655,
+      22.60365
+     ],
+     [
+      113.98809,
+      22.6043
+     ]
+    ],
+    "Landmark": "POINT: 1.四方楼站 bus_stop 96.0  2.法商学院 bus_stop 70.0",
+    "image_caption": "A well-maintained, vibrant green lawn serves as a central element in an urban landscape, bordered by paved walkways and modern buildings. The lawn area features scattered trees along its upper portion and integrates with a broader network of paths and green spaces, creating an organized blend of natural and architectural elements.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1273961088": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "2400 m2",
+    "center": [
+     113.98759,
+     22.60556
+    ],
+    "bbox": [
+     [
+      113.98738,
+      22.60523
+     ],
+     [
+      113.9878,
+      22.60588
+     ]
+    ]
+   }
+  },
+  {
+   "1273961090": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "3089 m2",
+    "center": [
+     113.98601,
+     22.60214
+    ],
+    "bbox": [
+     [
+      113.98574,
+      22.6017
+     ],
+     [
+      113.98637,
+      22.60249
+     ]
+    ],
+    "Landmark": "POINT: 1.揽月岭南 bus_stop 73.0",
+    "image_caption": "The lush, vibrant green grass area features a smooth, uniform surface with dense, healthy growth. It is situated adjacent to a paved pathway, with dense trees and vegetation forming a natural boundary to the west. The area is part of a larger recreational complex that includes a sports field with red running tracks and bleachers to the north. The landscape integrates athletic facilities, pathways, and natural greenery in an organized urban setting.",
+    "3D Spatial": "1. 536044905 West 43 m"
+   }
+  },
+  {
+   "1274232077": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "808 m2",
+    "center": [
+     113.98843,
+     22.60226
+    ],
+    "bbox": [
+     [
+      113.98828,
+      22.60203
+     ],
+     [
+      113.98854,
+      22.60248
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A lush, uniformly trimmed grass area sits adjacent to a rectangular water feature and paved walkways. The grass is positioned between a dense forested area to the left and a modern building complex to the right. The landscape integrates natural and urban elements, with the grass serving as a transitional space between architectural structures and surrounding greenery.",
+    "3D Spatial": "1. 1273961073 North 43 m  1.文汇礼堂 536044907 East 47 m"
+   }
+  },
+  {
+   "17467636": {
+    "name": "至月岭",
+    "fclass": "forest ",
+    "area": "96042 m2",
+    "center": [
+     113.98862,
+     22.60058
+    ],
+    "bbox": [
+     [
+      113.98635,
+      22.59911
+     ],
+     [
+      113.99075,
+      22.60188
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟新路 unclassified\nPOINT: 1.采薇 bus_stop 55.0  2.科研楼 bus_stop 98.0  3.南科大中心 bus_stop 65.0  4.至月岭东站 bus_stop 69.0  5.惟艺门 bus_stop 44.0  6.深大丽湖校区东门 bus_stop 82.0",
+    "image_caption": "A dense, lush forest with varied green foliage creates a natural boundary within an urban setting. The forest is bordered by modern buildings, a paved walking path, and waterways, forming a distinct contrast between natural and developed areas. The canopy displays an undulating texture with occasional clearings, transitioning from deep emerald to lighter green hues across its expanse.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "1317732926": {
+    "name": null,
+    "fclass": "meadow ",
+    "area": "1816 m2",
+    "center": [
+     113.98622,
+     22.59984
+    ],
+    "bbox": [
+     [
+      113.98592,
+      22.59962
+     ],
+     [
+      113.98659,
+      22.60008
+     ]
+    ]
+   }
+  },
+  {
+   "1317732927": {
+    "name": null,
+    "fclass": "meadow ",
+    "area": "378 m2",
+    "center": [
+     113.98676,
+     22.59959
+    ],
+    "bbox": [
+     [
+      113.98659,
+      22.59946
+     ],
+     [
+      113.98701,
+      22.59972
+     ]
+    ]
+   }
+  },
+  {
+   "8507770": {
+    "name": null,
+    "fclass": "Construction Site ",
+    "area": "5370 m2",
+    "center": [
+     113.98544,
+     22.60413
+    ],
+    "bbox": [
+     [
+      113.98508,
+      22.60357
+     ],
+     [
+      113.98571,
+      22.6049
+     ]
+    ],
+    "Landmark": "POINT: 1.揽月岭南 bus_stop 63.0  2.四方楼站 bus_stop 38.0",
+    "image_caption": "The construction site features a rectangular layout with a mix of dirt and concrete surfaces, scattered construction materials, and temporary white-roofed structures along its perimeter. The site contains blue containers, equipment, and visible tire tracks throughout the terrain. Dense green vegetation borders the northern edge, while a paved road runs parallel to the site, separating it from modern buildings with maintained lawns. The landscape transitions from natural greenery to urban development, with the construction area situated between these distinct environments.",
+    "3D Spatial": "1. 8 Northeast 39 m  1. 8507771 Southeast 43 m  1. 7 North 31 m  1. 6 West 6 m"
+   }
+  },
+  {
+   "8507771": {
+    "name": null,
+    "fclass": "grass ",
+    "area": "8303 m2",
+    "center": [
+     113.9858,
+     22.60393
+    ],
+    "bbox": [
+     [
+      113.985,
+      22.60311
+     ],
+     [
+      113.98627,
+      22.60535
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟文路 unclassified  2.丽康路 tertiary  3.丽康路 tertiary\nPOINT: 1.揽月岭南 bus_stop 28.0  2.四方楼站 bus_stop 12.0",
+    "image_caption": "A lush, vibrant green lawn with smooth, uniform texture sits centrally in an urban landscape. The grass area is bordered by paved pathways lined with evenly spaced trees. Modern buildings stand to one side, while a road runs parallel on the other. A construction site with temporary structures is visible in the background. The space serves as a transitional area between built structures and landscaped elements, featuring walkways and scattered vegetation throughout.",
+    "3D Spatial": "1. 8507770 Northwest 43 m  1. 6 Northwest 49 m"
+   }
+  },
+  {
+   "536044895": {
+    "name": "风信子",
+    "fclass": "building dormitory",
+    "area": "1504 m2",
+    "center": [
+     113.98335,
+     22.59951
+    ],
+    "bbox": [
+     [
+      113.98294,
+      22.5993
+     ],
+     [
+      113.98376,
+      22.59971
+     ]
+    ]
+   }
+  },
+  {
+   "536044896": {
+    "name": "山楂树",
+    "fclass": "building dormitory",
+    "area": "2253 m2",
+    "center": [
+     113.98378,
+     22.60007
+    ],
+    "bbox": [
+     [
+      113.98349,
+      22.59949
+     ],
+     [
+      113.98413,
+      22.6005
+     ]
+    ],
+    "Landmark": "POINT: 1.深大总医院总站 bus_station 87.0  2.胡杨林 bus_stop 71.0  3.麦当劳 fast_food 46.0",
+    "image_caption": "A modern, angular building with a white facade features a distinctive grid-like pattern of square panels across its surface and a latticed roof structure. The building stands adjacent to a tree-lined road, with dense greenery and a sports court to the left. The surrounding landscape includes a golf course with manicured greens and sand traps, while other urban structures are visible in the background.",
+    "3D Spatial": "",
+    "height": "68.6 m"
+   }
+  },
+  {
+   "536044898": {
+    "name": "胡杨林",
+    "fclass": "building dormitory",
+    "area": "1239 m2",
+    "center": [
+     113.98427,
+     22.60057
+    ],
+    "bbox": [
+     [
+      113.984,
+      22.60033
+     ],
+     [
+      113.98455,
+      22.6008
+     ]
+    ],
+    "Landmark": "POINT: 1.胡杨林 bus_stop 25.0  2.麦当劳 fast_food 0.0",
+    "image_caption": "The building is a modern, rectangular high-rise with a white facade featuring a uniform grid pattern of windows. Its flat roof is distinguished by evenly spaced vertical elements. The structure stands parallel to a tree-lined road, with sports facilities including a running track and basketball court nearby. The surrounding area combines urban development with green spaces, including parks and scattered trees, while additional multi-story buildings are visible in the background.",
+    "3D Spatial": "1. 980019041 West 42 m",
+    "height": "68.1 m"
+   }
+  },
+  {
+   "536044899": {
+    "name": null,
+    "fclass": "building ",
+    "area": "579 m2",
+    "center": [
+     113.98378,
+     22.60126
+    ],
+    "bbox": [
+     [
+      113.98357,
+      22.60099
+     ],
+     [
+      113.984,
+      22.60153
+     ]
+    ],
+    "Landmark": "POINT: 1.胡杨林 bus_stop 95.0  2.麦当劳 fast_food 52.0",
+    "image_caption": "The building is a modern, rectangular structure with a light beige facade, featuring evenly spaced windows and balconies along its length. It has a flat roof with mechanical equipment installations. The structure is surrounded by dense greenery on one side and bordered by a road, with a golf course featuring sand traps and a pond nearby. Additional buildings and a sports field are visible in the surrounding area.",
+    "3D Spatial": "1. 536044900 East 36 m",
+    "height": "26.8 m"
+   }
+  },
+  {
+   "536044900": {
+    "name": null,
+    "fclass": "building ",
+    "area": "759 m2",
+    "center": [
+     113.98414,
+     22.60126
+    ],
+    "bbox": [
+     [
+      113.98388,
+      22.60095
+     ],
+     [
+      113.98439,
+      22.60159
+     ]
+    ],
+    "Landmark": "POINT: 1.胡杨林 bus_stop 64.0  2.麦当劳 fast_food 25.0",
+    "image_caption": "A long, rectangular building with a light beige facade features evenly spaced windows and vertical protrusions along its upper portion. The flat-roofed structure is surrounded by dense greenery on one side and roads on the other. Adjacent buildings create a uniform architectural pattern, while the background reveals a large recreational area with sports facilities, lawns, and pathways.",
+    "3D Spatial": "1. 536044899 West 36 m",
+    "height": "27.1 m"
+   }
+  },
+  {
+   "536044905": {
+    "name": null,
+    "fclass": "building ",
+    "area": "1065 m2",
+    "center": [
+     113.98559,
+     22.60222
+    ],
+    "bbox": [
+     [
+      113.98549,
+      22.60184
+     ],
+     [
+      113.98569,
+      22.60259
+     ]
+    ],
+    "Landmark": "POINT: 1.揽月岭南 bus_stop 51.0",
+    "image_caption": "The building is a rectangular structure with a flat roof, featuring tiered seating areas in beige, yellow, and gray colors. It is positioned parallel to a sports complex that includes a green soccer pitch and red running track. The building is surrounded by patches of grass and trees, with a paved pathway on one side. Dense greenery separates it from nearby facilities, including a swimming pool complex, while landscaped ponds are visible in the vicinity.",
+    "3D Spatial": "1. 1273961090 East 43 m",
+    "height": "7.5 m"
+   }
+  },
+  {
+   "536044906": {
+    "name": "至快体育馆",
+    "fclass": "building ",
+    "area": "6803 m2",
+    "center": [
+     113.98427,
+     22.60226
+    ],
+    "bbox": [
+     [
+      113.98374,
+      22.60143
+     ],
+     [
+      113.98463,
+      22.60278
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟文路 unclassified\nPOINT: 1.胡杨林 bus_stop 97.0  2.麦当劳 fast_food 82.0  3.梧桐树 bus_stop 34.0",
+    "image_caption": "A modern building with a flat, grass-covered green roof features geometric pathways and rooftop mechanical units. The structure is surrounded by landscaped grounds and sits adjacent to an athletic complex with a red running track and soccer field. A tree-lined road runs parallel to the building, with additional structures visible in the background. The setting combines recreational facilities, green spaces, and urban infrastructure.",
+    "3D Spatial": "",
+    "height": "28.5 m"
+   }
+  },
+  {
+   "536044907": {
+    "name": "文汇礼堂",
+    "fclass": "building university",
+    "area": "3429 m2",
+    "center": [
+     113.98887,
+     22.60214
+    ],
+    "bbox": [
+     [
+      113.98858,
+      22.6018
+     ],
+     [
+      113.98916,
+      22.60247
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The modern rectangular building features a gray facade with a grid-patterned flat roof and white ventilation units on top. It stands adjacent to a dense forested area on its left, while a paved pathway runs parallel to the building, separating it from landscaped grounds. The surroundings blend urban development with natural elements, including green spaces and scattered trees.",
+    "3D Spatial": "1. 1274232077 West 47 m",
+    "height": "34.0 m"
+   }
+  },
+  {
+   "536044908": {
+    "name": "学术交流中心（B3）",
+    "fclass": "building university",
+    "area": "3984 m2",
+    "center": [
+     113.98981,
+     22.60202
+    ],
+    "bbox": [
+     [
+      113.98926,
+      22.60165
+     ],
+     [
+      113.99032,
+      22.6023
+     ]
+    ],
+    "Landmark": "POINT: 1.深大丽湖校区东门 bus_stop 25.0",
+    "image_caption": "A modern rectangular building with a white and gray facade features a grid-like pattern of windows and horizontal louvers. The structure is positioned between a dense forest area to the left and open landscaped grounds with a pond to the right, connected by paved pathways and roads. The building's sleek geometric design contrasts with its natural surroundings of trees, lawns, and water features.",
+    "3D Spatial": "1.学术交流中心（B3） 536044909 Northwest 48 m",
+    "height": "23.0 m"
+   }
+  },
+  {
+   "536044909": {
+    "name": "学术交流中心（B3）",
+    "fclass": "building university",
+    "area": "961 m2",
+    "center": [
+     113.98956,
+     22.6024
+    ],
+    "bbox": [
+     [
+      113.98939,
+      22.60223
+     ],
+     [
+      113.98973,
+      22.60256
+     ]
+    ],
+    "Landmark": "POINT: 1.深大丽湖校区东门 bus_stop 70.0  2.工学院 bus_stop 93.0  3.惟新门 bus_stop 82.0",
+    "image_caption": "A modern, rectangular building with a light gray facade featuring a grid-like panel pattern and a flat roof with solar panels. The structure is positioned adjacent to a wide road, with dense green vegetation and pathways to the left. The surrounding area includes other flat-roofed buildings, landscaped spaces with scattered trees, and a small pond, creating a blend of urban development and natural elements.",
+    "3D Spatial": "1.学术交流中心（B3） 536044908 Southeast 48 m",
+    "height": "15.9 m"
+   }
+  },
+  {
+   "536044910": {
+    "name": "材料学院（B2）",
+    "fclass": "building university",
+    "area": "3499 m2",
+    "center": [
+     113.99074,
+     22.60126
+    ],
+    "bbox": [
+     [
+      113.99021,
+      22.60076
+     ],
+     [
+      113.99125,
+      22.60174
+     ]
+    ]
+   }
+  },
+  {
+   "536044911": {
+    "name": null,
+    "fclass": "building university",
+    "area": "884 m2",
+    "center": [
+     113.99066,
+     22.60136
+    ],
+    "bbox": [
+     [
+      113.99042,
+      22.60115
+     ],
+     [
+      113.99091,
+      22.60156
+     ]
+    ]
+   }
+  },
+  {
+   "536044912": {
+    "name": "化学与环境工程学院（B1）",
+    "fclass": "building university",
+    "area": "3356 m2",
+    "center": [
+     113.9909,
+     22.60014
+    ],
+    "bbox": [
+     [
+      113.99039,
+      22.5997
+     ],
+     [
+      113.99129,
+      22.60053
+     ]
+    ]
+   }
+  },
+  {
+   "536044937": {
+    "name": null,
+    "fclass": "building hospital",
+    "area": "2068 m2",
+    "center": [
+     113.98302,
+     22.59889
+    ],
+    "bbox": [
+     [
+      113.9827,
+      22.59875
+     ],
+     [
+      113.98339,
+      22.59905
+     ]
+    ]
+   }
+  },
+  {
+   "695571961": {
+    "name": "工学院大楼南座",
+    "fclass": "building university",
+    "area": "6306 m2",
+    "center": [
+     113.991,
+     22.60283
+    ],
+    "bbox": [
+     [
+      113.99041,
+      22.60186
+     ],
+     [
+      113.99168,
+      22.60343
+     ]
+    ]
+   }
+  },
+  {
+   "695571962": {
+    "name": "工学院大楼北座",
+    "fclass": "building university",
+    "area": "6295 m2",
+    "center": [
+     113.99075,
+     22.60409
+    ],
+    "bbox": [
+     [
+      113.99023,
+      22.60354
+     ],
+     [
+      113.99144,
+      22.60465
+     ]
+    ]
+   }
+  },
+  {
+   "980004137": {
+    "name": "紫罗兰",
+    "fclass": "building dormitory",
+    "area": "1247 m2",
+    "center": [
+     113.98282,
+     22.60526
+    ],
+    "bbox": [
+     [
+      113.98248,
+      22.60507
+     ],
+     [
+      113.98316,
+      22.60545
+     ]
+    ],
+    "Landmark": "POINT: 1.紫罗兰 bus_stop 26.0",
+    "image_caption": "A modern rectangular building with a white facade features a uniform grid of windows and rooftop solar panels. The structure stands adjacent to a winding road with vehicles, bordered by dense vegetation on one side. A construction site with materials and equipment lies nearby, while the background reveals a golf course with sand traps amid lush greenery. A pedestrian bridge connects the building to an adjacent structure.",
+    "3D Spatial": "",
+    "height": "80.9 m"
+   }
+  },
+  {
+   "980004138": {
+    "name": "冬青树",
+    "fclass": "building dormitory",
+    "area": "1256 m2",
+    "center": [
+     113.98306,
+     22.60459
+    ],
+    "bbox": [
+     [
+      113.98273,
+      22.60439
+     ],
+     [
+      113.98339,
+      22.60479
+     ]
+    ],
+    "Landmark": "POINT: 1.紫罗兰 bus_stop 46.0",
+    "image_caption": "A modern, rectangular high-rise building with a sleek white facade and grid-like pattern of dark windows. The rooftop features an array of solar panels arranged in parallel rows. The building is surrounded by lush greenery, with a paved road running parallel to its side, bordered by trees and landscaped areas. Adjacent high-rise structures create a dense urban environment, while the surrounding landscape combines manicured lawns, winding paths, and forested areas.",
+    "3D Spatial": "",
+    "height": "83.1 m"
+   }
+  },
+  {
+   "980004140": {
+    "name": "青冈栎",
+    "fclass": "building dormitory",
+    "area": "1396 m2",
+    "center": [
+     113.98368,
+     22.60343
+    ],
+    "bbox": [
+     [
+      113.98334,
+      22.60332
+     ],
+     [
+      113.984,
+      22.60354
+     ]
+    ],
+    "Landmark": "POINT: 1.梧桐树 bus_stop 69.0",
+    "image_caption": "A modern, rectangular high-rise building with a uniform grid of windows and white/gray facade. The upper portion features mechanical equipment and solar panels. The structure is surrounded by landscaped grounds with green lawns, trees, paved roads, and parking areas, creating an integrated urban-natural environment.",
+    "3D Spatial": "",
+    "height": "84.4 m"
+   }
+  },
+  {
+   "980004141": {
+    "name": "梧桐树",
+    "fclass": "building dormitory",
+    "area": "1344 m2",
+    "center": [
+     113.98391,
+     22.603
+    ],
+    "bbox": [
+     [
+      113.98356,
+      22.60278
+     ],
+     [
+      113.98424,
+      22.60321
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟文路 unclassified\nPOINT: 1.梧桐树 bus_stop 24.0",
+    "image_caption": "A modern rectangular building with a white facade and grid-like windows stands near a curved road. The structure features reflective glass panels and rooftop solar panels. The surrounding area includes a sports field with a running track, landscaped gardens with pathways, and a backdrop of dense greenery and hills.",
+    "3D Spatial": "",
+    "height": "86.4 m"
+   }
+  },
+  {
+   "980004142": {
+    "name": "伐木",
+    "fclass": "building university",
+    "area": "3639 m2",
+    "center": [
+     113.98504,
+     22.60327
+    ],
+    "bbox": [
+     [
+      113.98447,
+      22.60311
+     ],
+     [
+      113.98553,
+      22.60346
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟文路 unclassified\nPOINT: 1.揽月岭南 bus_stop 11.0",
+    "image_caption": "The sports centre is a large rectangular structure with a flat grey roof featuring parallel ribbed textures. The modern building includes glass panels in its upper section and is surrounded by landscaped areas with trees, paved pathways, and grassy spaces. Adjacent features include a curved running track, sports courts, and connecting plazas, all integrated within a green urban setting.",
+    "3D Spatial": "1.伐木 980004142 Northeast 1 m",
+    "height": "26.1 m"
+   }
+  },
+  {
+   "13168926": {
+    "name": "四方楼",
+    "fclass": "building university",
+    "area": "14351 m2",
+    "center": [
+     113.9868,
+     22.60489
+    ],
+    "bbox": [
+     [
+      113.98581,
+      22.60393
+     ],
+     [
+      113.98779,
+      22.60582
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟文路 unclassified\nPOINT: 1.四方楼站 bus_stop 21.0  2.四方楼北 bus_stop 11.0  3.法商学院 bus_stop 89.0",
+    "image_caption": "The building features a modern, angular design with a predominantly gray and white facade, characterized by sleek lines and large glass panels. Its upper portion incorporates vibrant green rooftop gardens and parallel metallic slats, creating a dynamic contrast with the industrial appearance. The structure is surrounded by landscaped green spaces, paved walkways, and a network of roads. Adjacent areas include parking spaces and a construction site, while the broader environment combines urban development with patches of natural vegetation.",
+    "3D Spatial": "",
+    "height": "30.9 m"
+   }
+  },
+  {
+   "13168927": {
+    "name": "明理楼",
+    "fclass": "building university",
+    "area": "1983 m2",
+    "center": [
+     113.98843,
+     22.60423
+    ],
+    "bbox": [
+     [
+      113.98802,
+      22.60385
+     ],
+     [
+      113.98872,
+      22.60444
+     ]
+    ],
+    "Landmark": "POINT: 1.法商学院 bus_stop 8.0",
+    "image_caption": "The modern building features an angular, triangular design with a predominantly gray facade and a grid-like pattern of vertical windows. Its flat roof includes HVAC equipment and a small green section. The structure is integrated into a well-planned urban complex, surrounded by landscaped green spaces, pathways, and other contemporary buildings with green rooftops. A curved road separates the building from nearby areas of dense vegetation.",
+    "3D Spatial": "",
+    "height": "27.5 m"
+   }
+  },
+  {
+   "980004154": {
+    "name": "守正楼",
+    "fclass": "building university",
+    "area": "3727 m2",
+    "center": [
+     113.98914,
+     22.60338
+    ],
+    "bbox": [
+     [
+      113.9888,
+      22.6031
+     ],
+     [
+      113.98948,
+      22.60368
+     ]
+    ],
+    "Landmark": "POINT: 1.工学院 bus_stop 72.0  2.惟新门 bus_stop 21.0  3.工学院 bus_stop 80.0",
+    "image_caption": "The modern building features a white facade with dark gray accents and a flat roof. Its smooth surface displays a grid-like pattern of windows and rooftop installations. The structure is surrounded by landscaped areas with trees and grass, connected by paved pathways. Adjacent buildings, green spaces, and ponds create a balanced urban environment that blends contemporary architecture with natural elements.",
+    "3D Spatial": "",
+    "height": "44.4 m"
+   }
+  },
+  {
+   "980004155": {
+    "name": "明律楼",
+    "fclass": "building university",
+    "area": "1203 m2",
+    "center": [
+     113.98916,
+     22.60396
+    ],
+    "bbox": [
+     [
+      113.98887,
+      22.60387
+     ],
+     [
+      113.98947,
+      22.60406
+     ]
+    ]
+   }
+  },
+  {
+   "980004156": {
+    "name": "明德楼",
+    "fclass": "building university",
+    "area": "807 m2",
+    "center": [
+     113.9891,
+     22.60436
+    ],
+    "bbox": [
+     [
+      113.98886,
+      22.60428
+     ],
+     [
+      113.98934,
+      22.60443
+     ]
+    ]
+   }
+  },
+  {
+   "980019041": {
+    "name": null,
+    "fclass": "building ",
+    "area": "659 m2",
+    "center": [
+     113.98388,
+     22.6007
+    ],
+    "bbox": [
+     [
+      113.98361,
+      22.60048
+     ],
+     [
+      113.98416,
+      22.60093
+     ]
+    ],
+    "Landmark": "POINT: 1.胡杨林 bus_stop 71.0  2.麦当劳 fast_food 26.0",
+    "image_caption": "A long, rectangular multi-story building with a light beige exterior features evenly spaced windows and a flat roof with utility installations. Dense trees border one side of the building, while a parallel road separates it from neighboring structures. The surrounding landscape includes a mix of urban development and green spaces, with recreational facilities visible in the background.",
+    "3D Spatial": "1.胡杨林 536044898 East 42 m",
+    "height": "23.0 m"
+   }
+  },
+  {
+   "980019042": {
+    "name": null,
+    "fclass": "building ",
+    "area": "461 m2",
+    "center": [
+     113.98358,
+     22.60179
+    ],
+    "bbox": [
+     [
+      113.98339,
+      22.60165
+     ],
+     [
+      113.98377,
+      22.60193
+     ]
+    ],
+    "Landmark": "POINT: 1.梧桐树 bus_stop 90.0",
+    "image_caption": "The rectangular building has a light beige exterior and flat roof with a grid-like pattern of tiles, skylights, and utility structures. It is surrounded by diverse landscaping, including a tree-lined road to the left, a paved pathway, and an adjacent garden. A sports field with artificial turf is situated nearby, and the surrounding area features a mix of manicured lawns and paved surfaces.",
+    "3D Spatial": "",
+    "height": "22.4 m"
+   }
+  },
+  {
+   "18083921": {
+    "name": "采薇",
+    "fclass": "building university",
+    "area": "1772 m2",
+    "center": [
+     113.987,
+     22.59981
+    ],
+    "bbox": [
+     [
+      113.98668,
+      22.59953
+     ],
+     [
+      113.9873,
+      22.60009
+     ]
+    ],
+    "Landmark": "POINT: 1.采薇 bus_stop 31.0",
+    "image_caption": "The sports centre features a large rectangular swimming pool with marked lanes and a smaller semi-circular pool, both with vibrant blue water. The pools are surrounded by a light gray tiled deck. The complex is bordered by lush green trees, with paved walkways connecting to nearby water features including a pond with a fountain. A small building with a glass roof sits adjacent to the recreational area, creating an integrated landscape of structured and natural elements.",
+    "3D Spatial": "1.采薇 18083921 Southeast 0 m",
+    "height": "12.8 m"
+   }
+  },
+  {
+   "1317796349": {
+    "name": "风雨操场",
+    "fclass": "building ",
+    "area": "4333 m2",
+    "center": [
+     113.98633,
+     22.6004
+    ],
+    "bbox": [
+     [
+      113.98605,
+      22.59986
+     ],
+     [
+      113.98685,
+      22.601
+     ]
+    ],
+    "Landmark": "POINT: 1.采薇 bus_stop 41.0",
+    "image_caption": "The modern building features a rectangular shape with a light-colored, flat roof marked by subtle linear patterns. It is integrated into a landscaped environment with lush trees and greenery along its perimeter. Adjacent to the structure is a swimming pool with blue tiling, while paved pathways and geometric patterns connect it to surrounding areas. The layout combines architectural elements with natural features, including a forested area and landscaped spaces.",
+    "3D Spatial": "",
+    "height": "22.9 m"
+   }
+  },
+  {
+   "1": {
+    "name": null,
+    "fclass": "building ",
+    "area": "252 m2",
+    "center": [
+     113.98364,
+     22.60928
+    ],
+    "bbox": [
+     [
+      113.98358,
+      22.60916
+     ],
+     [
+      113.98371,
+      22.60941
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A modern, multi-story building with a light gray exterior and grid-like paneling features a flat roof with angular extensions and evenly spaced rectangular windows. The structure is surrounded by dense vegetation and sits near a pond bordered by a curved road. A dirt path leads to the building, and several smaller structures are scattered nearby. The surrounding landscape is hilly and predominantly forested, with cleared pathways interspersed throughout the natural setting.",
+    "3D Spatial": "",
+    "height": "8.0 m"
+   }
+  },
+  {
+   "2": {
+    "name": null,
+    "fclass": "building ",
+    "area": "273 m2",
+    "center": [
+     113.98596,
+     22.60627
+    ],
+    "bbox": [
+     [
+      113.98583,
+      22.60611
+     ],
+     [
+      113.98609,
+      22.60642
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular, multi-story building with white exterior and metallic roof panels stands amid an industrial area. The flat roof features utility equipment and a small staircase. The building is flanked by a dirt road with parked vehicles on one side and dense vegetation on the other. The surrounding area includes construction materials, a small waterway, and additional structures, set against a backdrop of greenery and ongoing development.",
+    "3D Spatial": "",
+    "height": "9.2 m"
+   }
+  },
+  {
+   "3": {
+    "name": null,
+    "fclass": "building ",
+    "area": "1323 m2",
+    "center": [
+     113.98479,
+     22.60615
+    ],
+    "bbox": [
+     [
+      113.98455,
+      22.6059
+     ],
+     [
+      113.98507,
+      22.60639
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A modern rectangular high-rise features a uniform grid of windows across its facade and solar panels on the roof. The building is situated between dense vegetation on one side and paved pathways with manicured lawns on the other, integrating both natural and urban landscape elements.",
+    "3D Spatial": "1. 4 Southeast 24 m",
+    "height": "85.3 m"
+   }
+  },
+  {
+   "4": {
+    "name": null,
+    "fclass": "building ",
+    "area": "583 m2",
+    "center": [
+     113.98492,
+     22.60596
+    ],
+    "bbox": [
+     [
+      113.98473,
+      22.60573
+     ],
+     [
+      113.98514,
+      22.60617
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The rectangular building features a light blue roof with parallel lines and a row of evenly spaced windows along its upper portion. It stands adjacent to a sports court and is surrounded by dense vegetation on one side and a road with parked vehicles on the other. The building sits at the edge of a developed area, where urban infrastructure meets a forested hillside backdrop.",
+    "3D Spatial": "",
+    "height": "7.9 m"
+   }
+  },
+  {
+   "5": {
+    "name": null,
+    "fclass": "building ",
+    "area": "101 m2",
+    "center": [
+     113.98648,
+     22.60639
+    ],
+    "bbox": [
+     [
+      113.9864,
+      22.60633
+     ],
+     [
+      113.98655,
+      22.60644
+     ]
+    ],
+    "Landmark": "POINT: 1.四方楼北 bus_stop 79.0",
+    "image_caption": "The rectangular building features a modular design with a white/light gray exterior, horizontal panels, and dark window sections. Its flat roof contains evenly spaced dark squares, likely vents or skylights. The building is situated near a small body of water with adjacent vegetation and debris. Several vehicles are parked nearby on dirt ground, while a row of structures with blue and white roofs lines the foreground. The surrounding area includes a dirt road, scattered construction materials, and patches of greenery, indicating ongoing development.",
+    "3D Spatial": "",
+    "height": "3.6 m"
+   }
+  },
+  {
+   "6": {
+    "name": null,
+    "fclass": "building ",
+    "area": "232 m2",
+    "center": [
+     113.98537,
+     22.60415
+    ],
+    "bbox": [
+     [
+      113.98533,
+      22.60402
+     ],
+     [
+      113.98541,
+      22.60428
+     ]
+    ],
+    "Landmark": "POLYGON: 1. Construction Site\nPOINT: 1.四方楼站 bus_stop 66.0",
+    "image_caption": "The rectangular building features a white roof with visible weathering, rust patterns, and linear textures. Its upper portion includes a series of dark fixtures or ventilation units along the edge. The building is situated within an active construction site with scattered materials and equipment. Dense green vegetation borders one side, while a grass area with trees separates the site from a paved pathway. The surrounding area includes temporary structures and dirt roads, reflecting ongoing development activity.",
+    "3D Spatial": "1. 8 Northeast 40 m  1. 8507771 Southeast 49 m  1. 7 Northeast 31 m  1. 8507770 East 6 m",
+    "height": "7.0 m"
+   }
+  },
+  {
+   "7": {
+    "name": null,
+    "fclass": "building ",
+    "area": "156 m2",
+    "center": [
+     113.98549,
+     22.60441
+    ],
+    "bbox": [
+     [
+      113.98545,
+      22.60431
+     ],
+     [
+      113.98552,
+      22.60451
+     ]
+    ],
+    "Landmark": "POLYGON: 1. Construction Site\nPOINT: 1.四方楼站 bus_stop 49.0",
+    "image_caption": "A rectangular building with a flat, light-colored roof shows visible rust stains and weathering, with segmented panels marked by parallel lines. The roof features evenly spaced ventilation units and a small blue structure on one side. The building is situated in a construction area with exposed earth and temporary structures nearby. A dirt path runs parallel to the building, while a paved road bordered by young trees and grass lies adjacent. Dense green vegetation in the background provides a natural backdrop to the construction site.",
+    "3D Spatial": "1. 8 East 11 m  1. 8507770 South 31 m  1. 6 Southwest 31 m",
+    "height": "4.1 m"
+   }
+  },
+  {
+   "8": {
+    "name": null,
+    "fclass": "building ",
+    "area": "66 m2",
+    "center": [
+     113.98559,
+     22.60445
+    ],
+    "bbox": [
+     [
+      113.98556,
+      22.6044
+     ],
+     [
+      113.98563,
+      22.6045
+     ]
+    ],
+    "Landmark": "POLYGON: 1. Construction Site\nPOINT: 1.四方楼站 bus_stop 38.0",
+    "image_caption": "The rectangular building features a flat, white roof with blue trim and visible signs of weathering, including green discoloration and moss patches. The upper portion displays evenly spaced panels. The building is situated within a construction site, bordered by grass areas and similar structures. A paved road lined with trees runs parallel to the building, separating the construction zone from landscaped areas. The surrounding environment combines industrial development with patches of natural vegetation.",
+    "3D Spatial": "1. 7 West 11 m  1. 8507770 Southwest 39 m  1. 6 Southwest 40 m",
+    "height": "4.3 m"
+   }
+  },
+  {
+   "980004139": {
+    "name": "三角梅",
+    "fclass": "building dormitory",
+    "area": "1280 m2",
+    "center": [
+     113.98334,
+     22.60414
+    ],
+    "bbox": [
+     [
+      113.98303,
+      22.60389
+     ],
+     [
+      113.98365,
+      22.6044
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular building with a light blue corrugated roof houses a rooftop basketball court with blue and brown markings. The structure features translucent panels for natural lighting and is positioned between dense green vegetation and a paved road. The building sits at the edge of a developed area, with a curved road leading to forested hillsides, and is part of a complex with nearby construction activity.",
+    "3D Spatial": "",
+    "height": "8.4 m"
+   }
+  },
+  {
+   "927400201": {
+    "name": null,
+    "fclass": "building university",
+    "area": "200 m2",
+    "center": [
+     113.99055,
+     22.60343
+    ],
+    "bbox": [
+     [
+      113.9905,
+      22.60329
+     ],
+     [
+      113.9906,
+      22.60357
+     ]
+    ],
+    "Landmark": "POINT: 1.工学院 bus_stop 37.0  2.惟新门 bus_stop 88.0  3.瑞幸咖啡 cafe 10.0  4.工学院 bus_stop 26.0",
+    "image_caption": "A rectangular building with a beige and light brown facade features a uniform grid of light-framed windows. The building stands adjacent to a curved road lined with trees, with a large grassy area and pathways to its left. It is integrated into a dense architectural complex surrounded by other structures and connected by roads.",
+    "3D Spatial": "",
+    "height": "27.7 m"
+   }
+  },
+  {
+   "456349157": {
+    "name": "南方科技大学",
+    "fclass": "university ",
+    "area": "74654 m2",
+    "center": [
+     113.99093,
+     22.60246
+    ],
+    "bbox": [
+     [
+      113.98989,
+      22.59784
+     ],
+     [
+      113.99181,
+      22.60524
+     ]
+    ]
+   }
+  },
+  {
+   "480227299": {
+    "name": "深圳大学丽湖校区",
+    "fclass": "university ",
+    "area": "548492 m2",
+    "center": [
+     113.98693,
+     22.60229
+    ],
+    "bbox": [
+     [
+      113.982,
+      22.59794
+     ],
+     [
+      113.99152,
+      22.60684
+     ]
+    ]
+   }
+  },
+  {
+   "533171043": {
+    "name": "深圳大学总医院",
+    "fclass": "hospital ",
+    "area": "14950 m2",
+    "center": [
+     113.98266,
+     22.59882
+    ],
+    "bbox": [
+     [
+      113.9813,
+      22.5984
+     ],
+     [
+      113.9836,
+      22.59935
+     ]
+    ]
+   }
+  },
+  {
+   "17467635": {
+    "name": "至畅体育馆（C3）",
+    "fclass": "sports_centre ",
+    "area": "6672 m2",
+    "center": [
+     113.98532,
+     22.60039
+    ],
+    "bbox": [
+     [
+      113.98476,
+      22.59993
+     ],
+     [
+      113.98578,
+      22.6008
+     ]
+    ],
+    "Landmark": "POINT: 1.胡杨林 bus_stop 12.0  2.麦当劳 fast_food 57.0",
+    "image_caption": "A rectangular sports pitch with alternating dark and light green stripes features white boundary lines, a center circle, and penalty areas. The pitch is encircled by a red running track, with bleachers and yellow-roofed buildings along one side. Dense vegetation, trees, and a road border the complex, creating a blend of athletic facilities and natural landscape.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "18084362": {
+    "name": "至快体育场",
+    "fclass": "pitch ",
+    "area": "14512 m2",
+    "center": [
+     113.98501,
+     22.60217
+    ],
+    "bbox": [
+     [
+      113.9845,
+      22.60139
+     ],
+     [
+      113.98551,
+      22.60295
+     ]
+    ]
+   }
+  },
+  {
+   "536044903": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "6972 m2",
+    "center": [
+     113.98502,
+     22.60216
+    ],
+    "bbox": [
+     [
+      113.98464,
+      22.60168
+     ],
+     [
+      113.98539,
+      22.60265
+     ]
+    ],
+    "Landmark": "POINT: 1.揽月岭南 bus_stop 43.0",
+    "image_caption": "The library features a modern, angular design with a gray and white color scheme, characterized by geometric shapes and tiered levels. Its facade combines smooth concrete and glass panels, with a distinctive zigzag pattern and large windows on the upper portion. The building is surrounded by landscaped grounds, featuring manicured lawns, scattered trees, and a circular water feature to the left. A network of pathways connects the library to adjacent modern structures, integrating it into the broader urban landscape of high-rise buildings and green spaces.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "536044913": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "571 m2",
+    "center": [
+     113.98479,
+     22.59997
+    ],
+    "bbox": [
+     [
+      113.98461,
+      22.59984
+     ],
+     [
+      113.98497,
+      22.60009
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟品路 unclassified\nPOINT: 1.胡杨林 bus_stop 54.0  2.麦当劳 fast_food 77.0",
+    "image_caption": "A rectangular sports pitch with green turf and white markings sits atop a building, featuring two blue basketball court areas and a central circle. The pitch is surrounded by lush trees and integrated into an urban landscape with nearby buildings, roads, and pedestrian crosswalks.",
+    "3D Spatial": "1. 536044914 East 34 m"
+   }
+  },
+  {
+   "536044914": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "574 m2",
+    "center": [
+     113.9851,
+     22.59986
+    ],
+    "bbox": [
+     [
+      113.98492,
+      22.59974
+     ],
+     [
+      113.98529,
+      22.59999
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟品路 unclassified\nPOINT: 1.胡杨林 bus_stop 67.0",
+    "image_caption": "A rectangular sports pitch with green turf and white markings sits on a rooftop, featuring a center circle and blue-painted areas near the hoops. The pitch is surrounded by dense trees on one side, with adjacent modern buildings and landscaped grounds below.",
+    "3D Spatial": "1. 536044913 West 34 m  1. 536044915 East 34 m"
+   }
+  },
+  {
+   "536044915": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "570 m2",
+    "center": [
+     113.98542,
+     22.59976
+    ],
+    "bbox": [
+     [
+      113.98523,
+      22.59964
+     ],
+     [
+      113.9856,
+      22.59988
+     ]
+    ],
+    "Landmark": "POLYLINE: 1.惟品路 unclassified\nPOINT: 1.胡杨林 bus_stop 92.0",
+    "image_caption": "A rectangular sports pitch with a green surface and white boundary markings features two blue end zones and distinct court lines including circles and arcs. Located on a rooftop complex alongside other courts and red tracks, the pitch is bordered by trees that separate it from a nearby road. Below sits a modern building with a glass entrance and a flagpole in its landscaped area.",
+    "3D Spatial": "1. 536044914 West 34 m"
+   }
+  },
+  {
+   "536044916": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "573 m2",
+    "center": [
+     113.98573,
+     22.59966
+    ],
+    "bbox": [
+     [
+      113.98555,
+      22.59954
+     ],
+     [
+      113.98592,
+      22.59978
+     ]
+    ]
+   }
+  },
+  {
+   "536044918": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "573 m2",
+    "center": [
+     113.98605,
+     22.59956
+    ],
+    "bbox": [
+     [
+      113.98586,
+      22.59943
+     ],
+     [
+      113.98623,
+      22.59968
+     ]
+    ]
+   }
+  },
+  {
+   "536044919": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "568 m2",
+    "center": [
+     113.98636,
+     22.59945
+    ],
+    "bbox": [
+     [
+      113.98618,
+      22.59933
+     ],
+     [
+      113.98654,
+      22.59958
+     ]
+    ]
+   }
+  },
+  {
+   "536044920": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "574 m2",
+    "center": [
+     113.98667,
+     22.59935
+    ],
+    "bbox": [
+     [
+      113.98649,
+      22.59923
+     ],
+     [
+      113.98686,
+      22.59947
+     ]
+    ]
+   }
+  },
+  {
+   "881493873": {
+    "name": "工学院南广场",
+    "fclass": "park ",
+    "area": "8422 m2",
+    "center": [
+     113.99126,
+     22.60276
+    ],
+    "bbox": [
+     [
+      113.99067,
+      22.602
+     ],
+     [
+      113.99167,
+      22.60324
+     ]
+    ]
+   }
+  },
+  {
+   "881493874": {
+    "name": "工学院北广场",
+    "fclass": "park ",
+    "area": "7390 m2",
+    "center": [
+     113.99106,
+     22.60413
+    ],
+    "bbox": [
+     [
+      113.99048,
+      22.60376
+     ],
+     [
+      113.99162,
+      22.60449
+     ]
+    ]
+   }
+  },
+  {
+   "980004142": {
+    "name": "伐木",
+    "fclass": "restaurant ",
+    "area": "3427 m2",
+    "center": [
+     113.98503,
+     22.60326
+    ],
+    "bbox": [
+     [
+      113.98445,
+      22.60311
+     ],
+     [
+      113.98553,
+      22.60343
+     ]
+    ]
+   }
+  },
+  {
+   "17467638": {
+    "name": "启明楼",
+    "fclass": "library ",
+    "area": "11231 m2",
+    "center": [
+     113.98745,
+     22.60325
+    ],
+    "bbox": [
+     [
+      113.98656,
+      22.60254
+     ],
+     [
+      113.98839,
+      22.60383
+     ]
+    ],
+    "Landmark": "POINT: 1.法商学院 bus_stop 92.0",
+    "image_caption": "A rectangular sports pitch with alternating dark and light green stripes features white boundary lines, a center circle, and penalty boxes. The pitch is encircled by a deep red running track with marked lanes. A grandstand with yellow and blue seating is positioned along one side, while trees line the perimeter. Adjacent buildings with flat roofs and a parallel road complete the urban sports complex setting.",
+    "3D Spatial": ""
+   }
+  },
+  {
+   "15626533": {
+    "name": "中国科学院深圳先进技术研究院",
+    "fclass": "college ",
+    "area": "40537 m2",
+    "center": [
+     113.98539,
+     22.59881
+    ],
+    "bbox": [
+     [
+      113.98371,
+      22.59814
+     ],
+     [
+      113.98727,
+      22.59979
+     ]
+    ]
+   }
+  },
+  {
+   "15626534": {
+    "name": "深圳西丽高尔夫乡村球俱乐部",
+    "fclass": "golf_course ",
+    "area": "871648 m2",
+    "center": [
+     113.97927,
+     22.60444
+    ],
+    "bbox": [
+     [
+      113.97571,
+      22.59858
+     ],
+     [
+      113.98449,
+      22.61207
+     ]
+    ]
+   }
+  },
+  {
+   "1273961087": {
+    "name": null,
+    "fclass": "pitch ",
+    "area": "612 m2",
+    "center": [
+     113.98702,
+     22.59922
+    ],
+    "bbox": [
+     [
+      113.98682,
+      22.59909
+     ],
+     [
+      113.98722,
+      22.59934
+     ]
+    ]
+   }
+  },
+  {
+   "1317732916": {
+    "name": "南鱼",
+    "fclass": "sports_centre ",
+    "area": "2706 m2",
+    "center": [
+     113.98635,
+     22.60124
+    ],
+    "bbox": [
+     [
+      113.98607,
+      22.60096
+     ],
+     [
+      113.98674,
+      22.6016
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The restaurant features a modern, angular design with a flat, light-colored roof and smooth, tiled exterior. It is situated adjacent to a large modern building, bordered by a landscaped area with lush greenery and gardens. A road runs parallel to the structure, with parked vehicles nearby, while terraced gardens and lawns create a natural backdrop to the urban setting.",
+    "3D Spatial": "1. 18083922 East 19 m  1. 1317732917 Southwest 8 m"
+   }
+  },
+  {
+   "1317732917": {
+    "name": null,
+    "fclass": "swimming_pool ",
+    "area": "1276 m2",
+    "center": [
+     113.98628,
+     22.60121
+    ],
+    "bbox": [
+     [
+      113.98612,
+      22.60096
+     ],
+     [
+      113.98645,
+      22.60146
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "A rectangular swimming pool with vibrant blue water features parallel lane markings and starting blocks along one edge. The pool is situated adjacent to a modern building with a light-colored roof and is surrounded by landscaped grounds. The area includes paved pathways, a smaller decorative pool, geometric ponds, and well-maintained green spaces. A dense forest borders one side, while manicured gardens and walkways extend throughout the complex, creating a blend of natural and architectural elements.",
+    "3D Spatial": "1. 18083922 East 25 m"
+   }
+  },
+  {
+   "18083922": {
+    "name": null,
+    "fclass": "swimming_pool ",
+    "area": "232 m2",
+    "center": [
+     113.98653,
+     22.60119
+    ],
+    "bbox": [
+     [
+      113.98644,
+      22.60108
+     ],
+     [
+      113.98665,
+      22.60127
+     ]
+    ],
+    "Landmark": "",
+    "image_caption": "The vibrant blue, semi-circular swimming pool features a smooth surface and white border, situated adjacent to a rectangular lap pool on a paved deck area. The pool complex is surrounded by dense green vegetation and walkways, with a large building to one side and a body of water visible in the background. The landscape integrates structured architectural elements with natural greenery in an urban recreational setting.",
+    "3D Spatial": "1. 1317732917 West 25 m"
+   }
+  },
+  {
+   "18083921": {
+    "name": "采薇",
+    "fclass": "restaurant ",
+    "area": "1772 m2",
+    "center": [
+     113.987,
+     22.59981
+    ],
+    "bbox": [
+     [
+      113.98668,
+      22.59953
+     ],
+     [
+      113.9873,
+      22.60009
+     ]
+    ]
+   }
+  },
+  {
+   "976864556": {
+    "name": null,
+    "fclass": "water ",
+    "area": "4136 m2",
+    "center": [
+     113.97922,
+     22.60777
+    ],
+    "bbox": [
+     [
+      113.97873,
+      22.60747
+     ],
+     [
+      113.97972,
+      22.60808
+     ]
+    ]
+   }
+  },
+  {
+   "976864557": {
+    "name": null,
+    "fclass": "water ",
+    "area": "7347 m2",
+    "center": [
+     113.9775,
+     22.60612
+    ],
+    "bbox": [
+     [
+      113.97718,
+      22.60529
+     ],
+     [
+      113.97788,
+      22.60703
+     ]
+    ]
+   }
+  },
+  {
+   "976864558": {
+    "name": null,
+    "fclass": "water ",
+    "area": "1983 m2",
+    "center": [
+     113.97698,
+     22.6043
+    ],
+    "bbox": [
+     [
+      113.97677,
+      22.60398
+     ],
+     [
+      113.97721,
+      22.6046
+     ]
+    ]
+   }
+  },
+  {
+   "976864559": {
+    "name": null,
+    "fclass": "water ",
+    "area": "5065 m2",
+    "center": [
+     113.97626,
+     22.60358
+    ],
+    "bbox": [
+     [
+      113.97604,
+      22.60285
+     ],
+     [
+      113.97649,
+      22.60428
+     ]
+    ]
+   }
+  },
+  {
+   "976864560": {
+    "name": null,
+    "fclass": "water ",
+    "area": "2623 m2",
+    "center": [
+     113.98168,
+     22.60168
+    ],
+    "bbox": [
+     [
+      113.98138,
+      22.60135
+     ],
+     [
+      113.98199,
+      22.60203
+     ]
+    ]
+   }
+  },
+  {
+   "976864561": {
+    "name": null,
+    "fclass": "water ",
+    "area": "3111 m2",
+    "center": [
+     113.98043,
+     22.60271
+    ],
+    "bbox": [
+     [
+      113.98014,
+      22.60231
+     ],
+     [
+      113.98073,
+      22.60311
+     ]
+    ]
+   }
+  },
+  {
+   "976864562": {
+    "name": null,
+    "fclass": "water ",
+    "area": "4814 m2",
+    "center": [
+     113.98185,
+     22.60072
+    ],
+    "bbox": [
+     [
+      113.98137,
+      22.60034
+     ],
+     [
+      113.98232,
+      22.60108
+     ]
+    ]
+   }
+  },
+  {
+   "976864563": {
+    "name": null,
+    "fclass": "water ",
+    "area": "2633 m2",
+    "center": [
+     113.97729,
+     22.60144
+    ],
+    "bbox": [
+     [
+      113.97701,
+      22.60108
+     ],
+     [
+      113.97756,
+      22.60178
+     ]
+    ]
+   }
+  },
+  {
+   "17467637": {
+    "name": null,
+    "fclass": "water ",
+    "area": "7761 m2",
+    "center": [
+     113.98729,
+     22.60187
+    ],
+    "bbox": [
+     [
+      113.98619,
+      22.6014
+     ],
+     [
+      113.98829,
+      22.60233
+     ]
+    ]
+   }
+  },
+  {
+   "1317620001": {
+    "name": null,
+    "fclass": "water ",
+    "area": "753 m2",
+    "center": [
+     113.98658,
+     22.60276
+    ],
+    "bbox": [
+     [
+      113.98648,
+      22.60254
+     ],
+     [
+      113.98671,
+      22.60303
+     ]
+    ]
+   }
+  }
+ ],
+ "Polyline": [
+  {
+   "392868300": {
+    "name": "南科一路",
+    "fclass": "tertiary",
+    "length": "788 m",
+    "nodes": [
+     [
+      113.98964,
+      22.605
+     ],
+     [
+      113.99011,
+      22.60257
+     ],
+     [
+      113.99155,
+      22.60113
+     ]
+    ]
+   }
+  },
+  {
+   "536044871": {
+    "name": "惟新路",
+    "fclass": "unclassified",
+    "length": "577 m",
+    "nodes": [
+     [
+      113.98994,
+      22.59896
+     ],
+     [
+      113.99023,
+      22.59939
+     ],
+     [
+      113.99128,
+      22.60006
+     ],
+     [
+      113.99146,
+      22.6007
+     ],
+     [
+      113.99113,
+      22.60142
+     ],
+     [
+      113.98993,
+      22.60245
+     ],
+     [
+      113.9898,
+      22.60294
+     ]
+    ]
+   }
+  },
+  {
+   "536044873": {
+    "name": "惟品路",
+    "fclass": "unclassified",
+    "length": "387 m",
+    "nodes": [
+     [
+      113.98777,
+      22.59874
+     ],
+     [
+      113.98742,
+      22.59922
+     ],
+     [
+      113.9845,
+      22.60021
+     ]
+    ]
+   }
+  },
+  {
+   "536044874": {
+    "name": "惟理路",
+    "fclass": "unclassified",
+    "length": "77 m",
+    "nodes": [
+     [
+      113.98746,
+      22.59811
+     ],
+     [
+      113.98777,
+      22.59874
+     ]
+    ]
+   }
+  },
+  {
+   "536044875": {
+    "name": "惟才路",
+    "fclass": "unclassified",
+    "length": "590 m",
+    "nodes": [
+     [
+      113.9845,
+      22.60021
+     ],
+     [
+      113.98469,
+      22.60053
+     ],
+     [
+      113.98463,
+      22.60103
+     ],
+     [
+      113.98368,
+      22.60232
+     ],
+     [
+      113.98239,
+      22.60493
+     ]
+    ]
+   }
+  },
+  {
+   "695571943": {
+    "name": "大学路",
+    "fclass": "unclassified",
+    "length": "255 m",
+    "nodes": [
+     [
+      113.99157,
+      22.60155
+     ],
+     [
+      113.9904,
+      22.60263
+     ],
+     [
+      113.99021,
+      22.60337
+     ]
+    ]
+   }
+  },
+  {
+   "926524845": {
+    "name": "大学路",
+    "fclass": "unclassified",
+    "length": "192 m",
+    "nodes": [
+     [
+      113.99021,
+      22.60337
+     ],
+     [
+      113.99004,
+      22.60443
+     ],
+     [
+      113.99028,
+      22.60503
+     ]
+    ]
+   }
+  },
+  {
+   "929480769": {
+    "name": "丽康路",
+    "fclass": "tertiary",
+    "length": "587 m",
+    "nodes": [
+     [
+      113.98953,
+      22.60527
+     ],
+     [
+      113.98893,
+      22.60594
+     ],
+     [
+      113.98665,
+      22.60689
+     ],
+     [
+      113.98614,
+      22.60672
+     ],
+     [
+      113.98498,
+      22.60558
+     ]
+    ]
+   }
+  },
+  {
+   "929480771": {
+    "name": "丽康路",
+    "fclass": "tertiary",
+    "length": "811 m",
+    "nodes": [
+     [
+      113.9803,
+      22.61187
+     ],
+     [
+      113.98095,
+      22.60911
+     ],
+     [
+      113.98195,
+      22.60637
+     ],
+     [
+      113.98246,
+      22.60583
+     ],
+     [
+      113.98333,
+      22.60551
+     ]
+    ]
+   }
+  },
+  {
+   "955564009": {
+    "name": "二线关路",
+    "fclass": "unclassified",
+    "length": "148 m",
+    "nodes": [
+     [
+      113.99173,
+      22.60509
+     ],
+     [
+      113.99028,
+      22.60503
+     ]
+    ]
+   }
+  },
+  {
+   "957570512": {
+    "name": "二线关路",
+    "fclass": "unclassified",
+    "length": "59 m",
+    "nodes": [
+     [
+      113.99028,
+      22.60503
+     ],
+     [
+      113.98971,
+      22.60501
+     ]
+    ]
+   }
+  },
+  {
+   "973194554": {
+    "name": "笃学路",
+    "fclass": "tertiary",
+    "length": "80 m",
+    "nodes": [
+     [
+      113.98726,
+      22.59813
+     ],
+     [
+      113.98742,
+      22.59882
+     ]
+    ]
+   }
+  },
+  {
+   "973194562": {
+    "name": "幽兰路",
+    "fclass": "tertiary",
+    "length": "74 m",
+    "nodes": [
+     [
+      113.98364,
+      22.59838
+     ],
+     [
+      113.98388,
+      22.59901
+     ]
+    ]
+   }
+  },
+  {
+   "973194567": {
+    "name": "科研环路",
+    "fclass": "tertiary",
+    "length": "353 m",
+    "nodes": [
+     [
+      113.98742,
+      22.59882
+     ],
+     [
+      113.9842,
+      22.59988
+     ]
+    ]
+   }
+  },
+  {
+   "980019044": {
+    "name": "惟理路",
+    "fclass": "unclassified",
+    "length": "113 m",
+    "nodes": [
+     [
+      113.98985,
+      22.59794
+     ],
+     [
+      113.98994,
+      22.59896
+     ]
+    ]
+   }
+  },
+  {
+   "980019046": {
+    "name": "惟文路",
+    "fclass": "unclassified",
+    "length": "1244 m",
+    "nodes": [
+     [
+      113.98977,
+      22.60312
+     ],
+     [
+      113.98952,
+      22.60446
+     ],
+     [
+      113.98795,
+      22.60463
+     ],
+     [
+      113.98787,
+      22.60567
+     ],
+     [
+      113.98771,
+      22.60587
+     ],
+     [
+      113.98737,
+      22.60592
+     ],
+     [
+      113.98561,
+      22.60534
+     ],
+     [
+      113.98615,
+      22.60386
+     ],
+     [
+      113.98623,
+      22.60309
+     ],
+     [
+      113.9844,
+      22.60304
+     ],
+     [
+      113.98355,
+      22.60263
+     ]
+    ]
+   }
+  },
+  {
+   "1050942936": {
+    "name": "丽康路",
+    "fclass": "tertiary",
+    "length": "296 m",
+    "nodes": [
+     [
+      113.98514,
+      22.60537
+     ],
+     [
+      113.9879,
+      22.60607
+     ]
+    ]
+   }
+  },
+  {
+   "1050942937": {
+    "name": "丽康路",
+    "fclass": "tertiary",
+    "length": "189 m",
+    "nodes": [
+     [
+      113.98333,
+      22.60551
+     ],
+     [
+      113.98431,
+      22.60531
+     ],
+     [
+      113.98514,
+      22.60537
+     ]
+    ]
+   }
+  },
+  {
+   "1050942938": {
+    "name": "丽康路",
+    "fclass": "tertiary",
+    "length": "149 m",
+    "nodes": [
+     [
+      113.9879,
+      22.60607
+     ],
+     [
+      113.98856,
+      22.60592
+     ],
+     [
+      113.9892,
+      22.60552
+     ]
+    ]
+   }
+  },
+  {
+   "1050942939": {
+    "name": "丽康路",
+    "fclass": "tertiary",
+    "length": "74 m",
+    "nodes": [
+     [
+      113.9892,
+      22.60552
+     ],
+     [
+      113.98964,
+      22.605
+     ]
+    ]
+   }
+  },
+  {
+   "1050942942": {
+    "name": "丽康路",
+    "fclass": "tertiary",
+    "length": "143 m",
+    "nodes": [
+     [
+      113.98498,
+      22.60558
+     ],
+     [
+      113.98362,
+      22.60546
+     ]
+    ]
+   }
+  },
+  {
+   "1272389352": {
+    "name": null,
+    "fclass": "footway",
+    "length": "762 m",
+    "nodes": [
+     [
+      113.9875,
+      22.60314
+     ],
+     [
+      113.98635,
+      22.60318
+     ],
+     [
+      113.98614,
+      22.60302
+     ],
+     [
+      113.98451,
+      22.60299
+     ],
+     [
+      113.98366,
+      22.60261
+     ],
+     [
+      113.98477,
+      22.60085
+     ],
+     [
+      113.98587,
+      22.60085
+     ]
+    ]
+   }
+  },
+  {
+   "1272389357": {
+    "name": null,
+    "fclass": "footway",
+    "length": "258 m",
+    "nodes": [
+     [
+      113.98565,
+      22.60301
+     ],
+     [
+      113.98579,
+      22.60182
+     ],
+     [
+      113.98612,
+      22.60166
+     ],
+     [
+      113.98641,
+      22.6024
+     ]
+    ]
+   }
+  },
+  {
+   "1272389358": {
+    "name": null,
+    "fclass": "footway",
+    "length": "340 m",
+    "nodes": [
+     [
+      113.98621,
+      22.60191
+     ],
+     [
+      113.98685,
+      22.60208
+     ],
+     [
+      113.98736,
+      22.60203
+     ],
+     [
+      113.98876,
+      22.60254
+     ],
+     [
+      113.98831,
+      22.60288
+     ]
+    ]
+   }
+  },
+  {
+   "1272389359": {
+    "name": null,
+    "fclass": "footway",
+    "length": "77 m",
+    "nodes": [
+     [
+      113.98823,
+      22.60244
+     ],
+     [
+      113.98833,
+      22.60176
+     ]
+    ]
+   }
+  },
+  {
+   "1272389363": {
+    "name": null,
+    "fclass": "footway",
+    "length": "343 m",
+    "nodes": [
+     [
+      113.98614,
+      22.6017
+     ],
+     [
+      113.98676,
+      22.60134
+     ],
+     [
+      113.9877,
+      22.60177
+     ],
+     [
+      113.98923,
+      22.60186
+     ]
+    ]
+   }
+  },
+  {
+   "1272389372": {
+    "name": null,
+    "fclass": "footway",
+    "length": "218 m",
+    "nodes": [
+     [
+      113.98612,
+      22.60166
+     ],
+     [
+      113.98587,
+      22.60103
+     ],
+     [
+      113.98584,
+      22.59974
+     ]
+    ]
+   }
+  },
+  {
+   "1272389373": {
+    "name": null,
+    "fclass": "footway",
+    "length": "163 m",
+    "nodes": [
+     [
+      113.98587,
+      22.60022
+     ],
+     [
+      113.9871,
+      22.59947
+     ],
+     [
+      113.98716,
+      22.59956
+     ]
+    ]
+   }
+  },
+  {
+   "1272389385": {
+    "name": null,
+    "fclass": "footway",
+    "length": "134 m",
+    "nodes": [
+     [
+      113.9846,
+      22.60119
+     ],
+     [
+      113.98587,
+      22.60103
+     ]
+    ]
+   }
+  },
+  {
+   "1272389386": {
+    "name": null,
+    "fclass": "footway",
+    "length": "114 m",
+    "nodes": [
+     [
+      113.98579,
+      22.60182
+     ],
+     [
+      113.98543,
+      22.60085
+     ]
+    ]
+   }
+  },
+  {
+   "1272389387": {
+    "name": null,
+    "fclass": "footway",
+    "length": "199 m",
+    "nodes": [
+     [
+      113.98874,
+      22.60297
+     ],
+     [
+      113.98796,
+      22.60457
+     ]
+    ]
+   }
+  },
+  {
+   "1272389388": {
+    "name": null,
+    "fclass": "footway",
+    "length": "192 m",
+    "nodes": [
+     [
+      113.98621,
+      22.60383
+     ],
+     [
+      113.98798,
+      22.60433
+     ]
+    ]
+   }
+  },
+  {
+   "1272389394": {
+    "name": null,
+    "fclass": "footway",
+    "length": "85 m",
+    "nodes": [
+     [
+      113.98749,
+      22.60498
+     ],
+     [
+      113.98788,
+      22.6043
+     ]
+    ]
+   }
+  },
+  {
+   "1272389416": {
+    "name": null,
+    "fclass": "footway",
+    "length": "143 m",
+    "nodes": [
+     [
+      113.98957,
+      22.60269
+     ],
+     [
+      113.98942,
+      22.60374
+     ],
+     [
+      113.98959,
+      22.60391
+     ]
+    ]
+   }
+  },
+  {
+   "1272389417": {
+    "name": null,
+    "fclass": "footway",
+    "length": "95 m",
+    "nodes": [
+     [
+      113.98942,
+      22.60374
+     ],
+     [
+      113.98849,
+      22.6037
+     ]
+    ]
+   }
+  },
+  {
+   "1272389418": {
+    "name": null,
+    "fclass": "footway",
+    "length": "90 m",
+    "nodes": [
+     [
+      113.98885,
+      22.60453
+     ],
+     [
+      113.98887,
+      22.60371
+     ]
+    ]
+   }
+  },
+  {
+   "1272389419": {
+    "name": null,
+    "fclass": "footway",
+    "length": "71 m",
+    "nodes": [
+     [
+      113.98886,
+      22.60415
+     ],
+     [
+      113.98955,
+      22.60416
+     ]
+    ]
+   }
+  },
+  {
+   "1272389420": {
+    "name": null,
+    "fclass": "footway",
+    "length": "57 m",
+    "nodes": [
+     [
+      113.98849,
+      22.6037
+     ],
+     [
+      113.98823,
+      22.60371
+     ],
+     [
+      113.98833,
+      22.60346
+     ]
+    ]
+   }
+  },
+  {
+   "1272389421": {
+    "name": null,
+    "fclass": "footway",
+    "length": "125 m",
+    "nodes": [
+     [
+      113.98945,
+      22.60348
+     ],
+     [
+      113.98837,
+      22.6034
+     ],
+     [
+      113.9883,
+      22.6035
+     ]
+    ]
+   }
+  },
+  {
+   "1273961070": {
+    "name": null,
+    "fclass": "footway",
+    "length": "81 m",
+    "nodes": [
+     [
+      113.98562,
+      22.60244
+     ],
+     [
+      113.9864,
+      22.60251
+     ]
+    ]
+   }
+  },
+  {
+   "1273961075": {
+    "name": null,
+    "fclass": "footway",
+    "length": "47 m",
+    "nodes": [
+     [
+      113.98702,
+      22.60241
+     ],
+     [
+      113.98676,
+      22.60206
+     ]
+    ]
+   }
+  },
+  {
+   "1315358484": {
+    "name": "幽兰路",
+    "fclass": "tertiary",
+    "length": "101 m",
+    "nodes": [
+     [
+      113.98388,
+      22.59901
+     ],
+     [
+      113.9842,
+      22.59988
+     ]
+    ]
+   }
+  },
+  {
+   "1317619997": {
+    "name": null,
+    "fclass": "footway",
+    "length": "148 m",
+    "nodes": [
+     [
+      113.98791,
+      22.60269
+     ],
+     [
+      113.98756,
+      22.60318
+     ],
+     [
+      113.98711,
+      22.60257
+     ]
+    ]
+   }
+  },
+  {
+   "1317732922": {
+    "name": null,
+    "fclass": "footway",
+    "length": "199 m",
+    "nodes": [
+     [
+      113.98823,
+      22.60371
+     ],
+     [
+      113.98815,
+      22.60389
+     ],
+     [
+      113.98727,
+      22.60352
+     ],
+     [
+      113.98654,
+      22.60345
+     ]
+    ]
+   }
+  },
+  {
+   "1317732925": {
+    "name": null,
+    "fclass": "footway",
+    "length": "108 m",
+    "nodes": [
+     [
+      113.9871,
+      22.60404
+     ],
+     [
+      113.9875,
+      22.60314
+     ]
+    ]
+   }
+  },
+  {
+   "1317796346": {
+    "name": null,
+    "fclass": "footway",
+    "length": "95 m",
+    "nodes": [
+     [
+      113.98831,
+      22.60288
+     ],
+     [
+      113.98777,
+      22.60328
+     ],
+     [
+      113.98756,
+      22.60318
+     ]
+    ]
+   }
+  },
+  {
+   "1317796347": {
+    "name": null,
+    "fclass": "footway",
+    "length": "60 m",
+    "nodes": [
+     [
+      113.9883,
+      22.6035
+     ],
+     [
+      113.98777,
+      22.60328
+     ]
+    ]
+   }
+  },
+  {
+   "1317798513": {
+    "name": "惟品路",
+    "fclass": "unclassified",
+    "length": "265 m",
+    "nodes": [
+     [
+      113.99025,
+      22.59893
+     ],
+     [
+      113.98851,
+      22.59908
+     ],
+     [
+      113.98777,
+      22.59874
+     ]
+    ]
+   }
+  },
+  {
+   "1317798514": {
+    "name": "惟才路",
+    "fclass": "unclassified",
+    "length": "106 m",
+    "nodes": [
+     [
+      113.98239,
+      22.60493
+     ],
+     [
+      113.98227,
+      22.60531
+     ],
+     [
+      113.98246,
+      22.60583
+     ]
+    ]
+   }
+  }
+ ],
+ "Point": [
+  {
+   "8509612438": {
+    "name": null,
+    "fclass": "bench",
+    "coordinates": [
+     113.99135,
+     22.60308
+    ]
+   }
+  },
+  {
+   "8509612439": {
+    "name": null,
+    "fclass": "bench",
+    "coordinates": [
+     113.99119,
+     22.6028
+    ]
+   }
+  },
+  {
+   "8509612440": {
+    "name": null,
+    "fclass": "bench",
+    "coordinates": [
+     113.99099,
+     22.60298
+    ]
+   }
+  },
+  {
+   "8509612441": {
+    "name": null,
+    "fclass": "bench",
+    "coordinates": [
+     113.99092,
+     22.6028
+    ]
+   }
+  },
+  {
+   "8509612442": {
+    "name": null,
+    "fclass": "bench",
+    "coordinates": [
+     113.99161,
+     22.6027
+    ]
+   }
+  },
+  {
+   "12182405701": {
+    "name": "瑞幸咖啡",
+    "fclass": "cafe",
+    "coordinates": [
+     113.99054,
+     22.6032
+    ]
+   }
+  },
+  {
+   "12194934301": {
+    "name": "麦当劳",
+    "fclass": "fast_food",
+    "coordinates": [
+     113.98437,
+     22.60073
+    ]
+   }
+  },
+  {
+   "9007447044": {
+    "name": null,
+    "fclass": "traffic_signals",
+    "coordinates": [
+     113.9842,
+     22.59988
+    ]
+   }
+  },
+  {
+   "8488433286": {
+    "name": "工学院",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.99018,
+     22.60326
+    ]
+   }
+  },
+  {
+   "8597697580": {
+    "name": "科研楼",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.99141,
+     22.59957
+    ]
+   }
+  },
+  {
+   "8632225710": {
+    "name": "深大总医院总站",
+    "fclass": "bus_station",
+    "coordinates": [
+     113.98307,
+     22.59894
+    ]
+   }
+  },
+  {
+   "8860449486": {
+    "name": "工学院",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.99025,
+     22.60352
+    ]
+   }
+  },
+  {
+   "9007433058": {
+    "name": "深大丽湖校区东门",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.9904,
+     22.60216
+    ]
+   }
+  },
+  {
+   "9007433062": {
+    "name": "南科大中心",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.99117,
+     22.59978
+    ]
+   }
+  },
+  {
+   "9007433063": {
+    "name": "南科大微电子",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.99022,
+     22.59847
+    ]
+   }
+  },
+  {
+   "12196276896": {
+    "name": "守慧楼",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98758,
+     22.59829
+    ]
+   }
+  },
+  {
+   "12196276897": {
+    "name": "采薇",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98673,
+     22.59949
+    ]
+   }
+  },
+  {
+   "12196276898": {
+    "name": "胡杨林",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98477,
+     22.60056
+    ]
+   }
+  },
+  {
+   "12196276899": {
+    "name": "梧桐树",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98343,
+     22.6027
+    ]
+   }
+  },
+  {
+   "12196276900": {
+    "name": "紫罗兰",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98237,
+     22.60491
+    ]
+   }
+  },
+  {
+   "12196361701": {
+    "name": "揽月岭南",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98541,
+     22.60302
+    ]
+   }
+  },
+  {
+   "12196361702": {
+    "name": "四方楼站",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98599,
+     22.60452
+    ]
+   }
+  },
+  {
+   "12196361703": {
+    "name": "四方楼北",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.9871,
+     22.60586
+    ]
+   }
+  },
+  {
+   "12196361704": {
+    "name": "法商学院",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98864,
+     22.60451
+    ]
+   }
+  },
+  {
+   "12196361705": {
+    "name": "惟新门",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98967,
+     22.6033
+    ]
+   }
+  },
+  {
+   "12196361706": {
+    "name": "至月岭东站",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.99139,
+     22.60072
+    ]
+   }
+  },
+  {
+   "12196361707": {
+    "name": "惟艺门",
+    "fclass": "bus_stop",
+    "coordinates": [
+     113.98994,
+     22.59903
+    ]
+   }
+  }
+ ]
+}

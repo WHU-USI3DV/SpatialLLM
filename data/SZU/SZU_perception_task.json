@@ -1,0 +1,514 @@
+{
+  "distance_cognition": [
+    {
+      "id": 1,
+      "question": "According to the geographic data, what is the approximate straight-line distance from Ruixin Coffee to McDonald's?\nA. 550-600m B. 600-650m C. 650-700m D. 700-750m\n",
+      "Ground_truth":"B"
+    },
+    {
+      "id": 2,
+      "question":"Calculate the straight-line distance from 梧桐树 to 至快体育馆:\nA. 0-50m B. 50-100m C. 100-150m D. 150-200m",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 3,
+      "question":"What is the approximate straight-line distance from 文汇礼堂 dormitory to 学术交流中心（B3）?\nA. 200-250m B. 150-200m C. 100-150m D. 50-100m",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 4,
+      "question":"Compute the straight-line distance from 守正楼 to 采薇 restaurant:\nA. 350-400m B. 400-450m C. 450-500m D. 500-550m",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 5,
+      "question":"Calculate the straight-line distance from 学术交流中心(B3) to 至快体育馆:\nA. 500-550m B. 550-600m C. 600-650m D. 650-700m",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 6 ,
+      "question": "What is the straight-line distance from 深圳大学总医院 to 工学院北广场?\nA. 850-900m B. 900-950m C. 950-1000m D. 1000-1050m",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 7 ,
+      "question": "What is the approximate straight-line distance from 明理楼 to 四方楼?\nA. 150-200m B. 200-250m C. 250-300m D. 300-350m",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 8  ,
+      "question": "Determine the straight-line distance from 紫罗兰 dormitory to 冬青树:\nA. 0-50m B. 100-150m C. 50-150m D. 150-200m",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 9,
+      "question": "Calculate the straight-line distance from 山楂树 dormitory to 至快体育场:\nA. 150-200m B. 200-250m C. 250-300m D. 300-350m",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 10,
+      "question": "Determine the straight-line distance from 青冈栎 dormitory to 南鱼 Swimming Pool:\nA. 300-350m B. 350-400m C. 400-450m D. 450-500m",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 11,
+      "question": "What is the straight-line distance from 法商学院 Bus Stop to 四方楼北 Bus Stop?\nA. 200-250m B. 250-300m C. 300-350m D. 350-400m",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 12,
+      "question": "Calculate the straight-line distance from the building (osm_id:536044905) to the grass (osm_id:1273961090):\nA. 00-50m B. 50-100m C. 100-150m D. 150-200m",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 13,
+      "question": "What is the approximate straight-line distance from 梧桐树 dormitory to 工学院北座?\nA. 650-700m B. 700-750m C. 750-800m D. 800-850m",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 14,
+      "question": "Determine the straight-line distance from 守慧楼 Bus Stop to 胡杨林 Bus Stop:\nA. 250-300m B. 300-350m C. 350-400m D. 400-450m",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 15,
+      "question": "Calculate the straight-line distance from 揽月岭南 Bus Stop to 四方楼站 Bus Stop:\nA. 100-150m B. 150-200m C. 200-250m D. 250-300m",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 16,
+      "question": "Calculate the straight-line distance from the library (启明楼) to the swimming pool (南鱼):\nA. 250-300m B. 300-350m C. 350-400m D. 400-450m",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 17,
+      "question": "Calculate the straight-line distance from building (osm_id:536044899) to building osm_id(536044900):\nA. 0-50m B. 50-100m C. 100-150m D. 150-200m",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 18,
+      "question": "What is the approximate straight-line distance from grass area (osm_id:1273961071) to grass area (osm_id:1273961074)?\nA. 250-300m B. 300-350m C. 350-400m D. 400-450m",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 19,
+      "question": "What is the straight-line distance between grass areas: from osm_id \"1273961072\" to osm_id \"1273961084\"?\nA. 0-50m B. 50-100m C. 100-150m D. 150-200m",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 20,
+      "question": "Calculate the straight-line distance from building 山楂树 to grass area osm_id \"1273961085\":\nA. 400-450m B. 450-500m C. 500-550m D. 550-600m",
+      "Ground_truth": "D"
+    }
+
+  ],
+  "position_cognition": [
+    {
+      "id": 21 ,
+      "question": " Which direction is area(osm_id:536044913) relative to 国家超级计算深圳中心（深圳云计算中心）?\nA. Northwest B. North C. Northeast D. Southwest",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 22,
+      "question": " Which direction is 文汇礼堂 relative to the grass (osm_id:1273961074)?\nA. Southwest\nB. South\nC. Northeast\nD. North",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 23,
+      "question": "What is located between 明德楼 and 守正楼?\nA. 四方楼\nB. 明律楼\nC. 工学院大楼北座\nD. 工学院大楼南座\n",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 24,
+      "question": "When walking from 文汇礼堂 to 学术交流中心（B3）,you are heading in which direction?\nA. Northwest\nB. Northeast\nC. East\nD. North",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 25,
+      "question": " Which direction is 至快体育馆 relative to 明德楼?\nA. South\nB. Southwest\nC. Southeast\nD. North",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 26,
+      "question": " Which direction is 文汇礼堂 relative to the 风信子?\nA. Northeast\nB. Southwest\nC. Southeast\nD. North",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 27,
+      "question": " When walking from 紫罗兰 to 冬青树,you are heading in which direction?\nA. North\nB. Northwest\nC. Southeast\nD. South",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 28,
+      "question": " When walking from 青冈栎 to 梧桐树,you are heading in which direction?\nA. North\nB. Northwest\nC. Southeast\nD. South",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which direction is 至快体育馆 relative to the 梧桐树?\nA. Southeast\nB. South\nC. East\nD. West",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 30,
+      "question": " From 至快体育馆 to 启明楼, you would walk in which direction?\nA. East\nB. West\nC. North\nD. South",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 31,
+      "question": "Which direction is 文汇礼堂 relative to the forest area '至月岭'?\nA. North\nB. South\nC. East\nD. West",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which direction is the grass area (osm_id:1273961069) relative to 守正楼?\nA. North\nB. South\nC. East\nD. Southeast",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 33,
+      "question": "Which direction is 风雨操场 relative to the 胡杨林?\nA. North\nB. South\nC. East\nD. West",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which direction is the building (osm_id:980019041) relative to the building(osm_id:536044899)?\nA. North\nB. West\nC. East\nD. South",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 35,
+      "question": "From the McDonald's (fast_food point), which building lies in the northwest direction?\nA. 风信子\nB. 紫罗兰\nC. 胡杨林\nD. 山楂树",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 36,
+      "question": " From 化学与环境工程学院 to 材料学院, you would walk in which direction?\nA. North\nB. South\nC. East\nD. West",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which direction is the pitch (osm_id:536044914) relative to the 至畅体育馆（C3）?\nA. Northwest\nB. Southeast\nC. South\nD. West",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 38,
+      "question": "The 梧桐树 is located in which direction from 胡杨林?\nA. North\nB. South\nC. East\nD. West",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 39,
+      "question": "The grass area (osm_id: 1273961071) is located in which direction from the grass area (osm_id: 1273961072)?\nA. East\nB. West\nC. Southwest\nD. Northeast",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 40,
+      "question": "Building (osm_id: 980004154) is located in which direction from building (osm_id: 980004142)?\nA. West\nB. North\nC. South\nD. East",
+      "Ground_truth": "D"
+    }
+  ],
+  "poi_cognition": [
+    {
+      "id": 41,
+      "question": "What is located at coordinates (113.98475, 22.60243)?\nA. 至快体育场\nB. 至快体育馆\nC. 三角梅宿舍\nD. 伐木食堂",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 42,
+      "question": "What is located at coordinates (113.987456, 22.603277)?\nA. 学术交流中心\nB. 文汇礼堂\nC. 启明楼\nD. 守正楼",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 43,
+      "question": "What facility can be found at coordinates (113.985267, 22.600401)?\nA. 伐木食堂\nB. 南鱼体育馆\nC. 至畅体育馆（C3）\nD. 风雨操场",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 44,
+      "question": "What structure is located at coordinates (113.986997, 22.599814)?\nA. 风雨操场\nB. 采薇\nC. 南鱼体育馆\nD. 伐木食堂",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which sports facility is at coordinates (113.986352, 22.601244)?\nA. Forest\nB. Basketball Court\nC. Swimming Pool\nD. Track Field",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 46,
+      "question": "What building is at coordinates (113.983354, 22.599507)?\nA. 山楂树\nB. 风信子\nC. 胡杨林\nD. 紫罗兰",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 47,
+      "question": "What building can be found at coordinates (113.989156, 22.603964)?\nA. 明律楼\nB. 守正楼\nC. 明德楼\nD. 启明楼",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which facility is located at coordinates (113.985013, 22.602171)?\nA. 至快体育场\nB. 南鱼体育馆\nC. 风雨操场\nD. Basketball Court",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 49,
+      "question": "What building can be found at coordinates (113.989565, 22.602396)?\nA. 守正楼\nB. 文汇礼堂\nC. 学术交流中心（B3）\nD. 明律楼",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 50,
+      "question": "What facility is north of coordinates (113.986000, 22.600800)?\nA. Basketball Court\nB. 风雨操场\nC. 风信子\nD. 南鱼体育馆",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 51,
+      "question": "Which road intersects with coordinates (113.990227, 22.599388)?\nA. 惟文路\nB. 惟新路\nC. 惟理路\nD. 大学路",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 52,
+      "question": "Which bus stop is located on 惟新路 near coordinates (113.990213, 22.602659)?\nA. 惟艺门\nB. 深大丽湖校区东门\nC. 南科大中心\nD. 法商学院",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 53,
+      "question": "The coordinates (113.984800, 22.603000) are situated between which two buildings?\nA. 伐木食堂and启明楼\nB. 风雨操场and南鱼体育馆\nC. 四方楼and启明楼\nD. 至快体育馆and伐木食堂",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 54,
+      "question": "What building is west of coordinates (113.990500, 22.601200)?\nA. 化学与环境工程学院（B1）\nB. 材料学院（B2）\nC. 工学院大楼南座\nD. 学术交流中心（B3）",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 55,
+      "question": "Which dormitory is closest to coordinates (113.983500, 22.603672)?\nA. 三角梅\nB. 冬青树\nC. 青冈栎\nD. 紫罗兰",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 56,
+      "question": "Which dormitory is closest to coordinates (113.984272, 22.600568)?\nA. 山楂树\nB. 胡杨林\nC. 风信子\nD. 紫罗兰",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 57,
+      "question": "Which grass area is closest to coordinates (113.988400, 22.602300)?\nA. Grass (osm_id: 1273961068)\nB. Grass (osm_id: 1273961069)\nC. Grass (osm_id: 1274232077)\nD. Grass (osm_id: 1273961071)",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 58,
+      "question": "What facility is wast of coordinates (113.985000, 22.602000)?\nA. Grass\nB. Forest Area\nC. Construction Site\nD. 至快体育馆",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 59,
+      "question": "What structure is north of coordinates (113.983650, 22.609300)?\nA. Building (osm_id: 1)\nB. Building (osm_id: 2)\nC. Building (osm_id: 3)\nD. Building (osm_id: 4)",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 60,
+      "question": "What grass area is west of coordinates (113.987300, 22.602300)?\nA. Grass (osm_id: 1273961077)\nB. Grass (osm_id: 1273961078)\nC. Grass (osm_id: 1273961080)\nD. Grass (osm_id: 1273961073)",
+      "Ground_truth": "B"
+    }
+
+  ],
+  "route_plan": [
+    {
+      "id": 61,
+      "question":  "What's the most direct route from 风信子 dormitory to 伐木 restaurant?\nA. Take 幽兰路 north → Connect to 惟才路 → Pass 至快体育馆 → Turn right to reach 伐木 restaurant\nB. Take 科研环路 northeast → Connect to 惟品路 → Turn north to reach 伐木 restaurant\nC. Follow 笃学路 north → Turn right onto 惟品路 → Continue until reaching 伐木 restaurant\nD. Take 惟才路 north → Pass through 至快体育场 → Continue straight to reach 伐木 restaurant",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 62,
+      "question":  "If you are at location (113.984762, 22.603016) near 至快体育场, what's the best route to reach 启明楼?\nA. Walk along 惟文路 → Pass by 守正楼 courtyard → Access 启明楼 from east\nB. Pass through 四方楼 plaza → Cross the grass area → Enter 启明楼 from south\nC. Take 惟文路 east → Follow the pedestrian path → Reach 启明楼\nD. Cross the sports field → Walk through the garden near 文汇礼堂 → Enter 启明楼 from north",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 63,
+      "question":  "From 南鱼游泳池 to 文汇礼堂, which is the correct route?\nA. Follow footpath (osm_id: 1272389358) northeast → Pass by 启明楼 → Reach 文汇礼堂\nB. Follow footpath (osm_id: 1272389363) east directly → Reach 文汇礼堂\nC. Follow footpath (osm_id: 1272389363) east → Pass through plaza (osm_id: 881493873) → Reach 文汇礼堂\nD. Walk along the pool side → Cross grass area (osm_id: 1273961072) → Enter 文汇礼堂 from south",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 64,
+      "question":  "From 冬青树 to bus stop 四方楼北, which is the correct route?\nA. Take 惟才路 north → Turn right onto 丽康路 → Reach the bus stop\nB. Take 惟才路 north → Pass through grass area (osm_id: 8507771) → Follow 惟文路 west to the bus stop\nC. Walk along footpath (osm_id: 1272389352) → Pass by 四方楼 → Reach the bus stop from south\nD. Take 惟文路 north → Turn right after passing 至快体育馆 → Arrive at the bus stop",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 65,
+      "question":  "Which is the correct route from 紫罗兰 to 至快体育馆?\nA. Take 丽康路 south → Turn onto 惟文路 → Reach the stadium from west\nB. Take 惟才路 south → Turn onto 南科一路 → Reach the stadium from east\nC. Take 惟才路 north → Turn onto 惟文路 → Reach the stadium from south\nD. Take 惟才路 south → Turn onto 惟文路 → Straight ahead to reach the stadium",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 66,
+      "question":  "From 明理楼 to 伐木餐厅, which route is the SHORTEST path?\nA. Follow footpath (osm_id: 1272389388) directly → Reach 伐木餐厅\nB. Take 惟文路 north → Reach 伐木餐厅 from west\nC. Follow footpath (osm_id: 1272389388) → Turn onto 惟文路 north → Head southwest to 伐木餐厅\nD. Take 南科一路 → Turn onto 惟文路 west → Reach 伐木餐厅",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 67,
+      "question":  "What's the best route from bus stop 采薇 to bus stop 南科大中心?\nA. Take 惟品路 east → Turn left onto 惟才路 north → Reach the destination\nB. Take 惟品路 east → Turn right onto 科研环路 → Reach the destination\nC. Take 惟品路 west → Reach the destination\nD. Take 惟品路 east → Turn left onto 南科一路 → Reach the destination",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 68,
+      "question":  "What's the correct path from 明理楼 to 文汇礼堂?\nA. Take footpath (osm_id: 1272389387) north → Reach 文汇礼堂\nB. Take footpath (osm_id: 1272389387) south → Turn onto 惟文路 west → Reach 文汇礼堂\nC. Take footpath (osm_id: 1272389387) south → Cross grass area (osm_id: 1273961074) → Reach 文汇礼堂\nD. Follow footpath (osm_id: 1272389416) → Pass through plaza → Reach 文汇礼堂",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 69,
+      "question":  "What's the correct route from 风信子 to bus stop 采薇?\nA. Take 幽兰路 → Turn onto 南科一路 → Reach the bus stop\nB. Take 幽兰路 → Turn onto 惟品路 → Reach the bus stop\nC. Take 幽兰路 → Turn onto 笃学路 → Reach the bus stop\nD. Take 幽兰路 → Turn onto 科研环路 → Reach the bus stop",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 70,
+      "question":  "What's the correct route from 伐木 to 文汇礼堂?\nA. Take footpath (osm_id: 1272389372) → Cross grass area (osm_id: 1273961071) → Reach 文汇礼堂\nB. Follow footpath (osm_id: 1272389357) across grass area → Take 惟文路 east → Reach 文汇礼堂\nC. Follow footpath (osm_id: 1272389358) directly → Pass by 四方楼 → Reach 文汇礼堂\nD. Follow footpath (osm_id: 1272389357) across grass area → Take footpath (osm_id: 1272389358) → Reach 文汇礼堂",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 71,
+      "question":  "What's the correct route from 材料学院 (B2) to 文汇礼堂?\nA. Take 惟新路 north → Turn left onto footpath (osm_id: 1272389353) → Reach 文汇礼堂\nB. Take 惟新路 north → Continue straight on 南科一路 → Reach 文汇礼堂\nC. Take 惟新路 north → Turn right onto footpath (osm_id: 1272389358) → Reach 文汇礼堂\nD. Take 惟新路 north → Cross plaza (osm_id: 881493873) → Reach 文汇礼堂",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 72,
+      "question":  "What's the correct route from bus stop 惟艺门 to bus stop 四方楼北?\nA. Take 惟新路 north → Turn onto 惟品路 west → Cross grass area (osm_id: 1273961086) → Reach the destination\nB. Take 惟新路 north → Continue straight on 南科一路 → Reach the destination\nC. Take 惟新路 north → Turn onto 惟文路 northwest → Reach the destination\nD. Take 惟新路 north → Turn onto 大学路 → Pass by 四方楼 → Reach the destination",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 73,
+      "question":  "I'm near a swimming pool and I want to go to the basketball court to play, which of the following is the correct way to go？\nA. Follow 惟文路 south → Turn east at the intersection → Reach the basketball courts\nB. Take footpath (osm_id: 1272389372) south → Turn onto 惟文路 → Reach the basketball courts\nC. Take footpath (osm_id: 1272389373) → Pass through grass area → Reach the basketball courts\nD. Take footpath (osm_id: 1272389372) south → Reach the basketball courts",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 74,
+      "question":  "If you are at location (113.986127, 22.599645), which is the correct route to McDonald's?\nA. Take 惟品路 east → Turn north onto 惟才路 → Reach McDonald's\nB. Take 惟品路 west → Turn south onto 惟才路 → Pass by 山楂树 to reach McDonald's\nC. Take 惟品路 west → Turn north onto 科研环路 → Reach McDonald's\nD. Take 惟品路 west → Turn north onto 惟才路 → Reach McDonald's",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 75,
+      "question":  "From 紫罗兰 to 胡杨林, which single road leads directly to the destination?\nA. Take 丽康路 south\nB. Take 惟文路 south\nC. Take 惟才路 south\nD. Take 南科一路 south",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 76,
+      "question":  "Which roads should you pass through from 至快体育场 to bus stop 四方楼北?\nA. You need to pass through 大学路 and 南科一路\nB. You need to pass through 惟才路 and 南科一路\nC. You need to pass through 惟文路 and 丽康路\nD. You need to pass through 惟才路 and 惟文路",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 77,
+      "question":  "The route from 梧桐树 to building (osm_id: 3) crosses which of these pairs of roads?\nA. The path crosses both 惟文路 and 惟才路\nB. The path crosses both 惟才路 and 丽康路\nC. The path crosses both 南科一路 and 丽康路\nD. The path crosses both 惟才路 and 大学路",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 78,
+      "question":  "What's the correct route from the grass area east of 至快体育场 to bus stop 惟新门?\nA. Follow footpath (osm_id: 1273961070) east → Turn onto 南科一路 south → Reach the bus stop\nB. Follow footpath (osm_id: 1273961070) east → Turn onto 惟文路 → Reach the bus stop\nC. Follow footpath (osm_id: 1273961070) east → Cross grass area (osm_id: 1273961072) → Reach the bus stop\nD. Follow footpath (osm_id: 1273961070) east → Continue on footpath (osm_id: 980019045) east → Reach the bus stop",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 79,
+      "question":  "Among these paths from 守正楼 to 明德楼, which one is INCORRECT?\nA. Follow footpath (osm_id: 1272389387)\nB. Follow footpath (osm_id: 1272389418)\nC. Take 惟文路\nD. Follow footpath (osm_id: 1272389353)",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 80,
+      "question":  "Which route description from 学术交流中心 (B3) to 化学与环境工程学院 (B1) is CORRECT?\nA. Take 惟新路 south or follow footpath (osm_id: 1272389354) south to reach the destination\nB. Take 大学路 south to reach the destination\nC. Take 南科一路 south, then turn onto 惟品路 to reach the destination\nD. Follow footpath (osm_id: 1272389416) south to reach the destination",
+      "Ground_truth": "A"
+    }
+  ],
+  "grounding": [
+    {
+      "id": 81,
+      "question": "Which building is located near 惟才路, has solar panels on its roof, and features predominantly glass windows on its facade?\nA. 四方楼\nB. 文汇礼堂 (university building)\nC. 采薇 (restaurant)\nD. 三角梅 (dormitory building)",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 82,
+      "question": "Which building has a swimming pool?\nA. 南鱼\nB. 至快体育馆\nC. 至畅体育馆 (C3)\nD. 风雨操场",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 83,
+      "question": "Which building has distinctive circular ventilation fans or turbines on its rooftop?\nA. 材料学院（B2）\nB. 风信子\nC. 学术交流中心（B3）\nD. 国家超级计算深圳中心",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 84,
+      "question": "Which building near 丽康路 has a white facade with solar panels on top?\nA. 青冈栎\nB. 紫罗兰\nC. 三角梅\nD. 山楂树",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 85,
+      "question": "Which grassy area is located near a construction zone and bordered by a curved road?\nA. Grass area with osmid:1273961090\nB. Grass area with osmid:1273961086\nC. Grass area with osmid:8507771\nD. Grass area with osmid:1273961088",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 86,
+      "question": "Which building has a flat roof with visible mechanical units and cylindrical structures?\nA. Building with osmid:536044899\nB. 工学院大楼北座\nC. 风信子\nD. 山楂树",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 87,
+      "question": "Which building features a distinctive green rooftop with a series of parallel bars?\nA. 四方楼\nB. 至快体育馆\nC. 守正楼\nD. 启明楼",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 88,
+      "question": "Which forest area is located near a large white-roofed building with solar panels?\n\nA. Forest with osmid:17467636\nB. Forest with osmid:8507769\nC. Forest with osmid:980001097\nD. Forest with osmid:1273961068",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 89,
+      "question": "Which building shows weathering and rust patches on its white corrugated metal roof?\n\nA. Building with osmid:536044899\nB. Building with osmid:7\nC. Building with osmid:536044900\nD. 风雨操场",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 90,
+      "question": "Which building has a rooftop with extensive solar panels arranged in neat, parallel rows?\n\nA. 冬青树\nB. 学术交流中心（B3）\nC. 文汇礼堂\nD. 采薇",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 91,
+      "question": "Which building has a small staircase outside?\n\nA. Building with osmid:1\nB. Building with osmid:6\nC. Building with osmid:2\nD. Building with osmid:8",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 92,
+      "question": "Which building is adjacent to a winding road and has a flyover connected to other buildings?\nA. 文汇礼堂\nB. 紫罗兰\nC. 至快体育馆\nD. 伐木",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 93,
+      "question": "Which of the following grass is surrounded by sidewalk and pond?\n\nA. Grass area with osmid:1273961072\nB. Grass area with osmid:1273961082\nC. Grass area with osmid:1273961073\nD. Grass area with osmid:1273961074",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 94,
+      "question": "Which building is located on the construction area and has a lower height?\n\nA. Building with osmid:1\nB. Building with osmid:4\nC. Building with osmid:3\nD. Building with osmid:8",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 95,
+      "question": "Which building has a pond and multiple smaller buildings around it?\n\nA. Building with osmid:1\nB. Building with osmid:2\nC. Building with osmid:3\nD. Building with osmid:4",
+      "Ground_truth": "A"
+    },
+    {
+      "id": 96,
+      "question": "Which building is located on a construction site with a roof that has significant weathering and linear texture?\n\nA. Building with osmid:3\nB. Building with osmid:6\nC. Building with osmid:1\nD. Building with osmid:2",
+      "Ground_truth": "B"
+    },
+    {
+      "id": 97,
+      "question": "Which building has sports facilities nearby?\nA. 冬青树\nB. 文汇礼堂\nC. Building with osmid:980019041\nD. Building with osmid:536044900",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 98,
+      "question": "Which building, rectangular in shape and located on a construction site, features a corrugated texture and is surrounded by several cars?A. Building with osmid:6\nB. Building with osmid:7\nC. Building with osmid:8\nD. Building with osmid:2",
+      "Ground_truth": "D"
+    },
+    {
+      "id": 99,
+      "question": "Which building has a white exterior, solar panels on its roof, and is centrally located among the dormitory buildings?\nA. 紫罗兰\nB. 风信子\nC. 三角梅\nD. 梧桐树",
+      "Ground_truth": "C"
+    },
+    {
+      "id": 100,
+      "question": "Which basketball court is located directly behind 至畅体育馆?\nA. Pitch with osmid:536044913\nB. Pitch with osmid:536044920\nC. Pitch with osmid:536044916\nD. Pitch with osmid:536044919",
+      "Ground_truth": "A"
+    }
+  ]
+}
