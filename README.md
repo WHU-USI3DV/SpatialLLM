@@ -1,4 +1,6 @@
-# SpatialLLM：Enhancing Large Language Models for Urban Spatial Understanding
+# SpatialLLM：Enhancing Large Language Models for Urban Spatial Intelligence
+
+[Paper](https://arxiv.org/abs/2505.12703)
 
 ## 📋 Overview
 
