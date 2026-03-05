@@ -76,7 +76,7 @@ We provide multiple examples demonstrating various spatial understanding capabil
 
 # 🤝 Acknowledgement
 
-SpatialLLM is built upon the extremely wonderful [UrbanBIS](https://github.com/fullcyxuc/B-Seg)
+SpatialLLM is built upon the extremely wonderful [UrbanBIS](https://github.com/fullcyxuc/B-Seg).
 
 # Contact us
 
